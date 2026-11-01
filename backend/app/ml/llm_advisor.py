@@ -174,8 +174,8 @@ Analyze this candidate Managed Aquifer Recharge (MAR) site for the Central Groun
 - Contamination Risk Tier: {kwargs.get('risk_category')}
 
 Return a JSON object with:
-1. "civic_summary": Plain English explanation for Gram Panchayat on why this site was selected.
-2. "engineering_rationale": Civil hydrological justification including catchment drainage and soil porosity.
+1. "civic_summary": A detailed, in-depth AI explanation in natural language. Explain clearly and thoroughly WHY this specific site is recommended based on the LIME/SHAP physical features provided. Make it comprehensive (at least 3-4 sentences) but ensure it remains very simple to understand for a layperson. Avoid overly complex engineering jargon.
+2. "engineering_rationale": Civil hydrological justification including catchment drainage and soil porosity. Keep it relatively accessible.
 3. "recommended_structure": Exact structure type and recommended dimensions (length, breadth, depth).
 4. "pre_construction_rise_forecast": Estimated 12-month water table rise in meters (e.g. "+1.8m to +2.4m") under normal monsoon.
 5. "contamination_analysis": Detailed assessment of potential contamination vectors (agricultural, industrial, sewage).

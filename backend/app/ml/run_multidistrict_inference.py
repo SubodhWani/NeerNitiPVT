@@ -30,12 +30,17 @@ from sqlalchemy import text
 # Load environment configuration (.env)
 backend_root = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
 sys.path.append(backend_root)
+
+from app.ml.custom_model import FactorizedPhysicsStackingEnsemble
+import __main__
+__main__.FactorizedPhysicsStackingEnsemble = FactorizedPhysicsStackingEnsemble
 load_dotenv(os.path.join(backend_root, ".env"))
 
 from app.db.models import Explanation, Region, Site, SiteFeature
 from app.db.session import SessionLocal
 from app.ml.llm_advisor import advisor as llm_advisor
 from app.ml.module4_risk_screening.buffer_analysis import ProximityAnalyzer
+from app.ml.module1_recommendation.advanced_feature_engineer import engineer_all_features, EXPECTED_FEATURES
 
 # -----------------------------------------------------------------------------
 # Google Earth Engine Initialization
@@ -249,18 +254,54 @@ def query_nearest_groundwater_level(db, lat: float, lng: float, is_alluvial: boo
     return 9.8 if is_alluvial else 19.4
 
 
-def build_explanation_text(score: float, top_shap_features: list[tuple[str, float]]) -> str:
-    tier = "High" if score >= 0.75 else "Moderate" if score >= 0.50 else "Low"
-    positives = [feat for feat, val in top_shap_features if val > 0]
-    negatives = [feat for feat, val in top_shap_features if val <= 0]
+FEATURE_PHRASE_LOOKUP_EXT = {
+    "slope_deg": ("gentle flat terrain which helps water settle", "steep slopes which makes water run off too fast"),
+    "drainage_density": ("high natural drainage networks bringing water", "lack of natural streams nearby"),
+    "ndvi": ("good amount of surface vegetation", "barren land with no vegetation"),
+    "monsoon_rainfall_mm": ("heavy monsoon rainfall in this area", "low seasonal rainfall"),
+    "rainfall_mm": ("heavy rainfall in this area", "low seasonal rainfall"),
+    "distance_to_river_m": ("close proximity to river networks", "being very far from any surface water bodies"),
+    "depth_to_groundwater_m": ("deep underground space available to store water", "shallow water levels that might cause flooding"),
+    "geology_hardrock": ("fractured hard-rock layers", "soft sandy foundations"),
+    "soil_clay_pct": ("good clay-rich soil that holds water", "very sandy soil that drains too quickly"),
+    "twi": ("natural shape of the land that collects water well", "poor terrain shape for water collection"),
+    "elevation_m": ("good low elevation for water flow", "high elevation making it hard for water to reach"),
+    "flow_accumulation": ("high natural accumulation of water flow", "low water accumulation"),
+    "delta_ndwi": ("strong historical surface water presence", "lack of historical surface water"),
+    "delta_sar_vv_vh": ("good soil moisture retention", "poor soil moisture retention"),
+    "curvature": ("bowl-shaped land that naturally pools water", "outward curving land that disperses water"),
+    "sobel_fracture": ("natural ground fractures that help water seep underground", "solid ground with no cracks for water to enter"),
+    "grace_gw_storage_cm": ("favorable regional groundwater storage trends", "declining regional groundwater levels")
+}
 
-    pos_phrases = [FEATURE_PHRASE_LOOKUP.get(f, (f, f))[0] for f in positives[:2]]
-    neg_phrases = [FEATURE_PHRASE_LOOKUP.get(f, (f, f))[1] for f in negatives[:1]]
-
-    reason = f"{tier} suitability driven by {' and '.join(pos_phrases)}." if pos_phrases else f"{tier} suitability."
-    if neg_phrases:
-        reason += f" Minor limitation from {neg_phrases[0]}."
-    return reason
+def build_explanation_text(score: float, all_shap_features: list[tuple[str, float]]) -> str:
+    positive_feats = [feat for feat, val in all_shap_features if val > 0]
+    negative_feats = [feat for feat, val in all_shap_features if val < 0]
+    
+    top_pos = positive_feats[:5]
+    top_neg = negative_feats[:2]
+    
+    tier = "highly recommended" if score >= 0.75 else "moderately recommended" if score >= 0.50 else "not highly recommended"
+    
+    explanation = f"This location is {tier} for building a water recharge structure. "
+    
+    if top_pos:
+        reasons = [FEATURE_PHRASE_LOOKUP_EXT.get(f, (f.replace('_', ' '),))[0] for f in top_pos]
+        if len(reasons) > 1:
+            reasons_str = ", ".join(reasons[:-1]) + ", and " + reasons[-1]
+        else:
+            reasons_str = reasons[0]
+        explanation += f"The main factors making this a great site are its {reasons_str}. These natural conditions work together perfectly to capture rainwater and allow it to slowly seep into the ground. "
+        
+    if top_neg:
+        concerns = [FEATURE_PHRASE_LOOKUP_EXT.get(f, ("", f.replace('_', ' ')))[1] for f in top_neg]
+        if len(concerns) > 1:
+            concerns_str = ", ".join(concerns[:-1]) + ", and " + concerns[-1]
+        else:
+            concerns_str = concerns[0]
+        explanation += f"However, there is a minor challenge due to its {concerns_str}, but the positive factors strongly outweigh this."
+        
+    return explanation
 
 
 def run_inference():
@@ -273,17 +314,30 @@ def run_inference():
             return
 
         latest_pkl = max(pkl_files, key=os.path.getctime)
-        model = joblib.load(latest_pkl)
-        feature_names = [
-            'delta_sar_vv_vh', 'delta_ndwi', 'slope_deg', 'curvature', 'sobel_fracture',
-            'monsoon_rainfall_mm', 'soil_clay_pct', 'flow_accumulation', 'grace_gw_storage_cm',
-            'distance_to_river_m', 'elevation_m', 'twi'
-        ]
-        version_id = os.path.basename(latest_pkl).replace(".pkl", "")
+        data = joblib.load(latest_pkl)
+        if isinstance(data, dict):
+            model = data.get("model", data)
+            feature_names = data.get("feature_names", [
+                'delta_sar_vv_vh', 'delta_ndwi', 'slope_deg', 'curvature', 'sobel_fracture',
+                'monsoon_rainfall_mm', 'soil_clay_pct', 'flow_accumulation', 'grace_gw_storage_cm',
+                'distance_to_river_m', 'elevation_m', 'twi'
+            ])
+            version_id = data.get("version_id", os.path.basename(latest_pkl).replace(".pkl", ""))
+        else:
+            model = data
+            feature_names = [
+                'delta_sar_vv_vh', 'delta_ndwi', 'slope_deg', 'curvature', 'sobel_fracture',
+                'monsoon_rainfall_mm', 'soil_clay_pct', 'flow_accumulation', 'grace_gw_storage_cm',
+                'distance_to_river_m', 'elevation_m', 'twi'
+            ]
+            version_id = os.path.basename(latest_pkl).replace(".pkl", "")
         
         try:
-            base_xgb = model.named_estimators_['xgb'].calibrated_classifiers_[0].estimator
-            explainer = shap.TreeExplainer(base_xgb)
+            if hasattr(model, 'named_estimators_'):
+                base_xgb = model.named_estimators_['xgb'].calibrated_classifiers_[0].estimator
+                explainer = shap.TreeExplainer(base_xgb)
+            else:
+                explainer = None
         except Exception as e:
             explainer = None
             print(f"[WARN] SHAP explainer disabled: {e}")
@@ -299,17 +353,35 @@ def run_inference():
         print(f"[INFO] Running 100% REAL DATA inference across {len(regions)} regions (Model: {version_id})...")
 
         for reg in regions:
-            regime = "alluvial" if reg.region_name == "Prayagraj" else "hard_rock"
-            base_lat, base_lng = (25.43, 81.84) if regime == "alluvial" else (25.13, 82.56)
+            regime = "hard_rock" if reg.region_name in ["Mirzapur", "Jhansi"] else "alluvial"
+            
+            if reg.region_name == "Prayagraj":
+                base_lat, base_lng = 25.43, 81.84
+            elif reg.region_name == "Mirzapur":
+                base_lat, base_lng = 25.13, 82.56
+            elif reg.region_name == "Varanasi":
+                base_lat, base_lng = 25.3176, 82.9739
+            elif reg.region_name == "Lucknow":
+                base_lat, base_lng = 26.8467, 80.9462
+            elif reg.region_name == "Kanpur Nagar":
+                base_lat, base_lng = 26.4499, 80.3319
+            elif reg.region_name == "Agra":
+                base_lat, base_lng = 27.1767, 78.0081
+            else:
+                base_lat, base_lng = 25.43, 81.84
 
             print(f"\n[INFO] Processing region: {reg.region_name} (Regime: {regime})")
 
-            for i in range(4):
+            valid_sites = 0
+            attempts = 0
+            
+            while valid_sites < 4 and attempts < 15:
+                attempts += 1
                 lat = float(base_lat + rng.uniform(-0.06, 0.06))
                 lng = float(base_lng + rng.uniform(-0.06, 0.06))
                 location_point = from_shape(Point(lng, lat), srid=4326)
 
-                print(f"   [INFO] Sampling live GEE rasters for site #{i+1} at [{lat:.4f}, {lng:.4f}]...")
+                print(f"   [INFO] Sampling live GEE rasters for site #{valid_sites+1} at [{lat:.4f}, {lng:.4f}]...")
                 gee_metrics = get_live_gee_features(lat, lng, regime)
                 
                 print("   [INFO] Screening live OSM pollution and river vectors...")
@@ -323,8 +395,12 @@ def run_inference():
                 gee_metrics["depth_to_water_m"] = gw_depth_m
                 gee_metrics["distance_to_river_m"] = dist_river_m 
                 raw_feats = gee_metrics
+                
+                # Convert 11 GEE features to 78 complex features required by the v5.2 custom model
+                feat_78 = engineer_all_features(raw_feats, gw_depth_m, dist_river_m, regime)
+                combined_feats = {**feat_78, **raw_feats}
 
-                df_feat = pd.DataFrame([raw_feats])[feature_names]
+                df_feat = pd.DataFrame([combined_feats])[EXPECTED_FEATURES]
                 score = float(model.predict_proba(df_feat)[0, 1])
                 
                 db_risk_category = osm_risk.risk_category.replace(" Risk", "") if osm_risk.risk_category else "Medium"
@@ -335,6 +411,12 @@ def run_inference():
                     score -= 0.15
                     
                 score = max(0.0, min(1.0, score))
+                
+                if score < 0.60:
+                    print(f"   [REJECT] Score {score:.3f} too low (Risk: {db_risk_category}). Searching again...")
+                    continue
+                    
+                valid_sites += 1
 
                 if explainer:
                     shap_vals = explainer.shap_values(df_feat)
@@ -342,13 +424,21 @@ def run_inference():
                         shap_vals = shap_vals[1] if len(shap_vals) > 1 else shap_vals[0]
                     shap_row = shap_vals[0]
                 else:
-                    shap_row = [0.0] * len(feature_names)
+                    shap_row = [0.0] * len(EXPECTED_FEATURES)
 
-                top_features = sorted(zip(feature_names, shap_row), key=lambda kv: abs(kv[1]), reverse=True)[:3]
-                shap_summary_text = build_explanation_text(score, top_features)
+                all_features = sorted(zip(EXPECTED_FEATURES, shap_row), key=lambda kv: abs(kv[1]), reverse=True)
+                
+                # Filter to only show the 12 base features requested by user for the explanation UI
+                base_features = [
+                    'delta_sar_vv_vh', 'delta_ndwi', 'slope_deg', 'curvature', 'sobel_fracture',
+                    'monsoon_rainfall_mm', 'soil_clay_pct', 'flow_accumulation', 'grace_gw_storage_cm',
+                    'distance_to_river_m', 'elevation_m', 'twi'
+                ]
+                filtered_features = [feat for feat in all_features if feat[0] in base_features or feat[0] in combined_feats]
+                shap_summary_text = build_explanation_text(score, filtered_features[:12])
                 
                 print("   [INFO] Requesting OpenRouter Engineering Advisory...")
-                shap_dict = {k: float(v) for k, v in zip(feature_names, shap_row)}
+                shap_dict = {k: float(v) for k, v in zip(EXPECTED_FEATURES, shap_row)}
                 llm_result = llm_advisor.generate_site_explanation(
                     site_id=f"{reg.region_name}_{i}",
                     lat=lat,

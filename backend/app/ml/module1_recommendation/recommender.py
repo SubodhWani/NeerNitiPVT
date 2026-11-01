@@ -1,3 +1,5 @@
+import pandas as pd
+import numpy as np
 """
 NeerNiti — Module 1: Site Recommendation Engine
 Trains, loads, and executes the multi-criteria XGBoost suitability classifier.
@@ -10,6 +12,10 @@ from typing import Any
 
 import joblib
 from shapely.geometry import Polygon
+
+from app.ml.custom_model import FactorizedPhysicsStackingEnsemble
+import __main__
+__main__.FactorizedPhysicsStackingEnsemble = FactorizedPhysicsStackingEnsemble
 
 from app.ml.module1_recommendation.feature_extractor import FeatureExtractor
 

@@ -52,10 +52,6 @@ export interface MapState {
   openMarkAsBuiltModal: (site: RecommendationFeature) => void;
   closeMarkAsBuiltModal: () => void;
 
-  // Data Freshness Modal
-  dataFreshnessOpen: boolean;
-  setDataFreshnessOpen: (open: boolean) => void;
-
   // FAQ Modal
   faqOpen: boolean;
   setFaqOpen: (open: boolean) => void;
@@ -99,8 +95,8 @@ export const useMapStore = create<MapState>((set) => ({
 
   riskFilter: "All",
   setRiskFilter: (riskFilter) => set({ riskFilter }),
-  minSuitabilityScore: 60,
-  setMinSuitabilityScore: (minSuitabilityScore) => set({ minSuitabilityScore: Math.max(60, minSuitabilityScore) }),
+  minSuitabilityScore: 30,
+  setMinSuitabilityScore: (minSuitabilityScore) => set({ minSuitabilityScore: Math.max(30, minSuitabilityScore) }),
 
   selectedFeature: null,
   setSelectedFeature: (selectedFeature) => set({ selectedFeature }),
@@ -113,9 +109,6 @@ export const useMapStore = create<MapState>((set) => ({
   markAsBuiltSite: null,
   openMarkAsBuiltModal: (site) => set({ markAsBuiltSite: site }),
   closeMarkAsBuiltModal: () => set({ markAsBuiltSite: null }),
-
-  dataFreshnessOpen: false,
-  setDataFreshnessOpen: (open) => set({ dataFreshnessOpen: open }),
 
   faqOpen: false,
   setFaqOpen: (open) => set({ faqOpen: open }),

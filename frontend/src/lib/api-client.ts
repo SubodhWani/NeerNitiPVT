@@ -25,8 +25,9 @@ export async function fetchRegions(): Promise<GeoJSONCollection<RegionFeature>> 
   return RegionsSchema.parse(json) as GeoJSONCollection<RegionFeature>;
 }
 
-export async function fetchWells(): Promise<GeoJSONCollection<WellFeature>> {
-  const res = await fetch(`${API_BASE}/wells`);
+export async function fetchWells(params?: { region_id?: string }): Promise<GeoJSONCollection<WellFeature>> {
+  const url = params?.region_id ? `${API_BASE}/wells?region_id=${params.region_id}` : `${API_BASE}/wells`;
+  const res = await fetch(url);
   if (!res.ok) {
     throw new Error(`Failed to fetch wells: ${res.statusText}`);
   }
@@ -55,8 +56,9 @@ export async function fetchRecommendations(params?: {
   return RecommendationsSchema.parse(json) as GeoJSONCollection<RecommendationFeature>;
 }
 
-export async function fetchStructures(): Promise<GeoJSONCollection<StructureFeature>> {
-  const res = await fetch(`${API_BASE}/structures`);
+export async function fetchStructures(params?: { region_id?: string }): Promise<GeoJSONCollection<StructureFeature>> {
+  const url = params?.region_id ? `${API_BASE}/structures?region_id=${params.region_id}` : `${API_BASE}/structures`;
+  const res = await fetch(url);
   if (!res.ok) {
     throw new Error(`Failed to fetch structures: ${res.statusText}`);
   }

@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { useMapStore } from "@/store/map-store";
 import {
   X,
@@ -24,6 +24,19 @@ export const SiteDetailPanel: React.FC = () => {
   const { siteDetailOpen, selectedSite, closeSiteDetail, openMarkAsBuiltModal, setViewport } = useMapStore();
   const [showFactors, setShowFactors] = useState(true);
   const [showMitigations, setShowMitigations] = useState(false);
+  const [explanation, setExplanation] = useState<any>(null);
+
+  useEffect(() => {
+    if (siteDetailOpen && selectedSite) {
+      setExplanation(null);
+      fetch(`http://localhost:8000/api/v1/sites/${selectedSite.properties.recommendation_id}/explanation`)
+        .then(res => res.json())
+        .then(data => {
+          if (data && data.data) setExplanation(data.data);
+        })
+        .catch(err => console.error("Failed to fetch dynamic explanation:", err));
+    }
+  }, [siteDetailOpen, selectedSite]);
 
   if (!siteDetailOpen || !selectedSite) return null;
 
@@ -127,73 +140,29 @@ export const SiteDetailPanel: React.FC = () => {
           <div className="w-full h-2.5 bg-slate-800 rounded-full overflow-hidden p-0.5">
             <div
               className="h-full rounded-full bg-gradient-to-r from-amber-500 to-emerald-400 transition-all duration-700"
-              style={{ width: `${Math.min(100, Math.max(60, score))}%` }}
+              style={{ width: `${Math.min(100, Math.max(30, score))}%` }}
             ></div>
           </div>
           <div className="flex justify-between text-[9px] text-slate-500 font-mono">
-            <span>0.60 (Policy Baseline)</span>
+            <span>0.30 (Urban Baseline)</span>
             <span className="text-emerald-400 font-bold">Approved for Construction</span>
           </div>
         </div>
 
-        {/* 2. Pre-Construction Aquifer Impact Forecast (Bi-LSTM Simulation) */}
-        <div className="p-3.5 rounded-xl bg-teal-950/30 border border-teal-800/60 space-y-2">
-          <div className="flex items-center justify-between">
-            <span className="text-[11px] font-bold text-teal-300 uppercase tracking-wider flex items-center gap-1.5">
-              <TrendingUp size={13} className="text-teal-400" /> Pre-Construction Rise Forecast
-            </span>
-            <span className="text-[9px] font-mono px-1.5 py-0.5 bg-teal-950 border border-teal-800 text-teal-300 rounded">
-              Bi-LSTM
-            </span>
-          </div>
-          <div className="text-sm font-black font-mono text-white">
-            +{predictedRiseMin}m to +{predictedRiseMax}m <span className="text-xs font-normal text-slate-300 font-sans">over 12 months</span>
-          </div>
-          <p className="text-[10.5px] text-teal-200/90 leading-relaxed">
-            Predicted groundwater level rise in neighboring wells under normal monsoon conditions once the {props.structure_type} is commissioned.
-          </p>
-        </div>
-
-        {/* 3. Contamination Risk Screening & Civil Mitigations */}
-        <div className="p-3.5 rounded-xl bg-slate-950 border border-slate-800 space-y-2.5">
-          <div className="flex items-center justify-between">
-            <span className="text-xs text-slate-300 font-semibold">Contamination Vulnerability</span>
-            <div className={`flex items-center gap-1 px-2.5 py-1 rounded-md ${riskBadge.bg} border ${riskBadge.border} ${riskBadge.text} text-[11px] font-bold`}>
-              {riskBadge.icon}
-              <span>{risk} Risk</span>
-            </div>
-          </div>
-
-          <button
-            onClick={() => setShowMitigations(!showMitigations)}
-            className="w-full flex items-center justify-between text-[10.5px] text-slate-400 hover:text-slate-200 transition-colors pt-1 border-t border-slate-800/80"
-          >
-            <span className="flex items-center gap-1 font-semibold">
-              <Filter size={11} className="text-blue-400" /> Engineering Pre-Treatment Mitigations
-            </span>
-            {showMitigations ? <ChevronUp size={13} /> : <ChevronDown size={13} />}
-          </button>
-
-          {showMitigations && (
-            <div className="p-2.5 rounded-lg bg-slate-900 border border-slate-800 text-[10.5px] text-slate-300 leading-relaxed space-y-1">
-              <div className="font-semibold text-amber-400 flex items-center gap-1">
-                <Info size={12} /> Required Civil Specifications:
-              </div>
-              <div>{riskBadge.mitigation}</div>
-            </div>
-          )}
-        </div>
-
-        {/* 4. LLM Civil & Hydrogeological Rationale */}
+        {/* AI Explanation */}
         <div className="space-y-1.5">
           <div className="text-[10px] font-bold text-slate-400 uppercase tracking-wider flex items-center justify-between">
             <span className="flex items-center gap-1">
-              <Cpu size={12} className="text-blue-400" /> AI Hydrogeological Rationale
+              <Cpu size={12} className="text-blue-400" /> AI Explanation
             </span>
             <span className="text-[9px] text-blue-400 font-mono">Gemini / CGWB Model</span>
           </div>
-          <div className="p-3 rounded-xl bg-blue-950/20 border border-blue-800/40 text-[11px] text-slate-200 leading-relaxed font-normal">
-            &ldquo;{props.explanation_text}&rdquo;
+          <div className="p-3 rounded-xl bg-blue-950/20 border border-blue-800/40 text-[11px] text-slate-200 leading-relaxed font-normal whitespace-pre-wrap">
+            {explanation ? explanation.plain_text_summary : (
+              <span className="animate-pulse flex items-center gap-2">
+                <Sparkles size={12} className="text-amber-400" /> Generating LIME/SHAP detailed analysis...
+              </span>
+            )}
           </div>
         </div>
 
@@ -211,22 +180,24 @@ export const SiteDetailPanel: React.FC = () => {
 
           {showFactors && (
             <div className="space-y-2 bg-slate-950 p-3 rounded-xl border border-slate-800">
-              {mockFactors.map((factor) => (
-                <div key={factor.name} className="space-y-0.5">
+              {explanation ? explanation.top_contributions.map((factor: any) => (
+                <div key={factor.feature_name} className="space-y-0.5">
                   <div className="flex justify-between text-[10.5px]">
-                    <span className="text-slate-300">{factor.name}</span>
-                    <span className={`font-mono font-bold ${factor.positive ? "text-emerald-400" : "text-red-400"}`}>
-                      {factor.value}
+                    <span className="text-slate-300 capitalize">{factor.feature_name.replace(/_/g, " ")}</span>
+                    <span className={`font-mono font-bold ${factor.direction === "positive" ? "text-emerald-400" : "text-red-400"}`}>
+                      {factor.value > 0 ? `+${factor.value.toFixed(2)}` : factor.value.toFixed(2)}
                     </span>
                   </div>
                   <div className="w-full h-1 bg-slate-800 rounded-full overflow-hidden">
                     <div
-                      className={`h-full rounded-full ${factor.positive ? "bg-emerald-500" : "bg-red-500"}`}
-                      style={{ width: `${factor.pct}%` }}
+                      className={`h-full rounded-full ${factor.direction === "positive" ? "bg-emerald-500" : "bg-red-500"}`}
+                      style={{ width: `${Math.min(100, Math.abs(factor.value) * 300)}%` }}
                     ></div>
                   </div>
                 </div>
-              ))}
+              )) : (
+                <div className="animate-pulse text-[10px] text-slate-500 text-center py-2">Loading feature attributions...</div>
+              )}
             </div>
           )}
         </div>

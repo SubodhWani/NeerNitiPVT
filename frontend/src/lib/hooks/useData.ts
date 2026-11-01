@@ -16,10 +16,10 @@ export function useRegions() {
   });
 }
 
-export function useWells() {
+export function useWells(params?: { region_id?: string }) {
   return useQuery({
-    queryKey: ["wells"],
-    queryFn: fetchWells,
+    queryKey: ["wells", params],
+    queryFn: () => fetchWells(params),
     staleTime: 1000 * 60 * 5, // 5 mins
   });
 }
@@ -33,14 +33,14 @@ export function useRecommendations(params?: {
   return useQuery({
     queryKey: ["recommendations", params],
     queryFn: () => fetchRecommendations(params),
-    staleTime: 1000 * 60 * 5,
+    staleTime: 0, // force refresh to clear old 0.60 empty cache!
   });
 }
 
-export function useStructures() {
+export function useStructures(params?: { region_id?: string }) {
   return useQuery({
-    queryKey: ["structures"],
-    queryFn: fetchStructures,
+    queryKey: ["structures", params],
+    queryFn: () => fetchStructures(params),
     staleTime: 1000 * 60 * 5,
   });
 }

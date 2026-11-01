@@ -9,27 +9,32 @@ import { Sidebar } from "@/components/dashboard/Sidebar";
 import { RegionSelector } from "@/components/dashboard/RegionSelector";
 import { SiteDetailPanel } from "@/components/dashboard/SiteDetailPanel";
 import { MarkAsBuiltModal } from "@/components/dashboard/MarkAsBuiltModal";
-import { DataFreshnessModal } from "@/components/dashboard/DataFreshnessModal";
 import { FaqModal } from "@/components/dashboard/FaqModal";
 import { WaterLevelChart } from "@/components/charts/WaterLevelChart";
 import { VerificationChart } from "@/components/charts/VerificationChart";
 import { Settings, HelpCircle, Clock } from "lucide-react";
 
 export default function HomePage() {
-  const { data: regionsData, isLoading: regionsLoading } = useRegions();
-  const { data: wellsData } = useWells();
-  const { data: recommendationsData } = useRecommendations();
-  const { data: structuresData } = useStructures();
-
   const {
     sidebarOpen,
     selectedFeature,
     setFaqOpen,
-    setDataFreshnessOpen,
     siteDetailOpen,
+    selectedRegionId,
   } = useMapStore();
 
-  const regions: any[] = regionsData?.features || [];
+  const queryParams = selectedRegionId ? { region_id: selectedRegionId } : undefined;
+
+  const { data: regionsData, isLoading: regionsLoading } = useRegions();
+  const { data: wellsData } = useWells(queryParams);
+  const { data: recommendationsData } = useRecommendations(queryParams);
+  const { data: structuresData } = useStructures(queryParams);
+
+  const allRegions: any[] = regionsData?.features || [];
+  const mapRegions = selectedRegionId 
+    ? allRegions.filter(r => r.properties.region_id === selectedRegionId) 
+    : allRegions;
+
   const wells: any[] = wellsData?.features || [];
   const recommendations: any[] = recommendationsData?.features || [];
   const structures: any[] = structuresData?.features || [];
@@ -42,7 +47,7 @@ export default function HomePage() {
       {/* Main Map Visualization Viewport */}
       <div className="w-full h-full">
         <MapContainerWrapper
-          regions={regions}
+          regions={mapRegions}
           wells={wells}
           recommendations={recommendations}
           structures={structures}
@@ -55,7 +60,7 @@ export default function HomePage() {
           sidebarOpen ? "left-84" : "left-18"
         }`}
       >
-        <RegionSelector regions={regions} isLoading={regionsLoading} />
+        <RegionSelector regions={allRegions} isLoading={regionsLoading} />
 
         {/* Top Right Institutional Action Tools */}
         <div className="flex items-center gap-2">
@@ -68,23 +73,7 @@ export default function HomePage() {
             <span className="hidden sm:inline">Methodology</span>
           </button>
 
-          <button
-            onClick={() => setDataFreshnessOpen(true)}
-            className="flex items-center gap-1.5 px-3 py-2 rounded-lg bg-slate-900/95 border border-slate-700 text-slate-200 hover:text-white hover:bg-slate-800 shadow-md backdrop-blur-md text-xs font-semibold transition-all cursor-pointer"
-            title="Satellite & Telemetry Freshness"
-          >
-            <Clock size={14} className="text-emerald-400" />
-            <span className="hidden sm:inline">Telemetry</span>
-          </button>
 
-          <Link
-            href="/admin"
-            className="flex items-center gap-1.5 px-3 py-2 rounded-lg bg-slate-900/95 border border-slate-700 text-slate-200 hover:text-white hover:bg-slate-800 shadow-md backdrop-blur-md text-xs font-semibold transition-all"
-            title="Administrative Governance Console"
-          >
-            <Settings size={14} className="text-cyan-400" />
-            <span className="hidden sm:inline">Admin</span>
-          </Link>
         </div>
       </div>
 
@@ -115,7 +104,6 @@ export default function HomePage() {
       {/* Interactive Overlays and Modals */}
       <SiteDetailPanel />
       <MarkAsBuiltModal />
-      <DataFreshnessModal />
       <FaqModal />
     </main>
   );

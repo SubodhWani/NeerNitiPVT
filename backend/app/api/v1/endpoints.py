@@ -79,10 +79,12 @@ def geometry_to_geojson_dict(spatial_column: Any) -> dict[str, Any] | None:
 # 1. GET /api/v1/regions
 # -------------------------------------------------------------------------
 @router.get("/regions", response_model=RegionFeatureCollection)
-def list_regions(db: Session = Depends(get_db)):
+def list_regions(region_id: uuid.UUID | None = Query(None), db: Session = Depends(get_db)):
     """List selectable regions (states/districts) as GeoJSON FeatureCollection."""
     repo = RegionRepository(db)
-    regions = repo.get_all()
+    regions = [repo.get_by_id(region_id)] if region_id else repo.get_all()
+    if not regions or regions == [None]:
+        regions = []
     features: list[RegionFeature] = []
 
     for r in regions:
@@ -112,9 +114,9 @@ def recommend_sites(
     """Run/retrieve multi-criteria site recommendations for a given region (strictly filtered to suitability > 0.60)."""
     site_repo = SiteRepository(db)
     
-    # Enforce minimum threshold >= 0.60 (policy requirement)
-    req_min_score = payload.min_suitability_score if payload.min_suitability_score else 0.60
-    effective_min_score = max(0.60, float(req_min_score))
+    # Enforce minimum threshold >= 0.30 (loosened for urban regions)
+    req_min_score = payload.min_suitability_score if payload.min_suitability_score else 0.30
+    effective_min_score = max(0.30, float(req_min_score))
 
     sites = site_repo.get_all(
         region_id=payload.region_id,
@@ -126,8 +128,8 @@ def recommend_sites(
     features: list[SiteFeatureGeoJson] = []
     for site in sites:
         score_raw = float(site.suitability_score)
-        # Strict cutoff: only recommend sites > 0.60
-        if score_raw < 0.60:
+        # Loosened cutoff: only recommend sites > 0.30
+        if score_raw < 0.30:
             continue
 
         feat = site.feature
@@ -161,13 +163,13 @@ def recommend_sites(
 @router.get("/recommendations", response_model=SiteFeatureCollection)
 def get_recommendations_alias(
     region_id: uuid.UUID | None = Query(None),
-    min_score: float = Query(0.60),
+    min_score: float = Query(0.30),
     risk: str | None = Query("All"),
     limit: int = Query(50),
     db: Session = Depends(get_db),
 ):
-    """Legacy GET alias for frontend compatibility with strict >= 0.60 filter."""
-    normalized_min = max(0.60, min_score / 100.0 if min_score > 1.0 else min_score)
+    """Legacy GET alias for frontend compatibility with strict >= 0.30 filter."""
+    normalized_min = max(0.30, min_score / 100.0 if min_score > 1.0 else min_score)
     req = SiteRecommendRequest(
         region_id=region_id,
         min_suitability_score=normalized_min,
@@ -210,26 +212,30 @@ def get_site_detail(site_id: uuid.UUID, db: Session = Depends(get_db)):
         "depth_to_groundwater_m": float(feat.depth_to_groundwater_m) if feat else 9.5,
     } if feat else None
 
-    # Invoke LLM Hydrogeological Advisor for plain-English civic summary and civil engineering specs
-    llm_analysis = advisor.generate_site_explanation(
-        site_id=str(site.site_id),
-        lat=coords[1],
-        lng=coords[0],
-        suitability_score=float(site.suitability_score),
-        structure_type=stype,
-        features=features_dict or {},
-        shap_values=expl.shap_values if expl and expl.shap_values else {},
-        risk_category=site.risk_category or "Low",
-    )
-
-    civic_summary = llm_analysis.get("civic_summary", expl.plain_text_summary if expl else "High suitability candidate.")
+    # Use stored SHAP values from inference run
+    shap_vals = expl.shap_values if expl and expl.shap_values else {}
+    base_features = [
+        'delta_sar_vv_vh', 'delta_ndwi', 'slope_deg', 'curvature', 'sobel_fracture',
+        'monsoon_rainfall_mm', 'soil_clay_pct', 'flow_accumulation', 'grace_gw_storage_cm',
+        'distance_to_river_m', 'elevation_m', 'twi'
+    ]
+    filtered_shap = {k: v for k, v in shap_vals.items() if k in base_features}
+    sorted_feats = sorted(filtered_shap.items(), key=lambda item: abs(item[1]), reverse=True)
+    top_contributions = [
+        {
+            "feature_name": f,
+            "value": round(float(v), 4),
+            "direction": "positive" if v > 0 else "negative",
+        }
+        for f, v in sorted_feats
+    ]
 
     expl_detail = ExplanationDetail(
         site_id=site.site_id,
-        shap_values=expl.shap_values if expl else {},
-        top_contributions=[],
-        plain_text_summary=civic_summary,
-        generated_at=expl.generated_at if expl else site.created_at,
+        shap_values=shap_vals,
+        top_contributions=top_contributions,
+        plain_text_summary=expl.plain_text_summary if expl else "High suitability location.",
+        generated_at=expl.generated_at if expl else datetime.now(timezone.utc),
     )
 
     data = SiteDetailResponse(
@@ -263,31 +269,32 @@ def get_site_explanation(site_id: uuid.UUID, db: Session = Depends(get_db)):
         )
 
     expl = site.explanation
-    if not expl:
-        # Generate inline using SHAPExplainer if not persisted yet
-        explainer = SHAPExplainer()
-        features_dict = site.feature.__dict__ if site.feature else {}
-        result = explainer.explain(features_dict, suitability_score=site.suitability_score)
-        data = ExplanationDetail(
-            site_id=site.site_id,
-            shap_values=result.shap_values,
-            top_contributions=result.top_contributions,
-            plain_text_summary=result.plain_text_summary,
-            generated_at=datetime.now(timezone.utc),
-        )
-    else:
-        sorted_shap = sorted(expl.shap_values.items(), key=lambda kv: abs(kv[1]), reverse=True)[:3]
-        top_contribs = [
-            {"feature_name": k, "value": v, "direction": "positive" if v > 0 else "negative"}
-            for k, v in sorted_shap
-        ]
-        data = ExplanationDetail(
-            site_id=site.site_id,
-            shap_values=expl.shap_values,
-            top_contributions=top_contribs,
-            plain_text_summary=expl.plain_text_summary,
-            generated_at=expl.generated_at,
-        )
+    shap_vals = expl.shap_values if expl and expl.shap_values else {}
+    
+    base_features = [
+        'delta_sar_vv_vh', 'delta_ndwi', 'slope_deg', 'curvature', 'sobel_fracture',
+        'monsoon_rainfall_mm', 'soil_clay_pct', 'flow_accumulation', 'grace_gw_storage_cm',
+        'distance_to_river_m', 'elevation_m', 'twi'
+    ]
+    filtered_shap = {k: v for k, v in shap_vals.items() if k in base_features}
+    sorted_feats = sorted(filtered_shap.items(), key=lambda item: abs(item[1]), reverse=True)
+    top_contributions = [
+        {
+            "feature_name": f,
+            "value": round(float(v), 4),
+            "direction": "positive" if v > 0 else "negative",
+        }
+        for f, v in sorted_feats
+    ]
+
+    data = ExplanationDetail(
+        site_id=site.site_id,
+        shap_values=shap_vals,
+        top_contributions=top_contributions,
+        plain_text_summary=expl.plain_text_summary if expl else "High suitability location.",
+        generated_at=expl.generated_at if expl else datetime.now(timezone.utc),
+    )
+
 
     return ApiResponse(data=data, error=None)
 
@@ -363,10 +370,10 @@ def create_structure(payload: StructureCreateRequest, db: Session = Depends(get_
 
 
 @router.get("/structures", response_model=StructureFeatureCollection)
-def list_structures(db: Session = Depends(get_db)):
+def list_structures(region_id: uuid.UUID | None = Query(None), db: Session = Depends(get_db)):
     """Returns all constructed structures and their verification history as GeoJSON."""
     struct_repo = StructureRepository(db)
-    structures = struct_repo.get_all()
+    structures = struct_repo.get_all(region_id=region_id)
     features: list[StructureFeature] = []
 
     for struct in structures:
@@ -406,10 +413,10 @@ def list_structures(db: Session = Depends(get_db)):
 # 7. GET /api/v1/wells & GET /api/v1/wells/{well_id}/readings
 # -------------------------------------------------------------------------
 @router.get("/wells", response_model=WellFeatureCollection)
-def list_wells(db: Session = Depends(get_db)):
+def list_wells(region_id: uuid.UUID | None = Query(None), db: Session = Depends(get_db)):
     """Returns monitoring wells with water level history as GeoJSON."""
     well_repo = WellRepository(db)
-    wells = well_repo.get_all()
+    wells = well_repo.get_all(region_id=region_id)
     features: list[WellFeature] = []
 
     for well in wells:

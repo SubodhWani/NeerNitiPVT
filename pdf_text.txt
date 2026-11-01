@@ -1,0 +1,11934 @@
+ 
+ 
+ 
+ 
+ 
+केन्द्रीय भूमि जल बोर्ड 
+जल संसाधन, नदी मिकास और गंगा संरक्षण 
+मिभाग, जल शमि िंत्रालय  
+भारत सरकार   
+Central Ground Water Board 
+Department of Water Resources, River 
+Development and Ganga Rejuvenation, 
+Ministry of Jal Shakti 
+Government of India 
+ 
+ 
+AQUIFER MAPPING AND MANAGEMENT 
+OF GROUND WATER RESOURCES 
+ 
+Prayagraj District 
+Uttar Pradesh 
+ 
+                         
+उत्तरी क्षेत्र, लखनऊ 
+Northern Region, Lucknow 
+
+ 
+ 
+i | P a g e 
+ 
+ 
+NATIONAL AQUFER MAPPING 
+AND MANAGEMENT PLAN 
+(NAQUIM) 
+PRAYAGRAJ DISTRICT, 
+UTTAR PRADESH 
+(AAP: 2018-19) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Government of India 
+Ministry of Jal Shakti 
+Central Ground Water Board 
+Northern Region 
+Lucknow, Uttar Pradesh 
+
+ii | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Groundwater has emerged as the preferred water source as a poverty reduction tool in India’s 
+rural areas due to its near-universal availability, dependability, and low capital cost. It has 
+made significant contributions to the growth of Indian economy and acted as an important 
+catalyst for its socio-economic development. Its importance as a precious natural resource in 
+the Indian context can be gauged from the fact that more than 85 % of India’s rural domestic 
+water requirements, more than 50 % of its urban water requirements; and more than 50 % of 
+its irrigation requirements are being met from groundwater resources.  
+Increasing dependence on groundwater as a reliable source of water has resulted in its 
+large-scale and indiscriminate exploitation in various parts of the country, without due regard 
+to the recharging capacities of aquifers and other environmental factors. The unplanned and 
+non-scientific exploitation of groundwater resources, mostly driven by individual initiatives 
+has led to increased stress on the available resources which adverse impacts can be observed 
+in the form of the long-term decline of groundwater levels, de-saturation of aquifer zones. It 
+will also increase the energy consumption for the lifting of water from progressively deeper 
+depth.  
+Central Ground Water Board has taken up the task of Aquifer Mapping and Ground 
+Water Management Plan under NAQUIM in the state of Uttar Pradesh with an objective of 
+(i) Delineation and characterization of aquifers in three dimensions (ii) Identification and 
+quantification of issues and (iii) Development of management plans to ensure the 
+sustainability of groundwater resources. Under this initiative, different management 
+plans/interventions have been suggested for each aquifer system and also for the quality 
+affected areas. The management options also include supply side management (which 
+includes identification of the feasible areas for the artificial recharge and water conservation 
+structures, which are helpful to arrest the declining water levels), and demand-side 
+management options (which include crop diversification, water use efficiency practices in 
+irrigation etc.).  
+ 
+The sincere efforts of Sri. Sant Lal (Retd. Sc-D), Smt. Richa 
+Gautam (Sc-B) and Dr. Arjun Ram (Young Professional) Central Ground Water Board, 
+Northern Region, Lucknow are highly appreciated in preparing the NAQUIM report of 
+Prayagraj District. I am sure that the Ground Water Management Plan of Prayagraj district 
+and its aquifer maps would be an immense help to formulate the scientifically viable 
+implementable strategies for efficient management of groundwater resources to ensure 
+groundwater sustainability. 
+ 
+ 
+ 
+ 
+Government of India 
+Ministry of Jal Shakti 
+Central Ground Water Board 
+Northern Region, BhujalBhawan, 
+ Sector-B, Sitapur Road Yojana 
+Aliganj, Lucknow-226021 
+Phone: (0522)-2363812 
+           E-mail: rdnr-cgwb@nic.in 
+P.K.Tripathi  
+Head of Office 
+
+iii | P a g e 
+ 
+National Aquifer Mapping and Management Plan 
+Prayagraj District 
+Uttar Pradesh 
+ 
+Contributors 
+Authors  
+Sri Sant Lal, Sc.-D (Retd.)  
+Smt. Richa Gautam (Sc.-B) 
+Dr. Arjun Ram (YP)  
+Supervision and Guidance  
+Sh P.K.Tripathi, Head of Office  
+Thematic Layers  
+Dr. Arjun Ram (YP) 
+Aquifer Model (3D & 2D)  
+Smt. Richa Gautam (Sc.-B) 
+Dr. Arjun Ram (YP) 
+Ground Water Exploration  
+Smt. Richa Gautam (Sc.-B) 
+Dr. Arjun Ram (YP)   
+Analysis of Geophysical Data and 
+Interpretation  
+Dr. Shasikant Singh, Sc-B  
+Ground Water Management Plan  Smt. Richa Gautam (Sc.-B) 
+Dr. Arjun Ram (YP) 
+Chemical Analysis  
+Scientists of Regional Chemical 
+Lab, CGWB, NR  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iv | P a g e 
+ 
+ 
+ACKNOWLEDGEMENT 
+ 
+I would like to take an opportunity to thank Shri Pramod Kumar Tripathi, Head of 
+Office, CGWB, Northern Region, Lucknow Uttar Pradesh for offering such 
+opportunity of detailed study of the district. I am very much delighted to express my 
+deep sense of gratitude and regards to my respected colleagues/ seniors Dr. R.K. 
+Prasad, Scientist-B, Dr. Sahista Khan Scientist-B,  Dr. Shashi Kant Singh, Scientist-B, 
+Shri Jagdamba Prasad, Scientist D, Shri T.K. Pant, Scientist-D , Sh. Anirudh Singh, 
+AGP of CGWB, NR, Lucknow for their valuable and meticulous guidance. I am 
+deeply thankful to regional chemical laboratory for timely analysis of the water 
+samples of the district. I would like to extend my gratitude to Dr. Arjun Ram YP and 
+his work is appreciable. Also, I would like to express my sincere thanks to all Young 
+Professionals (Shri Chandan Mishra, Shri Daya Shankar Singh, Shri Amir Hamza 
+M.A. & Smt. Parkhi Singh).  The help and co-operation of all Scientists, Staff, MTDs 
+of CGWB, NR, Lucknow is greatly recognizable.  
+Last but not least, I would like to acknowledge my family members for their 
+unselfish sacrifices, constant blessing and moral support at every stage in my life. 
+
+v | P a g e 
+ 
+ 
+CONTENTS 
+ 
+Chapter  
+Title  
+                               Page No  
+ 
+District at a glance  
+1 
+1.0 
+INTRODUCTION 
+3 
+1.1  
+Objective  
+4  
+1.2  
+Scope Of Study  
+4  
+1.3  
+Approach And Methodology  
+4 
+1.4  
+Study Area (Administrative Details)  
+5 
+1.5  
+Demography  
+5 
+1.6  
+Drainage / Basin 
+7  
+1.7  
+Data Availability & Data Gap Analysis 
+8 
+1.8  
+Cropping Pattern And Irrigation Practices  
+9  
+1.9  
+Rainfall & Climate  
+14  
+1.10  
+Geomorphology  And Soil Types 
+16 
+1.11  
+Land Use/Land Cover 
+18 
+1.12  
+Soils  
+22  
+2.0  
+DATA COLLECTION, GENERATION, INTERPRETATION, 
+INTEGRATION AND AQUIFER MAPPING  
+21  
+2.1  
+  Geology 
+21  
+2.2  
+Hydrogeological Framework 
+22 
+2.3 
+Sub-Surface Geology 
+24 
+2.4 
+Ground Water Scenario 
+36 
+2.5 
+Ground Water Quality 
+51 
+3.0  
+GROUND WATER RESOURCES  
+54 
+3.1  
+Dynamic Ground Water Resources  
+54 
+4.0  
+GROUND WATER RELATED ISSUES 
+59 
+4.1  
+Ground Water Resources  
+59  
+4.2  
+Water Table Depleted Area  
+59 
+4.3  
+Ground Water Related Issues And Problems 
+59  
+4.4  
+Problems  
+60 
+5.0  
+GROUND WATER DEVELOPMENT AND MANAGEMENT 
+STRATEGIES  
+61 
+5.1  
+Ground Water Management Strategy 
+61  
+5.2  
+Ground Water Development 
+61 
+5.3  
+Ground Water Management Options  
+61 
+6.0  
+CONCLUSION  
+68 
+7.0  
+RECOMMENDATION  
+70 
+8.0  
+REFERENCES  
+72 
+Part-B 
+BLOCK WISE MANAGEMENT PLAN 
+73 
+
+vi | P a g e 
+ 
+ 
+ 
+LIST OF TABLES 
+ 
+Table  
+Name  
+Page No  
+Table.1.1  
+Demography of Prayagraj District as per census 2011 
+6  
+Table.1.2  
+Data Requirement, Data Availability and Data Gap Analysis for Aquifer 
+Mapping 
+8  
+Table.1.3  
+Details of the Cropping Pattern (area in Ha) Prayagraj District 2017-18 
+9 
+Table.1.4  
+Details of Area under Different Crops (area in ha) 
+10  
+Table.1.5  
+Details of the distribution of Surface and Ground Water for Irrigation 
+(Area in ha) 
+11  
+Table.1.6  
+Irrigation by Surface and Ground Water in 2017-18, Prayagraj District 
+12  
+Table.1.7  
+Details of the Irrigation Sources in Prayagraj district 2018-19 
+13 
+Table.1.8  
+Rainfall Data (mm) and Departure from Normal Rainfall (mm), 
+Prayagraj District, U.P. (2010-2020) 
+15 
+Table.1.9  
+Block wise Land use pattern of Prayagraj District 2017-18 (Source: 
+Statistical Diary, Directorate of Economics and Statistics, Govt. of U.P. 
+19  
+Table.2.1  
+ Lithological Data of the Prayagraj District 
+34 
+Table.2.2  
+Water Level of Pre-Post Monsoon-2019  
+40 
+Table.2.3  
+Water Level Trend (2010-2019), Prayagraj District 
+43 
+Table.2.4  
+Ground Water Quality Parameters (2019), Prayagraj District 
+54 
+Table.3.1  
+Dynamic Ground Water Resource-2020 of Prayagraj District 
+58 
+Table.5.1  
+Unit Draft, Prayagraj District 
+64  
+Table.5.2  
+Projected Stage of Development (%) After Interventions, Prayagraj 
+District 
+65 
+Table.5.3  
+Projected Stage of Extraction (%) After Interventions, Prayagraj District 
+66 
+Table.5.4 
+Projected change after interventions 
+68 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+vii | P a g e 
+ 
+ 
+LIST OF FIGURES 
+Figure  
+Name  
+Page No  
+Fig.1.1  
+ Administrative Map of Prayagraj District, U.P. 
+5 
+Fig.1.2  
+Block-Wise Population Growth Rate (as on census 2011) 
+6  
+Fig.1.3  
+Drainage Map of Prayagraj District, U.P 
+7 
+Fig.1.4  
+Block wise areal distribution of Crops (Area in ha) 
+11  
+Fig.1.5  
+Distribution of Surface and Ground Water use 
+12 
+Fig.1.6  
+Block wise irrigated area (ha) by Surface and Ground Water 
+13  
+Fig.1.7  
+Average Annual Rainfall (mm) in Prayagraj District 
+14 
+Fig.1.8  
+Departure of rainfall from normal rainfall, Prayagraj District 
+15  
+Fig.1.9  
+Geomorphological map of Prayagraj District 
+16  
+Fig.1.10 
+Soil Map of Prayagraj District 
+17 
+Fig.1.11  
+Landuse and Landcover Map, Prayagraj 
+18 
+Fig.1.12 
+Land use and agricultural activities, Prayagraj District (2017-18) 
+20 
+Fig.2.1  
+Geological Map of Prayagraj District 
+22 
+Fig.2.2 
+Hydrogeological Map of Prayagraj District 
+23  
+Fig.2.3 
+Index Map depicting Location of tube wells and section lines 
+24  
+Fig.2.4  
+Geological cross-section along A-B line 
+25 
+Fig.2.5  
+Geological cross – section along C-D line 
+26 
+Fig.2.6   
+Geological section along E-F line 
+27 
+Fig.2.7  
+Geological cross-section along G-H line 
+28  
+Fig.2.8   
+Geological cross-section along X-Y line 
+29 
+Fig.2.9 
+Fence Diagram of Alluvial area and Hard Rock 
+33 
+Fig.2.10  
+Depth to bed rock, Prayagraj District 
+35 
+Fig.2.11  
+Depth to water level map (Pre-Monsoon 2019) 
+37  
+Fig.2.12 
+Depth to water level map (Post-Monsoon 2019) 
+38 
+Fig.2.13  
+Water Level Fluctuation Map (2019), Prayagraj District 
+39  
+Fig.2.14 
+Decadal Ground water Level Fluctuation Map, Prayagraj District 
+ 
+41 
+Fig.2.15 
+Ground water flow direction Map, Prayagraj District 
+42 
+Fig.2.16 
+Ground Water Quality Map (2019), Prayagraj District 
+53  
+Fig.3.1 
+Dynamic Ground Water Resource-2020 
+56 
+Fig.5.1 
+Projected change in stage of ground water extraction after 
+interventions 
+67 
+Fig.5.2 
+Projected change after interventions 
+68 
+ 
+
+ 
+ 
+1 | P a g e 
+ 
+AQUIFER MAPPING AND GROUND WATER MANAGEMENT PLAN 
+(NAQUIM)  
+PRAYAGRAJ DISTRICT, UTTAR PRADESH 
+ 
+(AAP 2018-19) 
+ 
+DISTRICT AT A GLANCE 
+1. 
+GENERAL INFORMATION 
+ 
+i. 
+Geographical Area (Sq. Km.) 
+ 
+5482 
+ii. 
+Administrative Divisions 
+Number of Block 
+Number of Panchayat/Villages 
+ 
+ 
+20 
+3065 
+iii. Population (2011 census) 
+ 
+5959798 
+iv. Average Annual Rainfall (mm) 
+ 
+959.1 
+2. 
+ 
+GEOMORPHOLOGY 
+ 
+Middle Ganga Plain 
+ 
+Major Physiographic Units 
+ 
+a. Flood Plain 
+b. Younger alluvial plain 
+c. Older alluvial plain 
+d. 
+Kaimur 
+Sandstone 
+of 
+Vindhyan 
+Supergroup 
+ 
+Major Drainages 
+ 
+Ganga, Yamuna, Tons 
+3. 
+ 
+ 
+ 
+LAND USE (Ha.), 2017-18 
+ 
+Net Irrigated Area (Thousand Ha.) 
+: 310 
+ 
+Gross Irrigated Area (Thousand Ha.) 
+ 
+511 
+ 
+Net Area Sown (Thousand Ha.) 
+: 353 
+ 
+ 
+Area Sown More Than Once (Thousand Hectares) 
+ 
+221 
+ 
+ 
+Forest (Thousand Ha.) 
+ 
+21.454 
+4. 
+ 
+ 
+5. 
+ 
+MAJOR SOIL TYPES 
+ 
+: Clay loam to sandy loam, Loam & Sandy 
+Loam , Sandy loam to sodic, Sandy loam 
+& clay 
+ 
+AREA UNDER PRINCIPAL CROPS (Thousand Ha.)  
+Jayad                                                                                
+Kharif 
+Rabi 
+ 
+ 
+: 
+: 
+: 
+ 
+ 
+10.283 
+229.439 
+259.296 
+6. 
+ 
+IRRIGATION BY DIFFERENT SOURCES (2018 – 
+19)  
+ 
+ 
+Tube wells / Bore wells 
+: 48628( in numbers) 
+Canals 
+: 2145 km 
+Other Sources 
+: 3887( in numbers) 
+7. 
+ 
+NUMBER OF GROUND WATER 
+MONITORING WELLS OF CGWB 
+(As on 31 3-2020) 
+ 
+ 
+ 
+No. of Dug wells 
+: 37 
+ 
+No. of Piezometers 
+: Nil 
+8. 
+ 
+PREDOMINANT GEOLOGICAL FORMATIONS 
+: Quaternary Alluvium 
+
+2 | P a g e 
+ 
+9. 
+ 
+HYDROGEOLOGY AND AQUIFER GROUP 
+ 
+Quaternary alluvium deposited by Ganga 
+and Yamuna river systems. 
+Major water bearing formation 
+: Sand, silt and gravel 
+Pre-monsoon Depth to water level during  
+May 2019 
+: 1.32 – 20.36 mbgl 
+Post-monsoon Depth to water level during  
+Nov. 2019 
+: 0.59- 15.69  mbgl 
+Long term water level trend in 10 years  
+(2010-2019) in m/yr 
+: 
+ 
+ 
+: 
+Pre-monsoon 
+Rise: 0.492 cm/yr. 
+Fall: 0.3658 cm/yr. 
+Post-monsoon 
+Rise: 0.5156 cm/yr. 
+Fall:  0.91 cm/yr. 
+10. 
+ 
+GROUND WATER EXPLORATION BY CGWB (As 
+on 31-3-2019) 
+ 
+ 
+No of wells drilled (EW, OW, PZ, SH, Total) 
+: EW-21, SH-3  
+Depth range (m) 
+: 146.00-218.00 
+Discharge  
+: 
+1000-3050lpm 
+Storativity (S) 
+: 1.79×10-4 – 5.10×10-4 
+Transmissivity (m2/day) 
+: 857 – 3330 m2/day 
+11. 
+ 
+GROUND WATER QUALITY 
+ 
+ 
+ 
+ 
+Presence 
+of 
+chemical 
+constituents 
+more 
+than 
+permissible limit (e.g. EC, F, As, Fe) 
+: No constituents above permissible limit 
+ 
+ 
+Type of water Quality 
+: Good and potable 
+12.  
+DYNAMIC GROUND WATER RESOURCES (Ham) 
+as on 31 March, 2020 
+ 
+ 
+ 
+ 
+Annual Replenishable Ground Water Resources 
+: 135052.1 
+ 
+ 
+Gross Annual Ground Water Draft 
+: 
+100192.68 
+ 
+ 
+Stage of Ground Water Development 
+: 74.2 % 
+13. 
+ 
+GROUND WATER CONTROL AND 
+REGULATION 
+:  
+ 
+ 
+Number of Over Exploited Blocks 
+: 1 
+ 
+ 
+Number of Critical Blocks 
+ 
+2 
+ 
+ 
+Number of Semi Critical Blocks 
+: 6 
+ 
+ 
+Number of Safe Blocks 
+ 
+12 
+14. 
+ 
+MAJOR GROUND WATER PROBLEMS AND 
+ISSUES 
+: 
+Cropping pattern is the main reason as 
+the Gross Ground Water Draft for 
+Irrigation is in excess of Net Annual 
+GW Availability 
+Non-availability of Surface Water for 
+irrigation. 
+High decline observed in northern part 
+(alluvium) because ground water draft 
+exceeds GW recharge for agriculture 
+purpose 
+
+3 | P a g e 
+ 
+CHAPTER-01 
+ 
+1.0 INTRODUCTION 
+Each and every human being in this world should get clean and safe drinking water. It is one 
+of the most important components that enormously influence the life of human as well as 
+other beings that are animals and plants. According to information 97% of earth’s water 
+supply is in the sea, which is not fit for human uptake. 2% of water is captured in the polar 
+ice-caps and only 1% is available as fresh water in river, lakes, streams, reservoir & ground 
+water which is available for irrigation, industries & household purposes.  
+Ground water is playing a vital role in the fulfilment of drinking, irrigational and 
+industrial needs of the district. Although the ground water was in use since the ancient times, 
+but with the population explosion, multi cropping practices in agriculture sector and rapid 
+industrial development enhanced the need of water in the district. In recent time the 
+dependency on ground water has increased manifold for socio-economic and agricultural 
+development of the region to a great extent on easily availability with low capital cost. The 
+scarcity of this vital resource can hamper the overall development of the area. The unplanned 
+and unscientific development in various part of the state has led to stress on the availability of 
+ground water resources with proper management. Due to paradigm shift from “ground water 
+development” to “groundwater management” in the past two decades in the country, it is 
+imperative to generate an accurate and comprehensive micro-level picture of groundwater 
+through aquifer mapping in different hydrogeological settings. It would enable robust 
+groundwater management plans in an appropriate scale. Aquifer mapping is a process 
+wherein a combination of geologic, geophysical, hydrologic and chemical field and 
+laboratory analyses are applied to characterize the quantity, quality and sustainability of 
+ground water in aquifers. This would help achieving drinking water security, improved 
+irrigation facility and sustainability in ground water resources development in Prayagraj 
+District Central Ground Water Board (CGWB) implemented the aquifer Mapping Programme 
+in Prayagraj District, Uttar Pradesh with broad objective of preparing an aquifer wise 
+management plan for the district. The present report is based upon the integration of existing 
+data of CGWB & Department of State government during A.A.P. 2018-19. It will be very 
+useful for the planners and various executive agencies engaged in the development and 
+management of ground water for agricultural, industrial and drinking purposes. 
+ 
+ 
+ 
+
+4 | P a g e 
+ 
+1.1 OBJECTIVE  
+The broad objective of the study is to establish the geometry of the underlying aquifer 
+systems in horizontal and vertical domain and characterize them, so as to work out the 
+development potential and prepare block wise management plan. It is envisaged to assess the 
+aquifer wise availability, utilization and water quality, especially in problematic/vulnerable 
+area. Finally, the aim of this study is to prepare block wise management plan to facilitate the 
+suitable development and management of ground water resources. 
+ 
+1.2 SCOPE OF STUDY  
+The scope of the present study is broadly outlined within the framework of National Aquifer 
+Management programme (NAQUIM) being implemented by CGWB. There are four major 
+activities viz.: (i) data collection/compilation (ii) Data gap analysis (iii) Data generation and 
+(VI) Preparation of aquifer maps and management plan to achieve the primary objective. 
+Data compilation includes collection of data and all maps from concerned Agencies, such as 
+the Survey of India, Geological Survey of India, State Ground Water Department, U.P. Jal 
+Nigam, Revenue Department., computerization and analyses of all acquired data, and 
+preparation of a data base. Identification of Data Gap included ascertaining requirement for 
+further data generation in respect of hydrometeorological, hydrogeological, geophysical, 
+chemical, studies. In continuity of data gap analysis, Data generation includes those of 
+hydrometeorology, soil infiltration, and subsurface geophysics, chemical quality of ground 
+water, litho logs and aquifer parameters. Generation of ground water chemical quality data 
+was accomplished by collection of water samples and their laboratory analyses for all major 
+parameters, heavy metals, pesticides and bacteria. Sub-surface geophysical studies are 
+incorporated vertical electrical sounding, two-dimensional image profiling, and borehole 
+logging. Additional data pertaining to sub-surface lithology and aquifer parameters are 
+obtained through drilling of additional exploratory wells and slim holes, pumping tests at the 
+drilling sites and slug tests in a number as required and their analyses.  
+ 
+1.3 APPROACH AND METHODOLOGY  
+An approach and methodology adopted to achieve the major objective are Compilation of 
+existing data collected from different sources and agencies and identification of data gaps. 
+Based on existing data various thematic layers and maps have been prepared in GIS 
+environment and aquifer maps incorporating the data and management plans are prepared.  
+ 
+
+5 | P a g e 
+ 
+1.4 STUDY AREA (ADMINISTRATIVE DETAILS) 
+Prayagraj district is located in the southern part of Uttar Pradesh. It forms a part of central 
+Ganga plain and lies between latitudes 24o47' and 25o47' North and longitudes 81o21' and 
+82o21' falling in survey of India toposheet nos. 63 G, H, K and L. Total geographical area of 
+the district is 5482 sq.km. 
+ 
+The district in general has excellent communication facilities. Prayagraj, the district 
+headquarter is connected to 
+other 
+places 
+and 
+the 
+surrounding 
+districts 
+through 
+a 
+network 
+of 
+railway 
+lives 
+and 
+all-
+weather metalled roads. 
+ 
+The district 
+is divided into 8 Tehsils 
+and 20 blocks. The rivers 
+of the district belong to the 
+main drainage system of 
+the 
+Ganga. 
+The 
+most 
+important tributaries are 
+Yamuna and Tons.  
+                        Systematic 
+hydrogeological 
+surveys, 
+reappraisal hydrogeological 
+surveys, many short term 
+investigation and scientific 
+exploration for ascertaining 
+the ground water potential 
+of various formations were  
+carried out from time to time.  
+ 
+1.5 DEMOGRAPHY 
+ 
+Total population of Prayagraj district is 4936110 as per 2001 census. The grow rate is 
+20.74% in the last 10 years. Population of Prayagraj district as per 2011 census is 5959798. 
+ 
+Figure 1.1: Administrative Map of Prayagraj District, U.P. 
+
+6 | P a g e 
+ 
+ 
+ 
+S.No. 
+Block Name 
+Population 
+Male  
+Female  
+Total 
+Growth Rate 
+1 
+Kaudrihar 
+209426 
+174866 
+384292 
+16.82 
+2 
+Holagarh 
+93802 
+88901 
+182703 
+18.39 
+3 
+Mauaima 
+95784 
+90067 
+185851 
+24.35 
+4 
+Soraon 
+101105 
+92078 
+193183 
+14.52 
+5 
+Bahria 
+140887 
+131892 
+272779 
+19.92 
+6 
+Phulpur 
+115683 
+109338 
+225021 
+17.65 
+7 
+Bahadurpur 
+155410 
+140091 
+295501 
+19.49 
+8 
+Pratappur 
+114639 
+110090 
+224729 
+20.18 
+9 
+Saidabad 
+132839 
+120327 
+253166 
+20.76 
+10 
+Dhanupur 
+119438 
+114405 
+233843 
+21.8 
+11 
+Handia 
+109197 
+101984 
+211181 
+23.35 
+12 
+Jasra 
+90543 
+81159 
+171702 
+19.88 
+13 
+Shankargarh 
+86100 
+77410 
+163510 
+20.68 
+14 
+Chaka 
+90687 
+83179 
+173866 
+2.96 
+15 
+Ladle 
+123630 
+111995 
+235625 
+19.47 
+16 
+Kaudhiara 
+83808 
+75892 
+159700 
+27.63 
+17 
+Uruva 
+105405 
+98222 
+203627 
+22.8 
+18 
+Majora 
+102828 
+94258 
+197086 
+23.98 
+19 
+Koraon 
+166226 
+150508 
+316734 
+27.3 
+20 
+Manda 
+103522 
+93897 
+197419 
+24.56 
+ 
+ 
+ 
+Figure 1.2:  Block-Wise Population Growth Rate (as on census 2011) 
+Table 1.1: Demography of Prayagraj District as per census 2011 
+
+7 | P a g e 
+ 
+1.6 Drainage / Basin: 
+ 
+The Northern half of the district occupies part of Ganga basin and Sothern part of the district 
+occupies the part of Yamuna and Tons Sub- basin. The rivers of the district belong to the 
+main drainage system of the Ganga. The most important tributaries are Yamuna and Tons 
+while those of minor systems include Sai and Yamuna. 
+             The Ganga enters the district in the Kaurihar Block. It maintains a meandering 
+course. Yamuna, the second major river, enters the district in the extreme west in the 
+Sankargarh block 
+and 
+flows 
+narrowly 
+before 
+joining 
+to 
+the 
+Ganga at Sangam 
+in the proximity 
+of Prayagraj city. 
+Yamuna 
+has 
+more 
+constant 
+channel 
+and 
+steeper banks. 
+Yamuna 
+has a more rapid 
+stream 
+and 
+flowing 
+fast 
+down a greater 
+bed slope than the 
+Ganga. Its water 
+is comparatively 
+cleaner 
+than 
+Ganga 
+water 
+most 
+of 
+the 
+streams 
+joining 
+the Yamuna are 
+mere 
+drainage 
+channels or ravines. 
+ 
+Figure 1.3: Drainage Map of Prayagraj District, U.P 
+
+8 | P a g e 
+ 
+1.7 DATA AVAILABILITY & DATA GAP ANALYSIS 
+  
+The data pertaining to various attributes of ground water were collected from available 
+literatures of Central Ground Water Board, State Departments and other agencies. The 
+compiled data were plotted on 1:50,000 scale map and analysis of Data Gap was carried out 
+for ascertaining additional requirement of Hydrogeological, Hydrological, Hydrochemical, 
+and Geophysical Studies. Data Requirement, Data Availability and Data Gap Analysis are 
+summarized in Table-2. 
+ 
+Table 1.2: Data Requirement, Data Availability and Data Gap Analysis for Aquifer Mapping 
+ 
+S. No.  Study Aspect  
+Data Requirement  
+Data Availability  Data Gap  
+1  
+Rainfall and 
+Other Climatic 
+data  
+IMD Meteorological 
+Station  
+Rainfall data of 
+Study area 
+Available  
+No  
+2  
+Soil  
+Soil Map and Soil 
+infiltration rate  
+Soil Map  
+Soil infiltration 
+test requires for 
+infiltration rate.  
+3  
+Land Use  
+Latest Land use Pattern in 
+GIS Environment  
+Land Use 
+available in 
+Satellite data and 
+UP Statistics 
+Department- 
+2018- 19  
+No  
+4  
+Geomorphology  Digitized 
+Geomorphological Map  
+Digitized 
+Geomorphological 
+Map available  
+No  
+5  
+Exploration  
+Data of Exploratory well 
+along with  
+aquifer parameters  
+ 
+21 Exploratory 
+wells and 3 Slim 
+Hole exist Aquifer 
+parameters not 
+available  
+No  
+6 
+Recharge 
+Parameters  
+ 
+Recharge parameters of 
+different soil and aquifer 
+types based on field studies  
+ 
+Recharge 
+parameters are 
+available in 
+Ground Water 
+Resource 
+Estimation  
+ 
+No  
+ 
+7 
+Discharge 
+Parameters  
+ 
+Discharge parameters for 
+different Ground Water 
+abstraction structure  
+ 
+Discharge 
+parameters are 
+available in 
+Ground Water 
+Resource 
+Estimation  
+ 
+No  
+ 
+                                            
+
+9 | P a g e 
+ 
+1.8 CROPPING PATTERN AND IRRIGATION PRACTICES:  
+ 
+Entire district of Prayagraj falls between Ganga, Yamuna and Tos rivers. The loamy soils of 
+the area are very fertile. About 64.36 % of the total geographical area of the district is 
+cultivated area. The main rabi crops are wheat and oil seeds while paddy and pulses are the 
+main kharif crops. The sparsely produced sugarcane is a non-perennial crop. 
+ 
+Table 1.3: Details of the Cropping Pattern (area in Ha) Prayagraj District 2017-18 
+ 
+S.
+No
+. 
+Block 
+Net area 
+sown 
+Area 
+sown 
+more 
+than 
+once 
+Gross area sown 
+Suga
+rcane 
+land 
+Net 
+irrigate
+d area 
+Gross 
+irrigated 
+area 
+The 
+total 
+Rabi 
+Kharif 
+Zayed 
+1 
+Kaurihar 
+19374 
+13274 
+32648 
+15296 
+16110 
+1242 
+0 
+17565 
+27798 
+2 
+Holagarh 
+12477 
+7949 
+20426 
+9124 
+9901 
+1401 
+0 
+12082 
+20844 
+3 
+Mau-Aima 
+12777 
+8647 
+21424 
+9578 
+10456 
+1390 
+0 
+12712 
+21721 
+4 
+Soraon 
+10769 
+7908 
+18677 
+8540 
+8537 
+1600 
+0 
+9576 
+16437 
+5 
+Baheria 
+18173 
+16328 
+34501 
+16118 
+16942 
+1437 
+4 
+18126 
+33732 
+6 
+Phoolpur 
+17707 
+6866 
+24573 
+10786 
+12464 
+1316 
+7 
+11018 
+21451 
+7 
+Bahadurpur 
+21075 
+6149 
+27224 
+13058 
+13398 
+722 
+46 
+11229 
+20012 
+8 
+Pratappur 
+14463 
+14514 
+28977 
+14448 
+14124 
+405 
+0 
+13262 
+24635 
+9 
+Saidabad 
+14016 
+8338 
+22354 
+11294 
+10901 
+159 
+0 
+11724 
+20601 
+10 
+Dhanupur 
+12645 
+9618 
+22263 
+11066 
+10744 
+427 
+26 
+12479 
+23433 
+11 
+Handia 
+13123 
+6345 
+19468 
+9619 
+9846 
+3 
+0 
+9764 
+17665 
+12 
+Jasra 
+18310 
+13573 
+31883 
+16764 
+15102 
+17 
+0 
+18201 
+30286 
+13 
+Shankergarh 
+22452 
+21839 
+44291 
+23207 
+20920 
+164 
+0 
+22279 
+37956 
+14 
+Chaka 
+9399 
+1513 
+10912 
+4413 
+6484 
+13 
+2 
+5242 
+7455 
+15 
+Karchhana 
+16082 
+11503 
+27585 
+13761 
+13789 
+20 
+15 
+15825 
+23502 
+16 
+Kaundhiyara 
+16083 
+5842 
+21925 
+9199 
+12658 
+10 
+58 
+15637 
+23699 
+17 
+Urwa 
+11900 
+7990 
+19890 
+10018 
+9842 
+30 
+0 
+9646 
+15855 
+18 
+Meja 
+24165 
+12434 
+36599 
+17731 
+18856 
+11 
+1 
+24075 
+35873 
+19 
+Koraon 
+45315 
+29215 
+74530 
+36629 
+37841 
+42 
+18 
+45082 
+66063 
+20 
+Manda 
+15923 
+10909 
+26832 
+15224 
+11592 
+16 
+0 
+13774 
+21323 
+Village Total 
+346228 
+220754 
+566982 
+275873 
+280507 
+10425 
+177 
+309298 
+510341 
+Urban Total 
+6462 
+55 
+6517 
+3650 
+2785 
+45 
+37 
+263 
+327 
+District Total 
+352690 
+220809 
+573499 
+279523 
+283292 
+10470 
+214 
+309561 
+510668 
+ 
+
+10 | P a g e 
+ 
+ 
+Table 1.4: Details of Area under Different Crops (area in ha) 
+ 
+S.N
+o. 
+Block Name 
+Rice Kharif 
+Rice 
+Jayad 
+Rice 
+Wheat 
+Sugarcane 
+Total 
+Irrigat
+ed 
+T
+ot
+al 
+Irrig
+ated 
+Total 
+Irrigat
+ed 
+Total 
+Irriga
+ted 
+Tota
+l 
+Irriga
+ted 
+1 
+Kaurihar 
+6377 
+6372 
+0 
+0 
+6377 
+6372 
+12494 
+12360 
+0 
+0 
+2 
+Holagarh 
+8119 
+8114 
+0 
+0 
+8119 
+8114 
+9460 
+9420 
+2 
+2 
+3 
+Mau-Aima 
+8407 
+8402 
+0 
+0 
+8407 
+8402 
+8165 
+8120 
+5 
+5 
+4 
+Soraon 
+5401 
+5396 
+0 
+0 
+5401 
+5396 
+6219 
+6184 
+22 
+22 
+5 
+Baheria 
+9350 
+8947 
+0 
+0 
+9350 
+8947 
+12941 
+12902 
+24 
+24 
+6 
+Phoolpur 
+9787 
+9750 
+0 
+0 
+9787 
+9750 
+16896 
+16470 
+37 
+37 
+7 
+Bahadurpur 
+4277 
+3966 
+0 
+0 
+4277 
+3966 
+8456 
+8415 
+0 
+0 
+8 
+Pratappur 
+8157 
+7475 
+0 
+0 
+8157 
+7475 
+11695 
+11655 
+74 
+74 
+9 
+Saidabad 
+6426 
+6421 
+0 
+0 
+6426 
+6421 
+9395 
+9375 
+30 
+30 
+10 
+Dhanupur 
+10507 
+8772 
+0 
+0 
+10507 
+8772 
+8480 
+8430 
+145 
+145 
+11 
+Handia 
+5560 
+5205 
+0 
+0 
+5560 
+5205 
+8105 
+8070 
+52 
+52 
+12 
+Jasra 
+7655 
+7300 
+0 
+0 
+7655 
+7300 
+12195 
+12145 
+0 
+0 
+13 
+Shankergarh 
+5815 
+5460 
+0 
+0 
+5815 
+5460 
+10965 
+10900 
+0 
+0 
+14 
+Chaka 
+2478 
+1377 
+0 
+0 
+2478 
+1377 
+4065 
+3990 
+0 
+0 
+15 
+Karchhana 
+4885 
+4880 
+0 
+0 
+4885 
+4880 
+10765 
+10720 
+171 
+171 
+16 
+Kaundhiyara 
+7811 
+7365 
+0 
+0 
+7811 
+7365 
+10325 
+10262 
+26 
+26 
+17 
+Urwa 
+3863 
+2863 
+0 
+0 
+3863 
+2863 
+6855 
+6820 
+10 
+10 
+18 
+Meja 
+11547 
+10035 
+0 
+0 
+11547 
+10035 
+29390 
+29255 
+10 
+10 
+19 
+Koraon 
+19926 
+19021 
+0 
+0 
+19926 
+19021 
+41650 
+40626 
+38 
+38 
+20 
+Manda 
+8441 
+7245 
+0 
+0 
+8441 
+7245 
+9723 
+9669 
+18 
+18 
+Village Total 
+154789 
+144366 
+0 
+0 
+154789 
+144366 
+248239 
+245788 
+664 
+664 
+Urban Total 
+866 
+849 
+0 
+0 
+866 
+849 
+1663 
+1663 
+2 
+2 
+District Total 
+155655 
+145215 
+0 
+0 
+155655 
+145215 
+249902 
+247451 
+666 
+666 
+ 
+
+11 | P a g e 
+ 
+ 
+ 
+Table 1.5: Details of the distribution of Surface and Ground Water for Irrigation (Area in ha) 
+S.
+No
+. 
+Block 
+Canal 
+Tube Well 
+Dugwel
+l 
+Pond 
+Other 
+Total 
+SW 
+Source 
+GW 
+Source 
+State 
+Private 
+1 
+Kaurihar 
+3021 
+101 
+14443 
+0 
+0 
+0 
+17565 
+3021 
+14544 
+2 
+Holagarh 
+5954 
+348 
+5780 
+0 
+0 
+0 
+12082 
+5954 
+6128 
+3 
+Mau-Aima 
+6382 
+256 
+6074 
+0 
+0 
+0 
+12712 
+6382 
+6330 
+4 
+Soraon 
+2799 
+537 
+6240 
+0 
+0 
+0 
+9576 
+2799 
+6777 
+5 
+Baheria 
+5079 
+77 
+12462 
+508 
+0 
+0 
+18126 
+5079 
+13047 
+6 
+Phoolpur 
+3451 
+329 
+7139 
+78 
+19 
+2 
+11018 
+3472 
+7546 
+7 
+Bahadurpur 
+474 
+371 
+10016 
+361 
+3 
+4 
+11229 
+481 
+10748 
+8 
+Pratappur 
+939 
+1201 
+11122 
+0 
+0 
+0 
+13262 
+939 
+12323 
+9 
+Saidabad 
+165 
+312 
+11227 
+20 
+0 
+0 
+11724 
+165 
+11559 
+10 
+Dhanupur 
+1591 
+875 
+10013 
+0 
+0 
+0 
+12479 
+1591 
+10888 
+11 
+Handia 
+1437 
+643 
+7676 
+8 
+0 
+0 
+9764 
+1437 
+8327 
+12 
+Jasra 
+11122 
+728 
+6141 
+8 
+139 
+63 
+18201 
+11324 
+6877 
+13 
+Shankergarh 
+17909 
+223 
+2778 
+219 
+1097 
+53 
+22279 
+19059 
+3220 
+14 
+Chaka 
+2705 
+1135 
+1402 
+0 
+0 
+0 
+5242 
+2705 
+2537 
+15 
+Karchhana 
+9821 
+1887 
+3958 
+139 
+0 
+20 
+15825 
+9841 
+5984 
+16 
+Kaundhiyara 
+13339 
+552 
+1726 
+20 
+0 
+0 
+15637 
+13339 
+2298 
+17 
+Urwa 
+2628 
+1225 
+5793 
+0 
+0 
+0 
+9646 
+2628 
+7018 
+18 
+Meja 
+18171 
+87 
+5293 
+377 
+115 
+32 
+24075 
+18318 
+5757 
+19 
+Koraon 
+37130 
+0 
+2633 
+4860 
+452 
+7 
+45082 
+37589 
+7493 
+20 
+Manda 
+4589 
+501 
+6852 
+1269 
+505 
+58 
+13774 
+5152 
+8622 
+Village Total 
+148706 
+11388 
+138768 
+7867 
+2330 
+239 
+309298 
+151275 
+158023 
+Urban Total 
+14 
+0 
+138 
+111 
+0 
+0 
+263 
+14 
+249 
+District Total 
+148720 
+11388 
+138906 
+7978 
+2330 
+239 
+309561 
+151289 
+158272 
+ 
+Figure 1.4: Block wise areal distribution of Crops (Area in ha) 
+0
+5000
+10000
+15000
+20000
+25000
+30000
+35000
+40000
+45000
+Rice
+Wheat
+Sugarcane
+
+12 | P a g e 
+ 
+ 
+ 
+ 
+ 
+Block  
+Area Irrigated by Surface 
+water/Canal (ha)  
+Area Irrigated by 
+Ground Water (ha)  
+Contribution of GW 
+(%)  
+Kaudrihar 
+3021 
+14544 
+82.8 
+Holagarh 
+5954 
+6128 
+50.72 
+Mouaima 
+6382 
+6330 
+49.79 
+Soraon 
+2799 
+6777 
+70.77 
+Bahria 
+5079 
+13047 
+71.97 
+Phulpur 
+3451 
+7487 
+68.44 
+Bahadurpur 
+474 
+10748 
+95.77 
+Pratappur 
+939 
+12323 
+92.91 
+Saidabad 
+165 
+11559 
+98.59 
+Dhanupur 
+1591 
+10888 
+87.25 
+Handia 
+1437 
+8327 
+85.28 
+Jasra 
+11122 
+6877 
+38.2 
+Shankargarh 
+17909 
+3220 
+15.23 
+Chaka 
+2705 
+2543 
+48.45 
+Karchhana 
+9821 
+5984 
+37.86 
+Kaudhiyara 
+13339 
+2298 
+14.69 
+Uruva 
+2628 
+7018 
+72.75 
+Meja 
+18171 
+5757 
+24.05 
+Koraon 
+37130 
+7493 
+16.79 
+Manda 
+4589 
+8622 
+65.26 
+Total Rural 
+148706 
+158023 
+51.51 
+Total Urban 
+14 
+249 
+94.67 
+Total Districts 
+148720 
+316242 
+68.01 
+ 
+Table 1.6: Irrigation by Surface and Ground Water in 2017-18, Prayagraj District 
+SW Source 
+49% 
+GW Source 
+51% 
+Contribution of GW & SW 
+Figure 1.5: Distribution of Surface and Ground Water use 
+
+13 | P a g e 
+ 
+ 
+ 
+ 
+Block 
+Length 
+of 
+canals 
+(km) 
+State 
+tube well 
+(number
+) 
+Pucca 
+well 
+(numbe
+r) 
+Geostati
+onary 
+Pumpset 
+(Number
+) 
+Shallow tube wells 
+Mediu
+m 
+Tube 
+(Numb
+er) 
+Deep 
+Tube 
+(Number
+) 
+Electric
+ally 
+operate
+d 
+Diesel 
+powere
+d 
+othe
+r 
+Yoga 
+Kaudrihar 
+99 
+84 
+0 
+0 
+682 
+2644 
+7 
+3333 
+342 
+236 
+Holagarh 
+84 
+1 
+0 
+0 
+226 
+3328 
+45 
+3599 
+50 
+30 
+Mouaima 
+82 
+6 
+128 
+0 
+476 
+3364 
+7 
+3847 
+48 
+54 
+Soraon 
+56 
+18 
+436 
+0 
+390 
+2104 
+6 
+2500 
+126 
+69 
+Bahria 
+119 
+33 
+4 
+0 
+872 
+3018 
+18 
+3908 
+275 
+117 
+Phulpur 
+112 
+51 
+0 
+4 
+562 
+2488 
+52 
+3102 
+256 
+145 
+Bahadurpur 
+10 
+77 
+0 
+0 
+784 
+595 
+4 
+1383 
+35 
+343 
+Pratappur 
+109 
+66 
+0 
+0 
+543 
+1388 
+21 
+1952 
+310 
+71 
+Saidabad 
+55 
+94 
+0 
+0 
+766 
+1098 
+3 
+1867 
+273 
+258 
+Dhanupur 
+19 
+69 
+3 
+0 
+1570 
+884 
+6 
+2460 
+186 
+22 
+Handia 
+28 
+76 
+0 
+23 
+543 
+634 
+2 
+1179 
+50 
+232 
+Jasra 
+139 
+60 
+62 
+13 
+175 
+1800 
+34 
+2009 
+118 
+103 
+Shankargarh 
+182 
+2 
+275 
+254 
+10 
+69 
+0 
+79 
+13 
+22 
+Chaka 
+15 
+84 
+0 
+0 
+231 
+255 
+1 
+487 
+185 
+139 
+Karchhana 
+102 
+172 
+0 
+121 
+658 
+1095 
+3 
+1756 
+276 
+280 
+Kaudhiyara 
+132 
+30 
+0 
+0 
+133 
+2398 
+4 
+2535 
+49 
+29 
+Uruva 
+71 
+161 
+44 
+0 
+368 
+727 
+0 
+1095 
+396 
+188 
+Meja 
+240 
+4 
+350 
+150 
+14 
+652 
+3 
+669 
+28 
+98 
+Koraon 
+308 
+0 
+1469 
+240 
+25 
+2181 
+16 
+2222 
+9 
+9 
+Manda 
+183 
+19 
+1116 
+0 
+62 
+1189 
+2 
+1253 
+10 
+28 
+Total Rural 
+2145 
+1107 
+3887 
+805 
+9090 
+31911 
+234 
+41235 
+3035 
+2473 
+Total urban 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+Total forest 
+area 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+Total 
+District 
+2145 
+1107 
+3887 
+805 
+9090 
+31911 
+234 
+41235 
+3035 
+2473 
+Figure 1.6: Block wise irrigated area (ha) by Surface and Ground Water
+Table 1.7: Details of the Irrigation Sources in Prayagraj District 2018-19 
+
+14 | P a g e 
+ 
+ 
+1.9 RAINFALL AND CLIMATE 
+Prayagraj features the typical version of a humid subtropical climate that is common to cities 
+in north-central India. The average annual rainfall is 1207.00 mm. November to February is 
+followed by summer season from March to June. About 90% of rainfall takes place after 
+south-west monsoon season commences from middle of June to September. During monsoon 
+surplus water is available for deep percolation to ground water. 
+January is the coldest month with mean daily minimum temperature at 9.1oC and 
+mean daily maximum temperature at 23.7oC. May is the hottest month with mean daily 
+maximum temperature at 42.1oC and mean daily minimum temperature at 27.4oC with the 
+advance of the south-west monsoon about middle of June the the  
+Day 
+temperature 
+drops appreciably, 
+but 
+night 
+temperature is a 
+little higher than 
+May. The mean 
+monthly 
+maximum 
+temperature 
+is 
+32.8oC and means 
+monthly minimum 
+temperature 
+is 
+19.5oC. 
+During the monsoon season the air is very humid and after onset of the monsoon 
+season humidity decreases progressively. The mean monthly morning relative humidity is 
+64% and means monthly evening relative humidity is 48%. 
+Winds are generally high throughout the year with some increase in force in summer 
+and monsoon season. The mean wind velocity is 5.1 kmph. The potential evapotranspiration 
+is 1537.5 mm. 
+ 
+Figure 1.7: Average Annual Rainfall (mm) in Prayagraj District 
+
+15 | P a g e 
+ 
+ 
+YEAR 
+JAN 
+FEB 
+MAR 
+APR 
+MAY 
+JUN 
+JUL 
+AUG 
+SEP 
+OCT 
+NOV 
+DEC 
+Total 
+RF 
+Monsoon 
+RF 
+Non- 
+Monsoon 
+Departure 
+from Normal 
+Rainfall (mm) 
+% Departure 
+from Normal 
+Rainfall (mm) 
+Status 
+2010 
+3.6 
+19.2 
+0.0 
+0.5 
+7.5 
+8.5 
+201.7 
+160.6 
+126.4 
+45.5 
+5.3 
+0.0 
+578.8 
+497.2 
+81.6 
+-323.8 
+-35.87 
+Deficient 
+2011 
+0.9 
+4.5 
+0.0 
+9.3 
+12.2 
+237.3 
+171.0 
+282.3 
+266.4 
+0.0 
+0.0 
+0.0 
+983.9 
+957 
+26.9 
+81.3 
+9.01 
+Normal 
+2012 
+43.7 
+0.0 
+0.8 
+9.2 
+0.1 
+23.1 
+385.4 
+246.1 
+363.5 
+2.7 
+0.0 
+0.0 
+1074.6 
+1018.1 
+56.5 
+172 
+19.06 
+Normal 
+2013 
+0.0 
+68.1 
+3.2 
+0.3 
+0.0 
+245.0 
+294.8 
+337.9 
+64.1 
+220.3 
+0.0 
+0.6 
+1234.3 
+941.8 
+292.5 
+331.7 
+36.75 
+Excess 
+2014 
+81.8 
+47.6 
+28.7 
+0.0 
+2.9 
+38.2 
+208.1 
+149.2 
+73.6 
+114.5 
+0.0 
+9.7 
+754.3 
+469.1 
+285.2 
+-148.3 
+-16.43 
+Normal 
+2015 
+59.9 
+1.0 
+48.3 
+33.8 
+0.0 
+81.9 
+160.1 
+156.6 
+14.2 
+19.9 
+0.0 
+1.2 
+576.9 
+412.8 
+164.1 
+-325.7 
+-36.08 
+Deficient 
+2016 
+9.5 
+0.8 
+23.8 
+0.0 
+4.6 
+51.7 
+229.7 
+398.6 
+162.3 
+29.4 
+0.0 
+0.0 
+910.4 
+842.3 
+68.1 
+7.8 
+0.86 
+Normal 
+2017 
+0.2 
+0 
+0.1 
+1.2 
+4.7 
+40.2 
+466.7 
+117.8 
+60.9 
+0.4 
+0 
+0 
+692.2 
+685.6 
+6.6 
+-210.4 
+-23.31 
+Deficient 
+2018 
+0 
+6.6 
+0 
+15.4 
+27.4 
+24.3 
+244.1 
+292.9 
+89.5 
+0 
+0.2 
+0 
+700.4 
+650.8 
+49.6 
+-202.2 
+-22.40 
+Deficient 
+2019 
+10.5 
+7 
+2.2 
+1.7 
+0.9 
+17.2 
+306.8 
+279.5 
+385.8 
+68 
+0 
+19.2 
+1098.8 
+989.3 
+109.5 
+196.2 
+21.74 
+Excess 
+2020 
+16.5 
+5.4 
+34.8 
+21.9 
+35.6 
+147 
+228.5 
+223 
+135.2 
+0 
+2.5 
+5.4 
+855.8 
+733.7 
+122.1 
+-46.8 
+-5.19 
+Normal 
+ 
+ 
+-40.00
+-30.00
+-20.00
+-10.00
+0.00
+10.00
+20.00
+30.00
+40.00
+50.00
+Deficient
+Normal
+Normal
+Excess
+Normal
+Deficient
+Normal
+Deficient
+Deficient
+Excess
+Normal
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+% Departure from Normal Rainfall (mm) 
+ 
+Year 
+Rainfall Status (2010-2020) 
+Figure 1.8: Departure of 
+rainfall from normal 
+rainfall, Prayagraj District 
+ 
+Table 1.8: Rainfall Data (mm) and Departure from Normal Rainfall (mm), Prayagraj District, U.P. (2010-2020) 
+
+16 | P a g e 
+ 
+ 
+1.10 GEOMORPHOLOGY AND SOIL TYPES 
+The district is drained by river Ganga and its right bank tributary Yamuna and Tons, broadly 
+represents following geomorphic units- 
+a) Ganga alluvial plains. 
+b) Yamuna alluvial plains and 
+c) Vindhyan plateau 
+The alluvial plains may be further sub-divided into newer alluvial plain and older alluvial 
+plain. Newer alluvial 
+plains are confined to 
+present 
+day 
+flood 
+plain region all along 
+the rivers while the 
+older alluvial occupy 
+the 
+higher 
+parts 
+within the northern 
+portions 
+of 
+the 
+district. 
+No 
+significant 
+alluvial 
+deposits are present 
+over 
+the 
+Yamuna 
+region. The important 
+land forms observed 
+in the alluvial plain 
+are 
+the 
+meanders, 
+scrolls, 
+point bars, 
+back swamps etc. 
+     In the Vindhyan 
+plateau 
+region 
+the 
+important forms are 
+mesa, 
+butte 
+and 
+glacies. From ground  
+Water occurrence point of view and its yield prospects, the alluvial plains sediments are the 
+most potential ground water repositories.  
+Figure1. 9: Geomorphological map of Prayagraj District 
+
+17 | P a g e 
+ 
+In Vindhyan plateau region the formation though hard sediments are very well jointed 
+giving rise to promising level of secondary porosity to hold and yield water. The northern 
+part 
+of 
+Prayagraj 
+district 
+popularly 
+known 
+as 
+Gangapar 
+provides ric
+h 
+loam 
+soil for 
+cultivation 
+of 
+food 
+grains, 
+pulses, 
+oilseeds 
+and 
+vegetables. 
+The 
+Southern 
+part 
+of 
+Prayagraj 
+district also 
+known 
+as 
+Yamunapar 
+is 
+partly 
+rocky 
+and 
+somewhat 
+agricultural
+ly backward. 
+ 
+ 
+ 
+ 
+Figure 1.10:  Soil Map of Prayagraj District 
+
+18 | P a g e 
+ 
+1.11 LAND USE/LAND COVER 
+A major part of the land in the district is utilized for agriculture purpose. As per the latest 
+statistical data available for the year 2017-18, following land utilization pattern has been 
+observed in 
+the district 
+(Table 
+9). 
+Land 
+use 
+distribution 
+and map of 
+Prayagraj 
+district 
+is 
+shown 
+in 
+Figure-11 
+and Figure-
+12. 
+A 
+perusal of 
+the Table-9 
+and figure-
+11 
+and 
+figure-12 
+shows that 
+63% 
+of 
+land in the 
+district 
+is 
+used 
+for 
+agricultural 
+activities, 
+17 % land 
+other than 
+agriculture, 
+6% current fallow 
+ and 4% other  fallow, 4% is forest cover,  3% barren land, 2% cultivable waste land and rest 
+are trees and grasses. 
+ 
+Figure 1.11: Landuse and Landcover Map, Prayagraj 
+
+19 | P a g e 
+ 
+S.No. 
+Block Name 
+  
+Block - wise Land Use in the district in Hectare 
+Agricultural 
+land 
+Forest 
+Cultivable 
+Waste 
+Land 
+Current 
+fallow  
+Another 
+Fallow 
+Barren 
+Land 
+Land other 
+than 
+agriculture 
+Grasslands 
+Area of 
+garden, 
+trees & 
+shrubs 
+1 
+Kaudrihar 
+19374 
+132 
+392 
+9303 
+3290 
+1225 
+9755 
+24 
+685 
+2 
+Holagarh 
+12477 
+0 
+71 
+765 
+532 
+299 
+2462 
+110 
+475 
+3 
+Mouaima 
+12777 
+12 
+152 
+477 
+404 
+511 
+1249 
+120 
+49 
+4 
+Soraon 
+10769 
+10 
+126 
+437 
+1009 
+114 
+2535 
+24 
+242 
+5 
+Bahria 
+18173 
+0 
+88 
+937 
+225 
+1079 
+6024 
+114 
+174 
+6 
+Phulpur 
+17707 
+0 
+275 
+1707 
+707 
+1220 
+6135 
+107 
+407 
+7 
+Bahadurpur 
+21075 
+0 
+239 
+2165 
+353 
+1577 
+5899 
+81 
+61 
+8 
+Pratappur 
+14463 
+1 
+48 
+1851 
+534 
+320 
+5215 
+16 
+264 
+9 
+Saidabad 
+14016 
+2 
+34 
+2119 
+335 
+359 
+3120 
+1 
+744 
+10 
+Dhanupur 
+12645 
+18 
+70 
+986 
+403 
+155 
+4912 
+15 
+344 
+11 
+Handia 
+13123 
+0 
+151 
+1063 
+335 
+239 
+2818 
+22 
+246 
+12 
+Jasra 
+18310 
+0 
+321 
+1384 
+562 
+1210 
+3735 
+10 
+73 
+13 
+Shankargarh 
+22452 
+5218 
+3708 
+2969 
+2184 
+1376 
+1871 
+12 
+394 
+14 
+Chaka 
+9399 
+0 
+293 
+387 
+360 
+1603 
+3677 
+58 
+231 
+15 
+Karchhana 
+16082 
+0 
+162 
+856 
+1029 
+113 
+7028 
+0 
+570 
+16 
+Kaudhiyara 
+16083 
+0 
+212 
+414 
+416 
+170 
+2889 
+5 
+237 
+17 
+Uruva 
+11900 
+17 
+44 
+648 
+338 
+252 
+3739 
+0 
+235 
+18 
+Meja 
+24165 
+4383 
+859 
+2408 
+1520 
+1774 
+1131 
+13 
+70 
+19 
+Koraon 
+45315 
+6415 
+762 
+365 
+480 
+240 
+3062 
+877 
+20 
+20 
+Manda 
+15923 
+5264 
+2173 
+1646 
+1035 
+378 
+5407 
+30 
+52 
+  
+District Total 
+352690 
+21476 
+11340 
+33910 
+20728 
+14947 
+94690 
+1639 
+5654 
+Table 1.9: Block wise Land use pattern of Prayagraj District 2017-18 (Source: Statistical Diary, Directorate of Economics and Statistics, Govt. of U.P. 
+
+20 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1.12: Land use and agricultural activities, Prayagraj District (2017-18) 
+
+21 | P a g e 
+ 
+CHAPTER-02 
+ 
+DATA COLLECTION, GENERATION, INTERPRETATION, INTEGRATION AND 
+AQUIFER MAPPING 
+ 
+2.1 GEOLOGY   
+The district represents a complex geology. The formation belonging to Quaternary period 
+covers larger part of the district which directly overlies over the Vindhyan formations which 
+covers bulk of the district area. The southern plateau area constitutes the Vindhyan sediments 
+whereas the Quaternary covers the northern part of the district (Figure-2.2). Following is the 
+generalized geological sequence: 
+Quaternary: Alluvium – Sand, silt, clay and Kankar, Laterite. 
+Pre Cambrian-Vindhyans:  Sand stone and shale (Kaimur sandstone and Bijaigarh Shale). 
+The Distribution of geological formations in Prayagraj district is described as under- 
+ Vindhyans: Different stages of Kaimaur formations, belonging to upper Vindhyans, 
+exposed in the extreme Sothern part of the district. The oldest formations exposed are 
+Bijaigarh Shale in the edge of the district around Hanumangunj in Koraon block. Further to 
+the north the sandstone and quartzites , representing the uppermost part of the Kaimur series, 
+are seen as isolated part of the district covering the blocks of Meja,Manda, Koraon and 
+Shankargarh, The Vindhyans forms the floor of the younger sediments in the Cis-Yamuna 
+area.  
+Laterite: The Laterite normally overlies Vindhyans at certain places .it is reddish brown to 
+chocolate in color, highly ferruginous, and perforated mass. 
+Alluvium: The whole of Trans-Ganga, Doab and Part of Trans – Yauna tract is covered by 
+the Ganga alluvium of Quaternary age. The alluvium detritus of Vindhyan is found at some 
+places in the southern part of the Doab. In Trans – Yamuna tract, The Vindhyan detritus 
+merges with the Yamuna sand and silt. 
+      The thickness of the alluvial sediments gradually increases in the north and maximum 
+thickness is encountered within the flood plain area of river Ganga and Yamuna. 
+Greater thickness is encountered within the Trans – Ganga area where it exceeds 300meters 
+followed by doab region where it is less than 250meters and ultimately less than 50 meters in 
+the Trans-Yamuna region. The alluvial sediments essentially composed sands of various 
+grades, clay and silts within the unconsolidated granular mass assemblage of nodular 
+concretions of Calcium Carbonate have been recorded at different depths. 
+
+22 | P a g e 
+ 
+ 
+ 
+2.2 Hydrogeological Framework: 
+Ground water in the district occurs both in alluvium and the weathered and jointed sandstone 
+in area which are underlain by hard rocks. Two-broad based hydrogeological units namely 
+unconsolidated (Alluvium) and consolidated (Hard Rock) have been identified. 
+ The unconsolidated or alluvial formations occur in the Trans- Ganga and Doab region. 
+Localized patches of Trans Yamuna region are also covered by the unconsolidated 
+formations.  
+Occurrence of consolidated formations is restricted primarily Trans – Yamuna tract 
+and this sizable area flanks the southernmost segment of the district.  
+2.2.1 Alluvium Area: Ground water occurs within the primary porosity of alluvial sediments 
+in the north, the aquifer materials are medium to coarse grained sands. The shallow aquifer 
+materials are medium to coarse grained sands. The shallow aquifer occurs under unconfined 
+condition while deeper aquifers are under semi confined to confined conditions. 
+2.2.2 Ground water flow: Water table elevation map prepared, available data indicates that 
+ground water flow is towards the river Ganga in the north and river Yamuna in the south i.e. 
+both the rivers are effluent in nature.  
+ 
+Figure 2.1: Geological Map of Prayagraj District 
+
+23 | P a g e 
+ 
+ 
+ 
+2.2.3 Hard Rock Area: The Ground water in the widely covered Vindhyan Plateau region 
+primarily occurs under unconfined condition within the secondary porosity of the formation. 
+However, exploration data indicates that Kaimur sandstone found at depths does have enough 
+potentiality. These sandstones after leaching of cementing material get disintegrated and 
+reduce to silica sand which are loose and act as promising repository of ground water. Below 
+the sandstone particularly in the western part of the plateau region shales have been 
+encountered which possess reasonable development of secondary porosity and projects 
+moderate prospect of occurrence of ground water. 
+Figure 2.2: Hydrogeological Map of Prayagraj District 
+
+24 | P a g e 
+ 
+Earlier studies indicated presence of four sets of vertical joints of variable dimensions in the 
+sandstone and have reasonable yield prospects. 
+Sand Horizons are conspicuously exposed in the extreme NW part where silica sand are 
+being mined and used in ceramics. These sand beds may be termed as Marker Horizon.” 
+Above the Marker Horizon, friable sandstone or loose sandy matrix occurs which are the 
+weathering products of the Kaimur Sandstone. Below the marker horizon occurs compact 
+sandstone which is normally fractured and yield fairly good quantity of fresh water. 
+Hydrogeological Scenarios in the hard rock region is highly variable. Geomorphology, 
+besides geology, plays an important role in the occurrence and movement of ground water. 
+2.3 Sub-Surface Geology: Sub – surface geology has been deciphered from the study of 
+lithological logs and electrical logs of the boreholes drilled by central ground water board. In 
+order to decipher the sub – surface disposition of aquifer system, 5 numbers of linear sections 
+and two numbers of Fence Diagrams were prepared. Location of tube wells and section lines 
+have shown in the index map (Figure 2.3). 
+ 
+ 
+ 
+ 
+ 
+Figure 2.3: Index Map depicting Location of tube wells and section lines 
+
+25 | P a g e 
+ 
+2.3.1 Geological cross-section along A-B line 
+This section runs in the NW-SE direction of the district covering the Sirathu, Chail and 
+Karachana blocks covering a distance of 70kms. Boreholes depth ranges from 113.68 m 
+(Basaha-I ) to  278.12 m ( Sulem Sarai ).The top clay, which is sandy in nature, at places 
+ranges in thickness from 2m to 20m. Thickness of clay is maximum at Sulem Serai and 
+minimum at Basahai. Below this clay blanket, lies the 1st aquifer which is continuous and 
+extends upto 120 m. This aquifer is inter spaced with 4 minor clay beds which are 2-10 m in 
+thickness and at places it remains admixed with sands , fine to medium grained .the clay and 
+sand beds so described occurs as alternates layers. In the top or first aquifer, the sandy 
+horizon is encountered at 20m depth below the top clay blanket and continues at 120m. Its 
+thickness progressively increases towards the Ganga and Yamuna and attains at its maximum 
+at Basahi. The intercalated minor clay beds having the maximum thickness at Nighawawan.  
+ 
+The alternate sandy horizon has 10-25 m of granular material which is generally medium to 
+fine grained greyish sand essentially composed of quartz, feldspars and ferromagnesian 
+minerals. The coarse sediments are rounded to sub rounded and well sorted. The size of the 
+sand grains increases towards Ganga and Yamuna. Mostly, state tube wells are confined to 
+first aquifer only and yielding good discharge. The second aquifer starts below 150 m and 
+Figure-2.4: Geological cross-section along A-B line 
+
+26 | P a g e 
+ 
+continues up to basement. Its thickness varies at places. The first and second aquifers are 
+separated by a thin clay layer 10-15 m in thickness. This clay is sticky and hard yellowish. 
+Below this impermeable zone the sandy horizon has 30-40 meters of granular material which 
+is generally medium to coarse grained and mixed with gravel sorted to well sort comprised of 
+smoky quartz, feldspars and ferromagnesian minerals. This aquifer has very high potentiality. 
+Below this sandy horizon (second aquifer) a 20-30m thick clay bed exists, whose thickness is 
+maximum at Basahai, overlying the bed rock (shale) which has been encountered at 
+Nighuwan at a depth of 192.7m. Depth of basement sediments is maximum at salem sarai 
+279.12m (sandstone) and shallowest at Basahai 113.68m (shale) phenomenal presence of 
+Vindhyan formation exist in the entire section drawn. 
+2.3.2 Geological cross – section along C-D line 
+This section runs along due SW-NE in the southern part of the district. This section depicts 
+the subsurface disposition from Itwa kalan to Bandhwaka-lan, and is approximately 
+41.6kms.long depth of boreholes along this section ranges from 105.25 to 153.95m.Thickness 
+of surface clay blankets is 16m at Itawa kalan which progressively decreases  
+ 
+towards Saliya Khurd and at Saliya Khurd it becomes negligible where the weathered rock is 
+exposed . From Saliya Khurd to Bandhwakalan where it is found to occurs and mixed with 
+Figure 2.5: Geological cross – section along C-D line 
+
+27 | P a g e 
+ 
+Kankars and fine grained sand at places. The top sand horizon occurs below this clay layer at 
+Naya Kohrar and the thickness of the granular horizon increases towards Bandhwakalan 
+where it attains up to 20m, and forms the aquifer in the alluvial portion. 
+Alluvial mantle is maximum at Bandhwakalan (50 m) and minimum at Itwakalan and zero at 
+Saliya Khurd underlying the alluvium weathered sandstone occurs which is rather lateritic . 
+Below the weathered zone sandstone occurs.  This typical friable sandstone thickness is 
+maximum at Saliya Khurd whereas minimum at Bandhwakalan. Below this sandstone a 
+highly friable silica sand bed of 5 to 8 m thickness occurs at a depth of 36m at Itwa Kalan. 
+The sand is medium grained, well sorted and has pronouncedly developed due to leaching of 
+the cementing material. This sand is locally knows as ‘Shankargarh Sand”. Below the 
+shankargarh sand the friable and less compact sandstone occur whose compactness increases 
+with depth. Generally the secondary porosity gives rise to cracks, fissures and joints up to 
+100m. At Itwa-kalan secondary openings are found upto 73m  and this characteristics is 
+pronounced up to 100 m at Nayakohrar and Bandhwa Kalan 
+2.3.3 Geological section along line E-F 
+This section runs in W-E direction and depicts the sub surface disposition of geological 
+formation in the southern part of Allahabad district extending from Benipur (Shankargarh) to 
+Newaria. This section is approximately 57kms long and depth of borehole ranges from 111.7  
+Figure 2.6: Geological cross section along E-F line 
+
+28 | P a g e 
+ 
+to 202.30m. The drawn section depicts that thickness of alluvium is almost negligible at 
+Benipur and maximum at Sahpur Kalan (45.75). Thickness of clay blanket is 20-22m at Jari 
+and Sahpur Kalan and 10m at Newaria. Below this clay capping the alluvial aquifer exists, 
+having thickness ranging from 9-14m at Jari and Sahpur Kalan. This alluvial aquifer 
+essentially composed of medium to coarse grained sand, well sorted, rounded to sub-rounded 
+and brownish in colour. Shallow tubewells tapping the granular zones in the alluvium can be 
+constructed. 
+Below the alluvium a thin 1-2m thick weathered mantle occurs. Friable and whitish 
+sandstone occurs below weathered mantle. This friable sandstone has become highly friable 
+at Benipur giving rise to loose whitish, fine and medium grained sand locally known as 
+“Shankargarh Sand”. Thickness of this Shankargarh sand is 25m at Benipur and is being 
+exposed due west of Benipur towards Yamuna River. ts thickness about 20m at Sahpur 
+Kalan near Tons river and in rest of the places namely, at Jari and Newaia it is about 5m. 
+Below this Shankargarh sand white and purple colour, fine to medium grained sandstone 
+exists. Ground water occurs in the weathered and jointed sandstone. Cracks, joints and 
+fissures have developed upto a maximum depth of 110m. These sandstones overlie Bijaigarh 
+shale which is greyish in colour and impermeable. These shales were encountered at benipur 
+and Jari exploratory boreholes and their local extension and thickness could not be making 
+out. 
+2.3.4 Geological section along G-H line 
+This section runs N to S direction in south- western part of Prayagraj district. It  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.7: Geological cross-section along G-H line 
+
+29 | P a g e 
+ 
+Depicts subsurface disposition of formations from Garauli to Gobra and is approx. 43kms 
+long. Depth of boreholes considered for depiction varies from 101.66 to 190.00 m. 
+It could be seen thickness of top clay is maximum at Carauli and gradually increases 
+towards the river Yamuna. Below this clay blanket the major aquifer exists which is 40-45 m 
+thick intercalated with minor clay lenses. The aquifer material comprises of fine to medium 
+grained sand inter mixed with gravels at places. Below this aquifer horizon weathered 
+material do exist followed by friable sandstone of Yamuna par (trans-Yamuna) area. 
+A major fault does exist along the river Yamuna which separates the sub-surface 
+features in Trans-Yamuna area.  
+ 
+2.3.5 Geological cross-section along X-Y line 
+This section, which is of 73km long runs due SW to NE and depicts the sub-surface 
+disposition of aquifer system in the southern part of the district extending from Nari Bari to 
+Delhupur. The depth of boreholes considered ranges from 78.6m to 447.96m.  It is evident 
+from the section configuration that there is a marked litho-characteristic difference in the sub-
+surface formations encountered north of the river Yamuna. A major fault lies along the river 
+Yamuna which separates the sub-surface features. It is conjectured west from Nari-Bari up to 
+Yamuna River the alluvial thickness is maximum near Yamuna and minimum at Nari Bari 
+(3m). In the alluvial (40m) mass generally a thick clay bed occurs at places intermixed with 
+sand, medium to fine grained. Weathered rock exists below this clay layer which acts as a  
+
+30 | P a g e 
+ 
+ 
+Capping over the Vindhyan sandstone. It varies from 0.3m to 0.5m. Below this weathered 
+rock purple to whitish colour medium to fine grained sandstone exists which is friable in 
+nature. Below this silica sand occurs which is good ground water repository. Thickness of 
+this highly friable fine to medium grained white silica sand is 5-10m. Rock masses become 
+more compact and impermeable at depth. Bijaigarh shale exists at depth of 168.75m at Jari. 
+Ground water in this hard rock occurs in the weathered and jointed sandstones. Secondary 
+porosity has developed cracks, joints and fissures bedding planes along Nari Bari to Konri 
+serve as a potential ground water repository. In this alluvial area from Daraganj to Delhupur 
+section a clay layer 10-20m thick exists at the top whose thickness is maximum at Delhupur. 
+Below this clay blanket the first aquifer upto a depth of 120m exists which is separated by 
+minor clay beds of 5-10m thickness. Sand and clay beds occur alternatively. Thicknesses of 
+sand horizons are maximum at Bhadri. The sands are medium to coarse grained and found 
+occasionally associated with gravels which is composed of quartz and feldspar and little 
+amount of ferromagnesian minerals. Below 120m prominent sticky and hard yellow clay 
+exists which is 10-12m thick and its thickness increases towards Delhupur. Below this clay 
+layers of sand bed occurs which is 10-30m thick. Sand layers comprised of medium to coarse 
+sand and mixed with gravel. These sands are well sorted with angular to sub – angular 
+sediments. Vindhyan basement (Lime stone) was encountered at a depth of 250.55m at 
+Daragunj. Thickness of bed rock increases towards Delhupur and the same has been 
+encountered in Bhadri and Delhupur exploratory boreholes. 
+2.3.6 Fence Diagram of  Alluvial and Hard Rock Area 
+To decipher the sub-surface configuration of the aquifer system over the district fence 
+diagram has been drawn utilizing lithological logs of exploratory boreholes drilled by central 
+ground water board. Review of the fence diagram reveals that two tier aquifer systems, beside 
+the phreatic zone, exist in the Cis-Ganga-Yamuna area. The top aquifer disposition ranges 
+from 25-120 m below ground level in general.  In the eastern part of the district the thickness 
+of this aquifer increases gradually in the central part of district, however, covering Prayagraj 
+city area its extension traceable down to the depth of 200m below ground level. At 
+Balkaranpur this granular horizon attains as much as 180 m in thickness while at Delhupur 
+(in Pratapgarh) its thickness is approximately 230m. At Nibhapur (Jaunpur) the thickness of 
+this granular zone is 200m. Overlying this extensive aquifer horizon a persistent clay bed 
+occurs whose thickness is variable ranges between 25 and 125m. Thickness of clay horizon 
+Figure 2.8: Geological cross-section along X-Y line 
+
+31 | P a g e 
+ 
+increases in the north – eastern part of the district. This top aquifer horizon is extensively 
+tapped in shallow state and private tube wells. 
+The underlying second aquifer lies in the depth ranges 150-200 m below ground level. 
+The granular materials are medium to coarse grained sand and mixed with gravels. The sand 
+is well sorted and has assemblage of heavy minerals. Because of coarser nature of aquifer 
+materials yield prospect from this repository is better in comparison to top system. 
+Studies have revealed that both the above described aquifer groups are under confined 
+conditions. The piezometric heads in these aquifers varies between 7-20m bgl. In the western 
+part of the district however the potentiometric head of the auto flow zone is 1.5 to 3.00 m 
+above ground level. 
+The Fence Diagram was prepared on the basis of lithological logs of exploratory 
+boreholes drilled by Central Ground Water Board in the hard rock area of the district. The 
+review of the Fence Diagram (Figure D) in the trans-Yamuna region that thickness of the 
+superficial alluvial sediments is limited over the major part except along the river Ganga- 
+Yamuna. These Quaternary sediments, deposited by the rivers Ganga & Yamuna, constitute 
+of sands of different grades intermixed with clays & Kankar. These alluvial formations 
+support multitudes of open wells & shallow tube wells which are capable of yielding 1000-
+1500lpm of water at economic drawdown.  
+Fractured Vindhyan sandstone which are considered to be relatively promising aquifer 
+over the entire Ganga-Yamuna region. These sedimentary rocks at the top (capping) is 
+generally laterites which serve as recharge horizon. 
+The productive horizons within vindhyan sandstones are encountered between 30 and 100m 
+bgl. These sandstone are highly weathered at the top thickness of weathered zone is rather 
+variable. At Bara and Konri the thickness of weathered material is rather less and maximum 
+at Bhawanipatti. Just below the weathered residuum there occurs a marker horizon “Silica 
+Sand” which is characterized by its poor cementation and highly friable nature. This silica 
+sand bed is regionally extensive, locally known as “Shankargarh Sandstone.” 
+Fence diagram demonstrated regional extensive deposition of silica sand bed in the depth 
+range of 13.63-90 m bgl. 
+Thickness of this sand bed is variable ranges from 3m to as much as 36m (Benipur). 
+Just below this silica sand horizon the productive horizons within Vindhyan sandstones have 
+been encountered invariably over the entire region. The hard rock aquifers are recorded to 
+yield 500-100lpm of ground water at reasonably high drawdown. These sandstones are 
+underlain by Bijaigarh shale which has been encountered in the depth ranges of range of 145-
+
+32 | P a g e 
+ 
+170m below ground level in the western part while in the western part while in the eastern 
+part the shale has not been struck even up to the depth of 190meter below ground level. 
+
+33 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.9: Fence Diagram of Alluvial area and Hard Rock 
+
+34 | P a g e 
+ 
+Thickness of sandstones is minimum in the western part and maximum in the south-
+eastern segments of Prayagraj where it exceeds 200m. The shally horizon below this 
+sandstone is impervious and do not hold any prospect for ground water development. 
+Thickness of this shale is not known as it has not been completely pierced in any of the 
+boreholes so far drilled. 
+2.3.7 Depth to bed rock 
+The geological setting of the district represents primarily two hydrogeological units, namely 
+the alluvial sediments in the north of river Ganga and Yamuna. Vindhyans are encountered 
+100 meters to as much as 400m. It depicts that the vindhyan topography gradually deepens 
+northerly and progressively goes down to depth of more than 400 meters along the northern 
+part of Prayagraj District. Vindhyan basement is shallower in the south- eastern part of the 
+district in comparison to northern part, shallowest Vindhyan basement is encountered in the 
+western part of Prayagraj district. Vindhyans are found exposed in isolated patches in the 
+south of Ganga and Yamuna; and depth of basement in this region varies between 0-50 
+meters below ground level. The secondary porosity within the Vindhyan formations, which 
+are basically sandstone, form the main ground water depository in the trans-Ganga belt. 
+ 
+ 
+Location 
+Lat 
+Long 
+Rock 
+Type 
+Location 
+Lat 
+Long 
+Rock 
+Type 
+Bandhwa 
+Kalan 
+25.20417 82.075 
+Hardrock Nighwawan 
+25.6 
+81.42889 Alluvium 
+Newaria 
+25.15833 82.16667 
+Hardrock Saintia 
+25.55333 
+81.53333 Alluvium 
+Itwa Kalan 
+25.04333 81.88167 
+Hardrock Daragunj 
+25.44167 
+81.89167 Alluvium 
+Konri 
+25.16667 82.765 
+Hardrock Sulem Sarai 
+25.45 
+81.76667 Alluvium 
+Bhawani 
+Patti 
+25.05 
+82.2 
+Hardrock Lehderi 
+25.76667 
+81.38333 Alluvium 
+Paithia 
+24.87194 82.06667 
+Hardrock Jathi 
+25.36333 
+81.47 
+Alluvium 
+Koraon 
+24.99167 82.07667 
+Hardrock 
+Bandhwa 
+Kalan 
+25.20417 
+82.075 
+Alluvium 
+Gobra 
+25.16667 81.58333 
+Hardrock Chorbana 
+25.14722 
+82.20139 Alluvium 
+Nari Bari 
+25.08333 81.73333 
+Hardrock Bhadri 
+25.5625 
+81.83333 Alluvium 
+Benipur 
+25.20556 81.60972 
+Hardrock Balkaranpur 
+25.60778 
+81.83333 Alluvium 
+Bara 
+25.24167 81.725 
+Hardrock Bashai 
+25.29639 
+82.0375 
+Alluvium 
+Jari 
+25.20278 81.78056 
+Hardrock Garauli 
+25.46667 
+81.31167 Alluvium 
+Meja 
+25.14167 82.10833 
+Hardrock   
+  
+  
+  
+Naya Kohrar 
+25.15 
+81.99167 
+Hardrock   
+  
+  
+  
+Saliya Khurd 
+25.09722 81.93056 
+Hardrock   
+  
+  
+  
+Sahpur Kalan 
+25.175 
+81.94167 
+Hardrock   
+  
+  
+  
+ 
+ 
+Table 2.1: Lithological Data of the Prayagraj District 
+
+35 | P a g e 
+ 
+Figure 2.10: Depth to bed rock, Prayagraj District 
+
+36 | P a g e 
+ 
+2.4 GROUND WATER SCENARIO 
+2.4.1 Mode of occurrence of Ground water 
+ 
+Ground water occurs in the pore spaces of the unconsolidated alluvial sediments in the zone 
+of saturation. The sediments consist of fine to medium sand with intercalated pockets of 
+clayey material within, and a thin layer of clayey sediments at the top. Alluvial formations 
+has also been encountered in Trans Yamuna area but has limited extension adjacent to river 
+Yamuna. 
+ 
+Vindhyan plateau is characterised by jointed and faulted hard rock formation which 
+have limited ground water potential. Fissured formations are only found in Trans Yamuna 
+area and particularly dominant in southern part of Trans Yamuna area. It has developed 
+secondary porosity and has limited yield prospects. Sandstone and Quartzites are important 
+formations with layer of silica sand which forms the fissured formations for ground water 
+withdrawal and act as potential horizons. 
+ 
+Infiltration from rainfall is the main source of ground water recharge in the area. 
+Influent seepage from the surface water bodies is also responsible for recharge to the ground 
+water reservoir. 
+2.4.2 Ground Water Condition 
+Ground water occurs under phreatic to semi confined and confined conditions. The near 
+surface aquifer is under unconfined / water table condition. The shallow phreatic aquifer is 
+tapped by dugwells. The depth to water level of the CGWB monitoring stations ranges from 
+1.32 to 20.36 mbgl during pre-monsoon whereas it ranges from 0.59 to 15.69 mbgl in post 
+monsoon. The pre & post monsoon water level fluctuation varies from 0.46 to 7.54 m. Depth 
+to water level trend for long term for 10 years average water level rise 0.492 cm/year and fall 
+0.3658 cm/year during pre-monsoon and rise 0.5156 cm/year and fall 0.91cm/year during 
+post-monsoon. Annual rise rate 0.3587cm/year and fall 0.7232 cm/yr.  
+2.4.3 Pre-monsoon Depth to water level   
+Perusal of map showing deeper water level observed in parts of Bahadurpur, Baharia and 
+Chaka blocks (Figure-2.11). Almost fifty percent northern part of the district  having the 
+water level ranges from 5 to 10 mbgl and southern part of the district having water level 
+ranges from 5 to 10 mbgl except a few pocket  ranges from 2 to 5 mbgl during the pre-
+monsoon season. 
+2.4.4 Post-monsoon Depth to water level  
+During Post monsoon period depth to water level in central part to northern part of the district 
+ranges from 2-5m bgl and 5 to 10 mbgl respectively (Figure-2.11). In Southern part of the 
+
+37 | P a g e 
+ 
+District depth to water level ranges from 2 to 5mbgl except a few pockets of less than 2 mbgl. 
+ 
+ 
+ 
+Figure 2.11: Depth to water level map (Pre-Monsoon 2019) 
+
+38 | P a g e 
+ 
+ 
+ 
+ 
+ 
+Figure 2.12: Depth to water level map (Post-Monsoon 2019) 
+
+39 | P a g e 
+ 
+ 
+2.4.5 Water Level Fluctuation  
+Maximum water level fluctuation is observed in the north-western part whereas minimum 
+fluctuation observed in patches of Shankargarh, Meja, Handia,and Dhanupur blocks of the 
+district. Rising water level trend has been observed in the study area ranges between 0.46 m 
+to 6.42 m. 
+ 
+ 
+Figure 2.13: Water Level Fluctuation Map (2019), Prayagraj District 
+
+40 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+Block  
+Location  
+Type of 
+well 
+Lat. 
+Long. 
+Pre-19 
+Post-19 
+Fluctuation 
+Bahadurpur 
+Allahabad 
+Dugwell 
+25.45 
+81.98 
+7.59 
+3.47 
+4.12 
+Kaurihar 
+Atrampur 
+Dugwell 
+25.57 
+81.74 
+9.01 
+3.64 
+5.37 
+Shankargarh 
+Bairi 
+Dugwell 
+25.12 
+81.68 
+5.45 
+0.85 
+4.60 
+Jasra  
+Bara 
+Dugwell 
+25.25 
+81.72 
+4.51 
+1.98 
+2.53 
+Handia 
+Baraut1 
+Dugwell 
+25.34 
+82.28 
+1.32 
+0.86 
+0.46 
+Manda 
+Bawarikalaan 
+Dugwell 
+24.93 
+82.15 
+4.11 
+1.49 
+2.62 
+Shankargarh 
+Gadwa Fort 
+Dugwell 
+25.20 
+81.63 
+3.99 
+3.28 
+0.71 
+Jasra  
+Gauhania 
+Dugwell 
+25.32 
+81.83 
+7.84 
+2 
+5.84 
+Handia 
+Handia 
+Dugwell 
+25.37 
+82.19 
+3.82 
+0.55 
+3.27 
+Holagarh 
+Holagarh 
+Dugwell 
+25.64 
+81.77 
+6.23 
+3.31 
+2.92 
+Bahadurpur 
+Kasarua 
+Dugwell 
+25.47 
+81.97 
+20.36 
+14.52 
+5.84 
+Shankargarh 
+Khaptia Kheri 
+Dugwell 
+25.07 
+81.78 
+6.11 
+3.03 
+3.08 
+Karaon 
+Koraon 
+Dugwell 
+25.02 
+82.06 
+5.34 
+1.13 
+4.21 
+Karaon 
+Ladiri Bazar 
+Dugwell 
+25.00 
+81.93 
+5.66 
+1.44 
+4.22 
+Jasra  
+Lalpur 
+Dugwell 
+25.27 
+81.62 
+4.31 
+2.52 
+1.79 
+Phulpur 
+Mallhan 
+Dugwell 
+25.61 
+82.10 
+7.17 
+4.39 
+2.78 
+Meja 
+Meja 
+Dugwell 
+25.14 
+82.10 
+5.04 
+4.37 
+0.67 
+Chaka 
+Naini 
+Dugwell 
+25.35 
+81.88 
+15.56 
+10.81 
+4.75 
+Karaon 
+Pasna 
+Dugwell 
+25.05 
+82.10 
+8.43 
+2 
+6.43 
+Phulpur 
+Phulpur2 
+Dugwell 
+25.55 
+82.09 
+7.52 
+4.36 
+3.16 
+Manda 
+Rampur tulapur 
+Dugwell 
+25.04 
+82.20 
+6.98 
+4.44 
+2.54 
+Kaudhiyara 
+Saraon 
+Dugwell 
+25.27 
+81.84 
+7.63 
+3.09 
+4.54 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2.2: Water level of Pre & Post Monsoon-2019, Prayagraj District 
+
+41 | P a g e 
+ 
+ 
+2.4.6 Decadal Fluctuation of Groundwater (2010-2019), Prayagraj District 
+The range of fluctuation shows minimum rise is 0.012 m in Bara block and maximum rise is 
+0.3587 m in Mooratganj block whereas minimum fall is 0.022m in Mauaima block and 
+maximum fall if 0.7232m in Koraon block.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.14: Decadal Ground water Level Fluctuation Map, Prayagraj District 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+42 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig.2.15.Ground water flow direction Map, Prayagraj District 
+ 
+ 
+2.4.7 Long-term Water Level Trend 
+A perusal of long term water level trend of 44 observation wells for ten years (2010-2019) 
+show that there is a rising trend of 0.012 to 0.243 m/year and the falling trend is 0.0206 to 
+0.3658 m/year during the pre-monsoon period while there is a rising trend of 0.0064 to 
+
+43 | P a g e 
+ 
+0.5156 m/year and the falling trend is 0.05 to 0.553 m/year in the post-monsoon period 
+(Table 2.3) 
+ 
+ 
+ 
+Sl No. 
+Location 
+           Pre-Monsoon 
+Post-Monsoon 
+ 
+Annual 
+ 
+ 
+Rise 
+(m/year) 
+Fall (m/year) 
+Rise (m/year) 
+Fall 
+(m/year) 
+Rise 
+(m/year) 
+Fall 
+(m/year) 
+1 
+Seorajpur 
+  
+  
+  
+  
+  
+  
+2 
+Meja 
+0.104 
+  
+0.1686 
+  
+0.1666 
+  
+3 
+Narayan crossin 
+  
+  
+  
+  
+  
+  
+4 
+Pasna 
+  
+0.0441 
+0.052 
+  
+0.1084 
+  
+5 
+Barwarikalaan 
+  
+0.0776 
+0.0614 
+  
+0.0291 
+  
+6 
+Rampur tulapur 
+  
+  
+0.150 
+  
+0.2046 
+  
+7 
+Naribari 
+  
+  
+0.1672 
+  
+0.1922 
+  
+8 
+Khaptia kheri 
+0.103 
+  
+0.0628 
+  
+0.0673 
+  
+9 
+Ladiri bazar 
+  
+0.0578 
+  
+0.05 
+0.0165 
+  
+10 
+Akodha 
+0.186 
+  
+  
+0.292 
+  
+0.2018 
+11 
+Koraon 
+  
+0.0522 
+0.1857 
+  
+0.1045 
+  
+12 
+Barokhar 
+  
+  
+  
+0.91 
+  
+0.7232 
+13 
+Ghoose 
+  
+  
+  
+  
+  
+  
+14 
+Meja road 
+  
+  
+0.2006 
+  
+0.0356 
+  
+15 
+Bairi 
+  
+0.0475 
+0.0064 
+  
+  
+0.0244 
+16 
+Mau-Aima 
+  
+0.0206 
+0.0281 
+  
+  
+0.022 
+17 
+Holagarh 
+  
+0.2674 
+  
+0.195 
+  
+0.2674 
+18 
+Aandwa1 
+  
+  
+  
+  
+  
+  
+19 
+Lalpur 
+  
+0.0214 
+  
+  
+  
+  
+20 
+Gauhania 
+  
+  
+  
+  
+  
+  
+21 
+Madraha 
+  
+  
+  
+  
+  
+  
+22 
+Gadwa Fort 
+  
+0.0718 
+  
+  
+  
+  
+23 
+Bida 
+  
+  
+  
+  
+  
+  
+24 
+Prayagraj 
+  
+  
+  
+  
+  
+  
+25 
+Hanumanganj 
+  
+  
+  
+  
+  
+  
+26 
+Bikapur 
+  
+  
+  
+  
+  
+  
+27 
+Baraut1 
+0.061 
+  
+0.0287 
+  
+0.0845 
+  
+28 
+Malka Harhar 
+  
+  
+  
+0.553 
+  
+0.4518 
+29 
+Aandwa 
+  
+  
+  
+0.144 
+  
+0.0171 
+30 
+Mugersan 
+  
+  
+  
+  
+  
+  
+31 
+Atrampur 
+  
+0.3658 
+  
+0.146 
+  
+0.2733 
+32 
+Sikandra1 
+0.243 
+  
+0.024 
+  
+0.0653 
+  
+33 
+Mallhan 
+0.012 
+  
+  
+0.131 
+  
+0.0728 
+34 
+Imamganj 
+  
+  
+0.5156 
+  
+0.3587 
+  
+35 
+Phulpur2 
+  
+0.2101 
+  
+0.113 
+  
+0.1698 
+36 
+Handia 
+  
+0.1615 
+  
+0.055 
+  
+0.0634 
+37 
+Kasarua 
+  
+0.0052 
+  
+0.335 
+  
+0.0408 
+38 
+Chilla 
+  
+  
+  
+  
+  
+  
+39 
+Saraon 
+  
+0.1531 
+  
+0.191 
+  
+0.186 
+40 
+Karchhana 
+  
+  
+  
+0.501 
+  
+  
+41 
+Iradat nagar 
+0.492 
+  
+  
+0.255 
+  
+0.1371 
+Table 2.3: Water Level Trend (2010-2019), Prayagraj District, 
+
+44 | P a g e 
+ 
+42 
+Jasra 
+  
+  
+  
+  
+  
+  
+43 
+Bara 
+  
+0.0024 
+0.1021 
+  
+0.012 
+  
+44 
+Naini 
+0.014 
+  
+0.1674 
+  
+  
+0.0406 
+ 
+ 
+
+45 | P a g e 
+ 
+ 
+ 
+ 
+
+46 | P a g e 
+ 
+ 
+ 
+ 
+
+47 | P a g e 
+ 
+ 
+ 
+ 
+ 
+
+48 | P a g e 
+ 
+ 
+ 
+ 
+ 
+
+49 | P a g e 
+ 
+ 
+
+50 | P a g e 
+ 
+ 
+ 
+ 
+ 
+
+51 | P a g e 
+ 
+ 
+ 
+ 
+ 
+
+52 | P a g e 
+ 
+ 
+ 
+ 
+2.5 GROUND WATER QUALITY 
+Ground water in shallow aquifers, in general, is colourless, odourless and slightly alkaline in 
+nature. The specific electrical conductance of ground water in phreatic zone ranges from 400 
+to 918 µs/cm at 25oC. Fluoride content ranges from 0.36 to 1.37 mg/l in analysed water 
+samples. The Arsenic content ranges from 0 to 0.002 mg/l in the ground water of Prayagraj 
+district (Table 2.4). 
+ 
+ 
+ 
+ 
+
+53 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.16: Ground Water Quality Map (2019), Prayagraj District 
+
+54 | P a g e 
+ 
+Sl.No. 
+Block 
+pH 
+EC 
+ (µs/cm) 
+CO3 
+HCO3 
+Cl 
+F 
+SO4 
+TH 
+Ca 
+Mg 
+Na 
+K 
+SiO2 
+RSC 
+SAR 
+Fe  
+ppm 
+Mn 
+ppm 
+Cu 
+ppm 
+Zn 
+ppm 
+As 
+ppm 
+Pb 
+ppm 
+U 
+ppm 
+Cr 
+ppm 
+1 
+Bahadurapur 
+7.85 
+450 
+Nil 
+231.8 
+28.4 
+0.239 
+8.731 
+225 
+40 
+30 
+9.01 
+1.75 
+35.121 
+-0.667105 
+0.262119 
+1.05 
+0.02 
+0.03 
+0.62 
+0 
+0.017 
+0.002 
+0.004 
+2 
+Baheria 
+7.97 
+664 
+Nil 
+341.6 
+28.4 
+0.77 
+17.44 
+205 
+20 
+37 
+68.3 
+4.52 
+31.061 
+1.540789 
+2.084429 
+3.84 
+0.05 
+0.01 
+1.32 
+0 
+0.012 
+0.009 
+0.003 
+3 
+Chaka 
+7.89 
+671 
+Nil 
+268.4 
+49.7 
+0.518 
+12.779 
+215 
+28 
+35 
+60.73 
+3.13 
+34.762 
+0.138158 
+1.808805 
+0.24 
+0.01 
+0.01 
+0.83 
+0 
+0.007 
+0.008 
+0.001 
+4 
+dhanpur 
+7.92 
+516 
+Nil 
+280.6 
+14.2 
+0.171 
+7.545 
+200 
+24 
+34 
+36 
+2.83 
+38.393 
+0.636842 
+1.111908 
+0.34 
+0.06 
+0.01 
+0.11 
+0 
+0.008 
+0.005 
+0.007 
+5 
+Handia 
+8.5 
+795 
+36 
+317.2 
+35.5 
+1.367 
+38.392 
+180 
+12 
+36 
+113.85 
+3.35 
+25.79 
+2.839474 
+3.709908 
+0 
+0.02 
+0 
+0 
+0.001 
+0 
+0.005 
+0.004 
+6 
+holagarh 
+8.09 
+605 
+Nil 
+341.6 
+14.2 
+0.665 
+7.452 
+195 
+20 
+35 
+60.16 
+6.29 
+34.506 
+1.738158 
+1.882339 
+0.64 
+0.06 
+0.01 
+0.1 
+0 
+0.02 
+0.009 
+0.003 
+7 
+Jasra 
+8.07 
+780 
+Nil 
+280.6 
+99.4 
+0.697 
+24.318 
+285 
+28 
+52 
+64.19 
+1.85 
+33.409 
+-1.043421 
+1.661435 
+0.24 
+0.01 
+0 
+0.11 
+0 
+0.006 
+0.008 
+0.001 
+8 
+Karchhana 
+7.92 
+672 
+Nil 
+341.6 
+35.5 
+0.475 
+12.593 
+260 
+64 
+24 
+37.54 
+4.18 
+27.072 
+0.426316 
+1.014802 
+2.38 
+0.15 
+0.02 
+2.9 
+0 
+0.019 
+0.004 
+0.021 
+9 
+kaundhiana 
+7.97 
+635 
+Nil 
+329.4 
+31.95 
+0.428 
+11.259 
+245 
+24 
+44 
+46.85 
+2.29 
+33.214 
+0.548684 
+1.307877 
+0.6 
+0.01 
+0 
+0.17 
+0 
+0.01 
+0.004 
+0.001 
+10 
+Kaurihar 
+8.02 
+627 
+Nil 
+329.4 
+28.4 
+0.429 
+11.763 
+230 
+16 
+46 
+50.84 
+3.43 
+35.019 
+0.85 
+1.465504 
+0.42 
+0.02 
+0.01 
+0.13 
+0.001 
+0.009 
+0.013 
+0.007 
+11 
+Koraon 
+8.03 
+584 
+Nil 
+305 
+28.4 
+0.257 
+7.886 
+225 
+24 
+40 
+39.99 
+2.08 
+32.876 
+0.543421 
+1.164764 
+0.58 
+0.06 
+0 
+0.2 
+0.002 
+0.013 
+0.003 
+0.058 
+12 
+Manda 
+7.78 
+918 
+Nil 
+183 
+106.5 
+0.169 
+21.231 
+360 
+68 
+46 
+51.39 
+1.72 
+35.439 
+-4.15 
+1.181715 
+0.81 
+0.05 
+0.03 
+0.41 
+0 
+0.02 
+0.001 
+0.033 
+13 
+Mau- aima 
+8.23 
+693 
+Nil 
+427 
+14.2 
+0.456 
+5.978 
+130 
+12 
+24 
+114.15 
+2.03 
+24.252 
+4.426316 
+4.375074 
+0.49 
+0.01 
+0 
+0.11 
+0.001 
+0.011 
+0.011 
+0.007 
+14 
+Meja 
+7.74 
+908 
+Nil 
+237.9 
+120.7 
+0.213 
+42.525 
+265 
+64 
+25 
+89.91 
+0 
+27.964 
+-1.372368 
+2.407644 
+0.7 
+0.02 
+0.01 
+1.19 
+0 
+0.013 
+0.008 
+0.029 
+15 
+Phoolpur 
+8.04 
+742 
+Nil 
+378.2 
+35.5 
+0.732 
+20.743 
+250 
+20 
+48 
+72.3 
+3.66 
+29.861 
+1.252632 
+1.998657 
+0.71 
+0.03 
+0.01 
+0.48 
+0 
+0.013 
+0.027 
+0.014 
+16 
+Pratappur 
+8.17 
+736 
+Nil 
+402.6 
+21.3 
+0.434 
+14.694 
+270 
+16 
+55 
+58.26 
+8.16 
+34.034 
+1.260526 
+1.550274 
+1.51 
+0.02 
+0.01 
+0.62 
+0 
+0.016 
+0.016 
+0.009 
+17 
+Saidabad 
+8.17 
+695 
+Nil 
+402.6 
+14.2 
+1.344 
+0 
+140 
+24 
+19 
+103.04 
+2.79 
+31.102 
+3.821053 
+3.800606 
+4.8 
+0.1 
+0.03 
+0.17 
+0.001 
+0.015 
+0.008 
+1.564 
+18 
+Shankargarh 
+7.94 
+450 
+Nil 
+183 
+49.7 
+0.36 
+18.331 
+145 
+40 
+11 
+44.46 
+6.06 
+19.688 
+0.111842 
+1.608593 
+3.76 
+0.23 
+0.11 
+0.76 
+0.002 
+0.018 
+0.001 
+0.712 
+19 
+Soraon 
+8.2 
+652 
+Nil 
+305 
+42.6 
+0.805 
+16.005 
+210 
+24 
+36 
+66.84 
+4.34 
+29.461 
+0.839474 
+2.014881 
+1.67 
+0.04 
+0.02 
+0.19 
+0.001 
+0.016 
+0.012 
+0.071 
+20 
+Urwa 
+7.9 
+400 
+Nil 
+207.4 
+14.2 
+0.332 
+7.212 
+120 
+32 
+10 
+43.24 
+2.34 
+33.163 
+1.010526 
+1.719973 
+0.49 
+0.14 
+0.01 
+0.36 
+0 
+0.01 
+0.001 
+0.064 
+Table 2.4: Ground water quality parameters (2019), Prayagraj District 
+
+55 | P a g e 
+ 
+ 
+                                                               CHAPTER-03 
+ 
+GROUND WATER RESOURCES 
+ 
+Ground water resources have been computed jointly by Central Ground Water Board and 
+Ground Water Department, Govt. of U.P. as on 31st March 2020 according to the 
+methodology recommended by the Ground Water Estimation Committee constituted by 
+Government of India (GEC 2015). 
+3.1 DYNAMIC GROUND WATER RESOURCES  
+Dynamic Ground Water Resource Estimation as on 31.3.2017 has been carried out with 
+administrative blocks as ground water assessment units by GWD & CGWB. Due to lack of 
+data on command, non-command and poor ground water quality areas, the resources could 
+not be estimated separately and the administrative unit (block) as a whole without sub-
+dividing it into sub-units has been considered. The precise estimation of ground water 
+reserves and irrigation potential is prerequisite for proper planning and execution for socio-
+economic development in the area. The ground water recharge has been estimated on the 
+basis of water level fluctuation method which has been evaluated by significant change in 
+water level during pre and post monsoon periods. Since, the area is comprised of both 
+alluvium and hard rock, the specific yield has been considered 16% and rainfall infiltration is 
+25% for alluvium formation as well as 3% (specific yield) and 12% (rainfall infiltration) for 
+hard rock formation (GEC-1997). 
+ 
+3.1.1 GROUND WATER DRAFT 
+The ground water draft is the quantity of water withdrawn from ground water reservoirs. The 
+principal ground water development structures for utilization of ground water in the district 
+are open wells, dug cum borewells, private tubewells/government constructed under minor 
+irrigation works and by other state government departments. On the basis of statistical data 
+available on the number of various ground water structures, the block wise annual gross draft 
+has been computed by multiplying its average discharge and annual working hours. The total 
+draft from the district is 100192.6797 Ham.  Maximum ground water draft for all uses is 
+8338.69 Ham in Baharia block and minimum draft of ground water for all uses is 2945 Ham 
+in Soraon block. 
+ 
+ 
+ 
+ 
+ 
+
+56 | P a g e 
+ 
+ 
+                       
+ 
+ 
+ 
+ 
+ 
+Figure 3.1: Dynamic Ground Water Resource-2020 
+
+57 | P a g e 
+ 
+3.1.2 STAGE OF GROUND WATER DEVELOPMENT AND CATEGORIZATION 
+OF BLOCKS 
+The level of ground water development in Prayagraj district has been worked out for each 
+block as the ratio of gross annual draft to net ground water availability. The distributions of 
+blocks in different categories are shown in the Figure 3.1. Prayagraj City is in Over-Exploited 
+Category. Baharia and Chaka blocks are in Critical Category. There are Six blocks 
+Bahadurpur, Dhanupur, Holagarh, Mauaima, Pratappur, Saidabad falls under Semi-critical 
+category whereas rest blocks fall under safe category. 
+
+58 | P a g e 
+ 
+Sl. 
+No 
+Assessment 
+Unit  Name 
+Total 
+Area of 
+Assess
+ment 
+Unit 
+(Ha) 
+Rechar
+ge 
+Worth
+y 
+Area(H
+a) 
+Recharge 
+from 
+Rainfall-
+Monsoon 
+Season 
+Recharge 
+from 
+Other 
+Sources- 
+Monsoon 
+Season 
+Rechar
+ge 
+from 
+Rainfal
+l-Non 
+Monso
+on 
+Season 
+Recharge 
+from 
+Other 
+Sources- 
+Non 
+Monsoon 
+Season 
+Total 
+Annual  
+Ground 
+Water 
+(Ham) 
+Recharge 
+Total 
+Natural 
+Discharg
+es (Ham) 
+Annual 
+Extractab
+le 
+Ground 
+Water 
+Resource  
+(Ham) 
+Ground 
+Water 
+Extractio
+n for 
+Irrigation 
+Use  
+(Ham) 
+Groun
+d 
+Water 
+Extract
+ion for 
+Industr
+ial Use 
+(Ham) 
+ Ground 
+Water 
+Extraction 
+for 
+Domestic 
+Use (Ham) 
+Total 
+Extractio
+n  (Ham) 
+Annual GW 
+Allocation for  
+for Domestic 
+Use  as on 
+2025  (Ham) 
+Net 
+Ground 
+Water 
+Availability 
+for future  
+use  (Ham) 
+Stage 
+of 
+Ground 
+Water 
+Extracti
+on (%) 
+Categorizat
+ion (Over-
+Exploited/
+Critical/Se
+micritical/S
+afe/Saline) 
+1 
+Bahadurpur 
+26059 
+26059 
+4884.01 
+1513.2 
+101.88 
+1975.18 
+8474.27 
+423.71 
+8050.56 
+5911.2 
+0 
+859.27059     
+6770.47 
+962.23 
+1177.13 
+84.10 
+Semi-
+critical 
+2 
+Baharia 
+24875 
+24875 
+4707.69 
+1856.8 
+97.25 
+2816.64 
+9478.38 
+947.84 
+8530.54 
+7634.2 
+0 
+704.48577 
+8338.69 
+790.97 
+105.38 
+97.75 
+critical 
+3 
+Chaka 
+13575 
+13575 
+2569.12 
+984.67 
+53.07 
+1286.94 
+4893.8 
+489.38 
+4404.42 
+3528.55 
+0 
+580.47702 
+4109.03 
+591.99 
+283.88 
+93.29 
+critical 
+4 
+Dhanupur 
+17322 
+17322 
+2833.45 
+1546.44 
+67.72 
+2102.67 
+6550.28 
+327.51 
+6222.77 
+4728.81 
+0 
+608.96673 
+5337.78 
+691.66 
+802.3 
+85.78 
+Semi-
+critical 
+5 
+Handia 
+17052 
+17052 
+3227.15 
+794.24 
+66.66 
+1102.11 
+5190.16 
+519.02 
+4671.14 
+2529.91 
+0 
+621.11466 
+3151.02 
+712.28 
+1428.95 
+67.46 
+safe 
+6 
+Holagarh 
+14846 
+14846 
+2809.66 
+1564.32 
+58.04 
+2312.88 
+6744.9 
+674.49 
+6070.41 
+4259.88 
+0 
+466.34298 
+4726.22 
+518.76 
+1291.77 
+77.86 
+Semi-
+critical 
+7 
+Jasra 
+26822 
+26822 
+5076.16 
+1354.14 
+104.86 
+1893.76 
+8428.92 
+842.89 
+7586.03 
+4829.07 
+0 
+457.46253 
+5286.53 
+513.5 
+2243.46 
+69.69 
+safe 
+8 
+Karchana 
+23281 
+23281 
+4369.52 
+1655.1 
+91.01 
+2249.97 
+8365.6 
+418.28 
+7947.32 
+4609.2 
+0 
+606.44166 
+5215.64 
+679.03 
+2659.09 
+65.63 
+safe 
+9 
+Kaudhiyara 
+20046 
+20046 
+2953.7 
+1718.95 
+78.37 
+2445.99 
+7197.01 
+359.85 
+6837.16 
+3680.4 
+0 
+436.71447 
+4117.11 
+514.57 
+2642.18 
+60.22 
+safe 
+10 
+Kaurihar 
+41414 
+41414 
+6120.07 
+1027.07 
+161.9 
+1680.59 
+8989.63 
+449.48 
+8540.15 
+4691.61 
+0 
+969.00054 
+5660.61 
+1067.83 
+2780.7 
+66.28 
+safe 
+11 
+Koraon 
+72642 
+63842 
+7688.76 
+1200.17 
+158.83 
+1680.89 
+10728.65 
+1072.86 
+9655.79 
+4996.88 
+0 
+583.16634 
+5580.05 
+685.68 
+3973.23 
+57.79 
+safe 
+12 
+Manda 
+34943 
+20673 
+1659.82 
+1617.5 
+51.43 
+2365.25 
+5694 
+569.4 
+5124.6 
+2745.88 
+0 
+549.51261 
+3295.39 
+634.96 
+1743.76 
+64.31 
+safe 
+13 
+Mauaima 
+15560 
+15560 
+2944.79 
+1299.14 
+60.83 
+1890.11 
+6194.87 
+619.48 
+5575.39 
+4036.21 
+0 
+526.20663 
+4562.42 
+607.23 
+931.95 
+81.83 
+Semi-
+critical 
+14 
+Meja 
+44421 
+34201 
+3412.29 
+1972.58 
+85.09 
+2481 
+7950.96 
+397.54 
+7553.42 
+3198.17 
+0 
+673.20819 
+3871.38 
+775.07 
+3580.18 
+51.25 
+safe 
+15 
+Phulpur 
+23154 
+23154 
+4381.98 
+1033.94 
+90.52 
+1641.25 
+7147.69 
+714.77 
+6432.92 
+3723.32 
+0 
+570.33513 
+4293.66 
+631.63 
+2077.97 
+66.75 
+safe 
+Table 3.1: Dynamic Ground Water Resource-2020 of Prayagraj District 
+
+59 | P a g e 
+ 
+16 
+Pratappur 
+21101 
+21101 
+3993.44 
+1354.65 
+82.49 
+1986.85 
+7417.43 
+741.74 
+6675.69 
+5152 
+0 
+655.12974 
+5807.13 
+736.72 
+786.97 
+86.99 
+Semi-
+critical 
+17 
+Prayagraj 
+City 
+7005 
+7005 
+397.72 
+792.63 
+8.22 
+1618.28 
+2816.85 
+281.68 
+2535.17 
+0 
+0 
+4455.92443
+9 
+4455.92 
+4831.27 
+0 
+175.76 
+Over-
+exploited 
+18 
+Saidabad 
+19142 
+19142 
+3465.89 
+1029.39 
+74.83 
+1531.52 
+6101.63 
+305.08 
+5796.55 
+4275.4 
+0 
+489.73656 
+4765.14 
+552.69 
+968.46 
+82.21 
+Semi-
+critical 
+19 
+Shankargarh 
+47208 
+33128 
+1519.9 
+2643.43 
+47.09 
+3361.49 
+7571.91 
+757.19 
+6814.72 
+3531.03 
+0 
+529.4106 
+4060.44 
+597.17 
+2686.52 
+59.58 
+safe 
+20 
+Soraon 
+14775 
+14775 
+2796.22 
+838.37 
+57.76 
+1094.63 
+4786.98 
+478.7 
+4308.28 
+2409.37 
+0 
+535.63239 
+2945.00 
+582.31 
+1316.6 
+68.36 
+safe 
+21 
+Uruwan 
+16890 
+16890 
+3196.49 
+1283.84 
+66.03 
+1808.1 
+6354.46 
+635.44 
+5719.02 
+3305.6 
+0 
+537.45009 
+3843.05 
+614.23 
+1799.19 
+67.20 
+safe 
+
+60 | P a g e 
+ 
+CHAPTER-04 
+ 
+                                           GROUND WATER RELATED ISSUES 
+   
+The development of ground water is 74.2% in district. The trend analysis of historical ground 
+water level data indicates long term fall in most of the wells in the district. 
+ 
+4.1 GROUND WATER RESOURCES  
+4.1.1 AREA OF INTENSIVE GROUND WATER DEVELOPMENT 
+ The stage of ground water development of the district is 74.2%. Prayagraj City is in Over-
+Exploited Category. Baharia and Chaka blocks are in Critical Category. There are Six blocks 
+Bahadurpur, Dhanupur, Holagarh, Mauaima, Pratappur, Saidabad falls under Semi-critical 
+category whereas rest blocks fall under safe category as shown in the Figure3.1.  
+The over exploited and critical blocks where ground water draft has increased many folds 
+during past decades is a biggest challenge because these are the blocks where in storage 
+ground water resources is depleting very fast. There is a probability for adjacent block which 
+may also be comes in water stressed category in future if proper effective intervention is not 
+taken by stack holder. The change in climatic pattern is also exerting withdrawal pressure on 
+groundwater resource creating imbalance in groundwater resources.  
+ 
+4.2 WATER TABLE DEPLETED AREA 
+A perusal of the table shows that there is a rising trend of 0.012 to 0.243 m/year and the 
+falling trend is 0.0206 to 0.3658 m/year during the pre-monsoon period while in the post-
+monsoon period rising trend is 0.0064 to 0.5156 m/year and falling trend is 0.05 to 0.553 
+m/year as shown in Table 2.3. 
+ 
+4.3 GROUND WATER RELATED ISSUES AND PROBLEMS 
+ Long term ground water level is showing declining trend at most of the places.                   
+ Prayagraj City falls under Over-Exploited category  
+ Two blocks (Bahria & Chaka) under Critical category 
+ Six blocks under semi –critical category 
+ 
+ 
+ 
+
+61 | P a g e 
+ 
+ 
+4.4 PROBLEMS  
+ Cropping pattern is the main reason as the Gross Ground Water Draft for       
+Irrigation is in excess of Net Annual GW Availability 
+ Non-availability of Surface Water for irrigation. 
+ High decline observed in northern part (alluvium) because ground water draft exceeds 
+GW recharge for agriculture purpose. 
+ Southern part of the District overlain by hard rock area. Ground water occurs in 
+secondary porosity (joint and fractures) .Yield of well is also low only to fulfil the 
+drinking water need. Dug wells sustains in weathered zone as compare to northern 
+part of the district. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+62 | P a g e 
+ 
+ 
+CHAPTER- 05 
+ 
+GROUND WATER DEVELOPMENT AND MANAGEMENT STRATEGIES 
+ 
+5.1 GROUND WATER MANAGEMENT STRATEGY 
+To arrest the further decline in ground water levels and depletion of ground water resources, 
+there is urgent need to implement both Supply side and Demand side measures which 
+includes artificial recharge and water conservation, On-farm activities and adoption of water 
+use efficiency measures. 
+ 
+5.2 GROUND WATER DEVELOPMENT  
+The development of groundwater resources is increasing over the years in order to meet 
+drinking water, industrial and irrigation requirements. The stage of ground water 
+development had been changed to 69.87 % in 2017 and 74.2 in 2020. As on 31.03.2020, it 
+shows that block wise level of development of ground water potential in Prayagraj district 
+varies from 51.25% in Meja to 175.76% in ‘Prayagraj City’. It is observed area irrigated by 
+Ground water was 148444 ha in 1993-94 and steadily increase to 158272ha in 2017-18. The 
+number ground water structures are 9694 in 1994-95 and 51977 in 2017-18. With growing 
+needs, there is an urgent need for scientific approach for proper management of the available 
+ground water resources for sustainability of this precious natural resource without having any 
+adverse effect on the environment. At those places where water level is gradually going down 
+we should restrict or minimized the ground water usages for irrigation needs. Planned ground 
+water development is possible only when the availability of the ground water potential is 
+precisely quantified and also the demand for various uses is properly estimated for the 
+projected development scenario of urban as well as rural area for next 25 years.  
+ 
+5.3 GROUND WATER MANAGEMENT OPTIONS 
+5.3.1 Supply side Interventions 
+It is proposed to adopt supply side management options only in the over-exploited and critical 
+blocks. There is considerable scope for implementation of roof top rain water harvesting in 
+the urban areas of the district. Check dams, cement plugs, renovation of ponds are ideal 
+structures for rain water harvesting in rural areas. It is proposed to construct 59 Check dams, 
+59 nala bunds, 60 ponds and 59 stream channels. 
+ Construction of check dams/nala bunds 
+
+63 | P a g e 
+ 
+ Revival and renovation of ponds 
+ On farm activities like laser leveling, bench terracing, construction of farm ponds, 
+plantation of forests etc. 
+ Government Irrigation and Water Supply tube-well should tap 2nd Aquifer; 
+however, caution is to be applied to keep piezometric head maintained. 
+ Scope of supply side interventions is limited due to topography, land availability 
+and also less availability of surplus water 
+5.3.2 Demand side Interventions 
+Agriculture is the major consumer of ground water. In the district, about 66% 
+irrigation is dependent on ground water. Even in the canal command areas, enough ground 
+water is being used to irrigate the fields. In the major parts of area, flow irrigation is being 
+used. There is urgent need to promote piped and pressurized irrigation practices which can 
+save 25 to 70% of water use in the agriculture. It is proposed to initiate these measures 
+initially in 10% area of each of the over-exploited and critical blocks. It is estimated that 
+there may be saving of 15.60 MCM of water with these measures. Such practices have the 
+potential of saving 35-40% irrigation water thereby drastically reducing the draft for 
+irrigation leading the change of category of block from OE to safe.  
+The measures adopted for supply side and demand side management in Prayagraj 
+district will substantially bring down stage of ground water development.  
+ 
+ Water use efficiency through piped and pressurised irrigation (drip & Sprinkler) 
+ Furrow irrigation with raised bed planting in wide row crops should be practised. 
+ Irrigation in checks in close row crops should be practised  
+ Measures for reducing Evapo-transpiration losses etc. 
+ Diversification of cropping pattern.  
+ Most effective option to reduce ground water withdrawal by 50-60% specially by 
+adopting Sprinkler and Drip Irrigation practices  
+ 
+5.3.3 Micro Irrigation (Sprinkler/ Drip Irrigation) 
+Micro irrigation is the frequent application of small quantities of water on, above or through 
+water directly at the root zone of the plant in a uniform and effective way. 
+Advantages 
+ Water Use Efficiency can be improved from 50-60 % to 90-95%. 
+ The consumption of fertilizers can be reduced by 30 %. 
+ Weed infestation is reduced considerably. 
+ 
+Can be used on undulating topography & on soils having low infiltration rates. 
+
+64 | P a g e 
+ 
+ 
+ 
+Sl 
+No 
+Block 
+Draft For 
+Irrigation 
+(from 
+Resource) 
+Net 
+Irrigated 
+Area 
+(From 
+Statistical 
+Diary) 
+Gross 
+Irrigated 
+Area 
+Unit 
+Draft 
+(Total 
+Draft/ 
+Ne) 
+Ratio 
+(Gross/ 
+Net) 
+1 
+BAHADURPUR 
+5911.20 
+11229 
+20012 
+0.53 
+1.78 
+2 
+BAHARIA 
+7634.20 
+18126 
+33732 
+0.42 
+1.86 
+3 
+CHAKA 
+3528.55 
+5242 
+7455 
+0.67 
+1.42 
+4 
+DHANUPUR 
+4728.81 
+12479 
+23433 
+0.38 
+1.88 
+5 
+HANDIA 
+2529.91 
+9764 
+17665 
+0.26 
+1.81 
+6 
+HOLAGARH 
+4259.88 
+12082 
+20844 
+0.35 
+1.73 
+7 
+JASRA 
+4829.07 
+18201 
+30286 
+0.27 
+1.66 
+8 
+KARCHANA 
+4609.20 
+15825 
+23502 
+0.29 
+1.49 
+9 
+KAUDHIYARA 
+3680.40 
+15637 
+23699 
+0.24 
+1.52 
+10 
+KAURIHAR 
+4691.61 
+17565 
+27798 
+0.27 
+1.58 
+11 
+KORAON 
+4996.88 
+45082 
+66063 
+0.11 
+1.47 
+12 
+MANDA 
+2745.88 
+13774 
+21323 
+0.20 
+1.55 
+13 
+MAUAIMA 
+4036.21 
+12712 
+21721 
+0.32 
+1.71 
+14 
+MEJA 
+3198.17 
+24075 
+35873 
+0.13 
+1.49 
+15 
+PHULPUR 
+3723.32 
+11018 
+21451 
+0.34 
+1.95 
+16 
+PRATAPPUR 
+5152.00 
+13262 
+24635 
+0.39 
+1.86 
+17 
+SAIDABAD 
+4275.40 
+11724 
+20601 
+0.36 
+1.76 
+18 
+SHANKARGARH 
+3531.03 
+22279 
+37956 
+0.16 
+1.70 
+19 
+SORAON 
+2409.37 
+9576 
+16437 
+0.25 
+1.72 
+20 
+URUWAN 
+3305.60 
+9646 
+15855 
+0.34 
+1.64 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 5.1 Unit Draft, Prayagraj District 
+
+65 | P a g e 
+ 
+Sl 
+No 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos) 
+Str 
+Dev 
+(Km) 
+Ponds 
+(Nos) 
+On-farm 
+(ha) 
+WUE 
+(ha) 
+Rech 
+from Str 
+MCM 
+Saving 
+from Str 
+MCM 
+Saving 
+from On-
+farm & 
+WUE 
+MCM 
+Total 
+Rech 
+MCM 
+Total 
+Saving 
+MCM 
+Present 
+Stage of 
+Ground 
+Water 
+Development 
+(%) 
+Projected 
+Stage of 
+Development 
+(%) After 
+Interventions 
+1 
+BAHADURPUR 
+3 
+3 
+3 
+3 
+1123 
+1123 
+0.21 
+0.21 
+5.27 
+0.21 
+5.48 
+84.10 
+77.10 
+2 
+BAHARIA 
+4 
+4 
+4 
+5 
+2719 
+2719 
+0.28 
+0.28 
+10.66 
+0.28 
+10.93 
+97.75 
+84.66 
+3 
+CHAKA 
+2 
+2 
+2 
+3 
+786 
+786 
+0.15 
+0.15 
+3.76 
+0.15 
+3.91 
+93.29 
+84.12 
+4 
+DHANUPUR 
+2 
+2 
+2 
+2 
+1248 
+1248 
+0.14 
+0.14 
+4.44 
+0.14 
+4.58 
+85.78 
+78.25 
+5 
+HANDIA 
+2 
+2 
+2 
+2 
+488 
+488 
+0.11 
+0.11 
+1.14 
+0.11 
+1.25 
+67.46 
+64.62 
+6 
+HOLAGARH 
+2 
+2 
+2 
+2 
+1208 
+1208 
+0.12 
+0.12 
+3.67 
+0.12 
+3.79 
+77.86 
+71.47 
+7 
+JASRA 
+3 
+3 
+3 
+3 
+910 
+910 
+0.17 
+0.17 
+2.01 
+0.17 
+2.18 
+69.69 
+66.66 
+8 
+KARCHANA 
+2 
+2 
+2 
+2 
+791 
+791 
+0.15 
+0.15 
+1.71 
+0.15 
+1.86 
+65.63 
+63.17 
+9 
+KAUDHIYARA 
+2 
+2 
+2 
+2 
+782 
+782 
+0.13 
+0.13 
+1.39 
+0.13 
+1.52 
+60.22 
+57.88 
+10 
+KAURIHAR 
+4 
+4 
+4 
+4 
+878 
+878 
+0.26 
+0.26 
+1.86 
+0.26 
+2.12 
+66.28 
+63.60 
+11 
+KORAON 
+7 
+7 
+7 
+7 
+2254 
+2254 
+0.46 
+0.46 
+1.83 
+0.46 
+2.29 
+57.79 
+55.15 
+12 
+MANDA 
+3 
+3 
+3 
+3 
+689 
+689 
+0.22 
+0.22 
+1.06 
+0.22 
+1.29 
+64.31 
+61.53 
+13 
+MAUAIMA 
+2 
+2 
+2 
+2 
+1271 
+1271 
+0.12 
+0.12 
+3.45 
+0.12 
+3.57 
+81.83 
+75.26 
+14 
+MEJA 
+4 
+4 
+4 
+4 
+1204 
+1204 
+0.28 
+0.28 
+1.19 
+0.28 
+1.47 
+51.25 
+49.12 
+15 
+PHULPUR 
+2 
+2 
+2 
+2 
+551 
+551 
+0.15 
+0.15 
+1.81 
+0.15 
+1.96 
+66.75 
+63.55 
+16 
+PRATAPPUR 
+3 
+3 
+3 
+3 
+1326 
+1326 
+0.17 
+0.17 
+4.79 
+0.17 
+4.95 
+86.99 
+79.37 
+17 
+SAIDABAD 
+2 
+2 
+2 
+2 
+1172 
+1172 
+0.15 
+0.15 
+3.76 
+0.15 
+3.91 
+82.21 
+75.26 
+18 
+SHANKARGARH 
+5 
+5 
+5 
+5 
+1114 
+1114 
+0.30 
+0.30 
+1.50 
+0.30 
+1.80 
+59.58 
+56.68 
+19 
+SORAON 
+1 
+1 
+1 
+1 
+479 
+479 
+0.09 
+0.09 
+1.03 
+0.09 
+1.13 
+68.36 
+65.59 
+20 
+URUWAN 
+2 
+2 
+2 
+2 
+482 
+482 
+0.11 
+0.11 
+1.36 
+0.11 
+1.47 
+67.20 
+64.51 
+Table 5.2: Projected Stage of Development (%) After Interventions, Prayagraj District 
+
+66 | P a g e 
+ 
+Blocks 
+Area  
+(Sq.Km) 
+Net Annual 
+Ground 
+Water Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water Draft 
+for All Uses 
+(MCM) 
+Present Stage 
+of Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected Net 
+GW 
+Availability 
+(MCM) 
+Projected 
+Gross GW 
+Draft (MCM) 
+Projected 
+Stage of 
+Extraction 
+(%) After 
+Interventions 
+BAHADURPUR 
+260.59 
+80.51 
+67.70 
+84.10 
+0.21 
+5.48 
+80.71 
+62.23 
+77.10 
+BAHARIA 
+248.75 
+85.31 
+83.39 
+97.75 
+0.28 
+10.93 
+85.58 
+72.45 
+84.66 
+CHAKA 
+135.75 
+44.04 
+41.09 
+93.29 
+0.15 
+3.91 
+44.20 
+37.18 
+84.12 
+DHANUPUR 
+173.22 
+62.23 
+53.38 
+85.78 
+0.14 
+4.58 
+62.37 
+48.80 
+78.25 
+HANDIA 
+170.52 
+46.71 
+31.51 
+67.46 
+0.11 
+1.25 
+46.82 
+30.26 
+64.62 
+HOLAGARH 
+148.46 
+60.70 
+47.26 
+77.86 
+0.12 
+3.79 
+60.82 
+43.47 
+71.47 
+JASRA 
+268.22 
+75.86 
+52.87 
+69.69 
+0.17 
+2.18 
+76.03 
+50.69 
+66.66 
+KARCHANA 
+232.81 
+79.47 
+52.16 
+65.63 
+0.15 
+1.86 
+79.62 
+50.30 
+63.17 
+KAUDHIYARA 
+200.46 
+68.37 
+41.17 
+60.22 
+0.13 
+1.52 
+68.50 
+39.65 
+57.88 
+KAURIHAR 
+414.14 
+85.40 
+56.61 
+66.28 
+0.26 
+2.12 
+85.67 
+54.49 
+63.60 
+KORAON 
+726.42 
+96.56 
+55.80 
+57.79 
+0.46 
+2.29 
+97.02 
+53.51 
+55.15 
+MANDA 
+349.43 
+51.25 
+32.95 
+64.31 
+0.22 
+1.29 
+51.47 
+31.67 
+61.53 
+MAUAIMA 
+155.6 
+55.75 
+45.62 
+81.83 
+0.12 
+3.57 
+55.88 
+42.05 
+75.26 
+MEJA 
+444.21 
+75.53 
+38.71 
+51.25 
+0.28 
+1.47 
+75.82 
+37.24 
+49.12 
+PHULPUR 
+231.54 
+64.33 
+42.94 
+66.75 
+0.15 
+1.96 
+64.48 
+40.98 
+63.55 
+PRATAPPUR 
+211.01 
+66.76 
+58.07 
+86.99 
+0.17 
+4.95 
+66.93 
+53.12 
+79.37 
+SAIDABAD 
+191.42 
+57.97 
+47.65 
+82.21 
+0.15 
+3.91 
+58.12 
+43.74 
+75.26 
+SHANKARGARH 
+472.08 
+68.15 
+40.60 
+59.58 
+0.30 
+1.80 
+68.45 
+38.80 
+56.68 
+SORAON 
+147.75 
+43.08 
+29.45 
+68.36 
+0.09 
+1.13 
+43.18 
+28.32 
+65.59 
+URUWAN 
+168.9 
+57.19 
+38.43 
+67.20 
+0.11 
+1.47 
+57.30 
+36.96 
+64.51 
+  
+  
+1325.17 
+957.37   
+ 
+ 
+1328.94 
+895.89 
+67.41387458 
+Table 5.3: Projected Stage of Extraction (%) After Interventions, Prayagraj District 
+
+67 | P a g e 
+ 
+Figure 5.1: Projected change in stage of ground water extraction after interventions 
+
+68 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Annual Extractable GW Recharge 
+Annual GW Extraction 
+Present  
+85.40 
+56.61 
+After Interventions 
+85.67 
+54.49 
+Table 5.5: Projected change after interventions 
+Figure 5.2: Projected change after interventions 
+
+69 | P a g e 
+ 
+CHAPTER-6 
+                        
+CONCLUSION 
+ 
+1. District Prayagraj is covering an area of 5482 sq. km lies in doab of River Ganga and 
+Yamuna.  
+2. The area is a part of Middle Ganga alluvial plain. The gradient following the drainage lines 
+of the principal rivers (Ganga and Yamuna).  
+3. The Northern half of the district occupies part of Ganga basin and Sothern part of the 
+district occupies the part of Yamuna and Tons Sub- basin. The rivers of the district belong to 
+the main drainage system of the Ganga. The most important tributaries are Yamuna and Tons 
+while those of minor systems include Sai and Yamuna. The Ganga enters the district in the 
+Kaurihar Block. It maintains a meandering course. Yamuna, the second major river, enters 
+the district in the extreme west in the Sankargarh block and flows narrowly before joining to 
+the Ganga at Sangam in the proximity of Prayagraj city. Yamuna has more constant channel 
+and steeper banks. 
+4. The northern part of Prayagraj district popularly known as Gangapur provides rich loam 
+soil for cultivation of food grains, pulses, oilseeds and vegetables. The Southern part of 
+Prayagraj district also known as Yamuna par is partly rocky and somewhat agriculturally 
+backward. 
+5. Net Area Sown in the district is 353 (thousand ha), Net irrigated area is 310 (thousand ha) 
+and Gross irrigated area is 511 (thousand ha). 
+6. The average annual rainfall is 959.1 mm. About 85% of rainfall takes places from June to 
+September.  
+7. The depth to water level ranges from 1.32 to 20.36 mbgl during pre-monsoon where as it 
+ranges from 0.59 to 15.69 mbgl in post-monsoon. The pre-& post-monsoon water level 
+fluctuation varies from 0.46 m to 6.42mbgl.  
+
+70 | P a g e 
+ 
+8. Transmissivity of aquifer varies from 857 – 3330 m2/day, Storativity 1.79×10-4 – 5.10×10-
+4. Discharge varies from1000-3050 lpm  
+9. The total ground water draft is 100192.68 hams, which is being used in present for 
+domestic, irrigation & industrial purposes against the ground water availability of 135052.05 
+hams. Prayagraj City is in Over-Exploited Category. Baharia and Chaka blocks are in Critical 
+Category. There are Six blocks Bahadurpur, Dhanupur, Holagarh, Mauaima, Pratappur, 
+Saidabad falls under Semi-critical category whereas rest blocks fall under safe category. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+71 | P a g e 
+ 
+RECOMMENDATION 
+1. To arrest the further decline in ground water levels and depletion of ground water 
+resources, there is urgent need to implement both Supply side and Demand side measures 
+which includes artificial recharge and water conservation, On-farm activities and adoption of 
+water use efficiency measures.  
+2. There is considerable scope for implementation of Roof Top Rain Water Harvesting in 
+Prayagraj City. Check dams, cement plugs, renovation of ponds are ideal structures for rain 
+water harvesting in rural areas. Water conservation structures such as check dams, farm 
+ponds, nala bunds etc. It is also proposed to adopt on Farm practices such as laser levelling, 
+bench terracing, construction of farm ponds, afforestation, diversification of crops etc.  
+3. It is proposed to construct 59 Check dams and 60 ponds under supply side management.  
+4. In demand side management there is urgent need to promote piped and pressurized 
+irrigation practices, n-farm Activities, Water Use Efficiency Measures (Drip & Sprinkler + 
+HDPE Pipes). It is proposed to initiate these measures initially in 30% of area. The measures 
+adopted for supply side and demand side management in district will substantially bring 
+down stage of ground water development.  
+5. It is also proposed to adopt new water saving agricultural practices. Such practices have 
+the potential of saving 35-40% irrigation water thereby drastically reducing the draft for 
+irrigation leading the change of category of the district from semi-critical to safe.  
+6. Agriculture department should promote to conserve the soil moisture by reducing ET 
+losses through cultivation of ‘Green Manure’.  
+7. Alternate cropping pattern system having lower requirement of water should be 
+encouraged in accordance to the irrigation water availability.  
+8. Furrow irrigation with raised bed planting in wide row crops should be practiced.  
+
+72 | P a g e 
+ 
+9. Drip irrigation in wide row crops should be practiced with mulch in the area.  
+10. Multiuse of water through integrated farming system.  
+11. Conjunctive use of surface and groundwater should be encouraged in the block.  
+12. Besides the above, there is urgent need for participatory ground water management in the 
+area which will further help in bringing more awareness among the common farmers which 
+will reduce the ground water draft and bring down the stage of ground water development.  
+13. All efforts should be taken to ensure treatment of waste disposal both solid and liquid 
+from industries and urban areas to prevent pollution of ground water and surface water. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+73 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REFERENCES 
+ 
+ Report on Status of Ground Water Exploration, Uttar Pradesh 2012.  
+ Dynamic Ground Water Resources of Uttar Pradesh (As on March, 2004).  
+ Dynamic Ground Water Resources of Uttar Pradesh (As on March, 2009).  
+ Dynamic Ground Water Resources of Uttar Pradesh (As on March, 2011).  
+ Dynamic Ground Water Resources of Uttar Pradesh (As on March, 2013).  
+  District Statistical diary (http://updes.up.nic.in) 
+ Ground water Exploration  and Development prospects of Allahabad District by  Shri 
+Arun Kumar ,  Assistant Hydrogeologist, September,1995 , Lucknow 
+ Report on the Selection of Tubewell sites at M.E.S new cantonment, Allahabad, Uttar 
+Pradesh by Shri  Arun Kumar, Asstt. Hydrogeologist, Jan, 1994, Lucknow
+
+74 | P a g e 
+ 
+Aquifer Map and Management plan of Bahadurpur Block, 
+Prayagraj District, U.P. 
+  
+BAHADURPUR BLOCK AT A GLANCE 
+General Information 
+State Name 
+Uttar Pradesh 
+District name 
+Prayagraj 
+Block Name 
+ Bahadurpur 
+Geographical area 
+260.59 Sq.Km.  
+Basin/Sub-basin  
+Ganga, Yamuna and Tons 
+Principal Aquifer System 
+Alluvium  
+Major Aquifer System 
+ Alluvium 
+Normal Annual Rainfall 
+1042.00 mm  
+ 
+ 
+ 
+ 
+ 
+
+75 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+76 | P a g e 
+ 
+Aquifer Disposition 
+Aquifer Disposition 
+Three aquifer group upto 250 meter depth. 
+• Aquifer Group I: upto 115 m. 
+• Aquifer Group II: from 125 upto 185 m 
+• Aquifer Group II: Beyond 202m 
+Transmissivity 3330  m2/day and Storativity- 1.79*10-4 
+Discharge 3050 lpm 
+Groundwater Monitoring 
+Status 
+2 
+Ground Water Quality 
+It is observed that the ground water is suitable for drinking and 
+domestic uses. 
+Aquifer Potential 
+3050 lpm 
+Groundwater Resource 
+Annual Extractable GW Resource : 80.50MCM 
+GW Draft :67.70 MCM 
+Stage of GW Development : 84.10 %;  
+Semi- Critical 
+Existing 
+and 
+Future 
+Water Demand 
+Present demand for All Usage 67.70MCM 
+Future Demand for Domestic  Use: 9.62 MCM    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+77 | P a g e 
+ 
+Aquifer Management Plan 
+Groundwater 
+Management issues 
+Cropping pattern is the main reason as the Gross Ground Water 
+Draft for Irrigation is in excess of Net Annual GW Availability 
+Non-availability of Surface Water for irrigation. 
+High decline observed in northern part (alluvium) because ground 
+water draft exceeds GW recharge for agriculture purpose. 
+AR & Conservation 
+Possibilities 
+Construction of Artificial recharge and water conservation 
+structures, On-farm activities and adoption of water use efficiency 
+measures. 
+Groundwater 
+Management Plan 
+Supply Side Management:  Water conservation and Artificial 
+Recharge to ground water and on Farm Activities. 
+Demand Side Management:  Adoption of techniques to enhance 
+water 
+use 
+efficiency 
+viz 
+sprinkler, 
+drip 
+irrigation 
+and 
+diversification of cropping pattern. 
+Status 
+of 
+GW 
+Exploration 
+Exploratory Wells :  01 
+Observation Wells : 01 
+Aquifer Characteristics 
+Transmissivity 3330 m2/day and Storativity- 1.79*10-4  
+Discharge 3050 lpm 
+ 
+ 
+Management Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blocks 
+Area  
+(Sq.
+Km) 
+Net 
+Annual 
+Ground 
+Water 
+Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water 
+Draft 
+for All 
+Uses 
+(MCM) 
+Present 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected 
+Net GW 
+Availability 
+(MCM) 
+Projected 
+Gross 
+GW 
+Draft 
+(MCM) 
+Projected 
+Stage of 
+Extraction 
+(%) After 
+Interventions 
+Bahadurpur 
+260.59 
+80.51 
+67.70 
+84.10 
+0.21 
+5.48 
+80.71 
+62.23 
+77.10 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos) 
+Str 
+Dev 
+(Km) 
+Ponds 
+(Nos) 
+On-
+farm 
+(ha) 
+WUE 
+(ha) 
+Rech 
+from 
+Str 
+MCM 
+Saving 
+from 
+Str 
+MCM 
+Saving 
+from 
+On-
+farm 
+& 
+WUE 
+MCM 
+Total 
+Rech 
+MCM 
+Total 
+Saving 
+MCM 
+Present 
+Stage of 
+Ground 
+Water 
+Development 
+(%) 
+Projected 
+Stage of 
+Development 
+(%) After 
+Interventions 
+Bahadurpur 
+3 
+3 
+3 
+3 
+1123 
+1123 
+0.21 
+0.21 
+5.27 
+0.21 
+5.48 
+84.10 
+77.10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+78 | P a g e 
+ 
+ 
+ 
+ 
+
+79 | P a g e 
+ 
+Aquifer Map and Management plan of Bahariya Block, 
+Prayagraj District, U.P. 
+ 
+BAHARIYA BLOCK AT A GLANCE 
+ 
+General Information   
+State Name 
+Uttar Pradesh 
+District name 
+Prayagraj 
+Block Name 
+ Bahariya 
+Geographical area 
+248.75 Sq.Km.  
+Basin/Sub-basin  
+Ganga, Yamuna and Tons 
+Principal Aquifer System 
+Alluvium  
+Major Aquifer System 
+ Alluvium 
+Normal Annual Rainfall 
+1042.00 mm  
+ 
+ 
+ 
+ 
+ 
+ 
+
+80 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+81 | P a g e 
+ 
+Aquifer Disposition 
+ 
+Aquifer Disposition 
+Three aquifer group up to 250 meter depth. 
+• 
+Aquifer Group I: upto 115 m. 
+• 
+Aquifer Group II: from 125 upto 185 m 
+• 
+Aquifer Group II: Beyond 202m 
+Transmissivity 3330  m2/day and Storativity- 1.79*10-4  
+Discharge 3050lpm 
+Groundwater 
+Monitoring Status 
+1 
+Ground Water Quality 
+It is observed that the ground water is suitable for drinking and 
+domestic uses. 
+Aquifer Potential 
+Aquifer Group I : 3050lpm 
+Groundwater Resource 
+Annual Extractable GW Resource : 85.30 MCM  
+GW Draft :83.38 MCM  
+Stage of GW Development :97.75 %  
+Critical 
+Existing and Future 
+Water Demand 
+Present demand for All Usage 83.38MCM  
+Future Demand for Domestic use: 7.909 MCM   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+82 | P a g e 
+ 
+ 
+ 
+ 
+Management Plan 
+ 
+Groundwater 
+Management issues 
+Cropping pattern is the main reason as the Gross Ground Water 
+Draft for Irrigation is in excess of Net Annual GW Availability 
+Non-availability of Surface Water for irrigation. 
+High decline observed in northern part (alluvium) because ground 
+water draft exceeds GW recharge for agriculture purpose. 
+AR & Conservation 
+Possibilities 
+Construction of Artificial recharge and water conservation 
+structures, On-farm activities and adoption of water use efficiency 
+measures. 
+Groundwater 
+Management Plan 
+Supply Side Management:  Water conservation and Artificial 
+Recharge to ground water and on Farm Activities. 
+Demand Side Management:  Adoption of techniques to enhance 
+water use efficiency viz. sprinkler, drip irrigation and 
+diversification of cropping pattern. 
+Status of GW 
+Exploration 
+Exploratory Wells :  01 
+Observation Wells : 01 
+Aquifer Characteristics 
+ Transmissivity 3330  m2/day and Storativity- 1.79*10-4  
+Discharge 3050lpm 
+Blocks 
+Area  
+(Sq.Km) 
+Net 
+Annual 
+Ground 
+Water 
+Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water 
+Draft 
+for All 
+Uses 
+(MCM) 
+Present 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected 
+Net GW 
+Availability 
+(MCM) 
+Projected 
+Gross 
+GW Draft 
+(MCM) 
+Projected 
+Stage of 
+Extraction 
+(%) After 
+Interventions 
+BAHARIA 
+248.75 
+85.31 
+83.39 
+ 97.75 
+0.28 
+10.93 
+85.58 
+72.45 
+84.66 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos) 
+Str 
+Dev 
+(Km) 
+Ponds 
+(Nos) 
+On-
+farm 
+(ha) 
+WUE 
+(ha) 
+Rech 
+from Str 
+MCM 
+Saving 
+from 
+Str 
+MCM 
+Saving 
+from 
+On-
+farm 
+& 
+WUE 
+MCM 
+Total 
+Rech 
+MCM 
+Total 
+Saving 
+MCM 
+Present 
+Stage of 
+Ground 
+Water 
+Development 
+(%) 
+Projected 
+Stage of 
+Development 
+(%) After 
+Interventions 
+BAHARIA 
+4 
+4 
+4 
+5 
+2719 
+2719 
+0.28 
+0.28 
+10.66 
+0.28 
+10.93 
+97.75 
+84.66 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aquifer Management Plan 
+
+83 | P a g e 
+ 
+ 
+ 
+ 
+
+84 | P a g e 
+ 
+Aquifer Map and Management plan of Chaka Block, Prayagraj 
+District, U.P.  
+ 
+CHAKA BLOCK AT A GLANCE 
+General Information 
+State Name 
+Uttar Pradesh 
+District name 
+prayagraj 
+Block Name 
+Chaka 
+Geographical area 
+135.75Sq.Km.  
+Basin/Sub-basin  
+Ganga, Yamuna and Tons 
+Principal Aquifer System 
+Alluvium 
+Major Aquifer System 
+ Alluvium 
+Normal Annual Rainfall 
+1042 mm  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+85 | P a g e 
+ 
+ 
+ 
+Aquifer Disposition 
+Aquifer Disposition 
+Three aquifer group upto 200 meter depth. 
+• 
+Aquifer Group I: upto 115 m. 
+• 
+Aquifer Group II: from 122-200 m 
+Transmissivity 2790  m2/day and Storativity- 4.13*10-4  
+Discharge 3600 lpm 
+ 
+Groundwater 
+Monitoring Status 
+2 
+Ground Water Quality 
+Suitable for domestic, drinking, irrigation and Industrial purpose 
+Aquifer Potential 
+Aquifer Group I : 2790 lpm 
+Groundwater Resource 
+Annual Extractable GW Resource : 44.04 MCM  
+GW Draft :41.09 MCM  
+Stage of GW Development :93.29 %  
+Critical 
+Existing and Future 
+Water Demand 
+Present demand for All Usage 41.09MCM   
+Future Demand for Domestic use:5.9199 MCM   
+ 
+ 
+ 
+
+86 | P a g e 
+ 
+ 
+Aquifer Management Plan 
+Groundwater 
+Management issues 
+Cropping pattern is the main reason as the Gross Ground Water 
+Draft for Irrigation is in excess of Net Annual GW Availability 
+Non-availability of Surface Water for irrigation. 
+High decline observed in northern part (alluvium) because ground 
+water draft exceeds GW recharge for agriculture purpose. 
+AR & Conservation 
+Possibilities 
+Construction of Artificial recharge and water conservation 
+structures, On-farm activities and adoption of water use efficiency 
+measures. 
+Groundwater 
+Management Plan 
+Supply Side Management:  Water conservation and Artificial 
+Recharge to ground water and on Farm Activities. 
+Demand Side Management:  Adoption of techniques to enhance 
+water Use Efficiency viz. sprinkler, drip irrigation and 
+diversification of cropping pattern. 
+Status of GW 
+Exploration 
+Exploratory Wells :  05 
+Observation Wells : 01 
+Aquifer Characteristics 
+ Transmissivity 2790  m2/day and Storativity- 4.13*10-4  
+Discharge 3600 lpm 
+ 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos) 
+Str 
+Dev 
+(Km) 
+Ponds 
+(Nos) 
+On-
+farm 
+(ha) 
+WUE 
+(ha) 
+Rech 
+from 
+Str 
+MCM 
+Saving 
+from 
+Str 
+MCM 
+Saving 
+from 
+On-
+farm 
+& 
+WUE 
+MCM 
+Total 
+Rech 
+MCM 
+Total 
+Saving 
+MCM 
+Present 
+Stage of 
+Ground 
+Water 
+Development 
+(%) 
+Projected 
+Stage of 
+Development 
+(%) After 
+Interventions 
+CHAKA 
+2 
+2 
+2 
+3 
+786 
+786 
+0.15 
+0.15 
+3.76 
+0.15 
+3.19 
+93.29 
+84.12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blocks 
+Area  
+(Sq.Km) 
+Net 
+Annual 
+Ground 
+Water 
+Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water 
+Draft 
+for All 
+Uses 
+(MCM) 
+Present 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected 
+Net GW 
+Availability 
+(MCM) 
+Projected 
+Gross 
+GW 
+Draft 
+(MCM) 
+Projected 
+Stage of 
+Extraction 
+(%) After 
+Interventions 
+CHAKA 
+135.75 
+44.04 
+41.09 
+93.29 
+0.15 
+3.91 
+44.20 
+37.18 
+84.12 
+Management Plan 
+
+87 | P a g e 
+ 
+ 
+
+88 | P a g e 
+ 
+Aquifer Map and Management plan of Dhanupur Block, 
+Prayagraj District, U.P.  
+ 
+DHANUPUR BLOCK AT A GLANCE 
+General Information 
+State Name 
+Uttar Pradesh 
+District name 
+Prayagraj 
+Block Name 
+ Dhanupur 
+Geographical area 
+173.22 Sq.Km.  
+Basin/Sub-basin  
+Ganga, Yamuna and Tons 
+Principal Aquifer System 
+Alluvium  
+Major Aquifer System 
+ Alluvium 
+Normal Annual Rainfall 
+1042.00 mm  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+89 | P a g e 
+ 
+ 
+Aquifer Disposition 
+ 
+Aquifer Disposition 
+- 
+ 
+ 
+ 
+Groundwater 
+Monitoring Status 
+1 
+Ground Water Quality 
+ It is observed that the ground water is suitable for drinking and 
+domestic uses. 
+Aquifer Potential 
+- 
+Groundwater Resource 
+Annual Extractable GW Resource : 62.22MCM  
+GW Draft :53.37MCM  
+Stage of GW Development :85.78%  
+Semi- Critical 
+Existing and Future 
+Water Demand 
+Present demand for All Usage :53.37MCM 
+  Future Demand for Domestic  Use: 6.91 MCM   
+ 
+ 
+ 
+
+90 | P a g e 
+ 
+Aquifer Management Plan 
+Groundwater 
+Management issues 
+Cropping pattern is the main reason as the Gross Ground Water 
+Draft for Irrigation is in excess of Net Annual GW Availability 
+Non-availability of Surface Water for irrigation. 
+High decline observed in northern part (alluvium) because ground 
+water draft exceeds GW recharge for agriculture purpose. 
+ 
+AR & Conservation 
+Possibilities 
+Construction of Artificial recharge and water conservation 
+structures, On-farm activities and adoption of water use efficiency 
+measures. 
+ 
+Groundwater 
+Management Plan 
+Supply Side Management:  Water conservation and Artificial 
+Recharge to ground water and on Farm Activities. 
+Demand Side Management:  Adoption of techniques to enhance 
+water Use Efficiency viz. sprinkler, drip irrigation and 
+diversification of cropping pattern. 
+Status of GW 
+Exploration 
+- 
+Aquifer Characteristics 
+ - 
+ 
+ 
+ 
+ 
+ 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos) 
+Str 
+Dev 
+(Km) 
+Ponds 
+(Nos) 
+On-
+farm 
+(ha) 
+WUE 
+(ha) 
+Rech 
+from 
+Str 
+MCM 
+Saving 
+from 
+Str 
+MCM 
+Saving 
+from 
+On-
+farm 
+& 
+WUE 
+MCM 
+Total 
+Rech 
+MCM 
+Total 
+Saving 
+MCM 
+Present 
+Stage of 
+Ground 
+Water 
+Development 
+(%) 
+Projected 
+Stage of 
+Development 
+(%) After 
+Interventions 
+DHANUPUR 
+2 
+2 
+2 
+2 
+1248 
+1248 
+0.14 
+0.14 
+4.44 
+0.14 
+4.58 
+85.78 
+78.25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blocks 
+Area  
+(Sq.Km) 
+Net 
+Annual 
+Ground 
+Water 
+Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water 
+Draft 
+for All 
+Uses 
+(MCM) 
+Present 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected 
+Net GW 
+Availability 
+(MCM) 
+Projected 
+Gross 
+GW 
+Draft 
+(MCM) 
+Projected 
+Stage of 
+Extraction 
+(%) After 
+Interventions 
+DHANUPUR 
+173.22 
+62.23 
+53.38 
+85.78 
+0.14 
+4.58 
+62.37 
+48.80 
+78.25 
+Management Plan 
+
+91 | P a g e 
+ 
+ 
+ 
+ 
+
+92 | P a g e 
+ 
+Aquifer Map and Management plan of Holagarh Block, 
+Prayagraj District, U.P.  
+ 
+HOLAGARH BLOCK AT A GLANCE 
+ 
+General Information 
+State Name 
+Uttar Pradesh 
+District name 
+Prayagraj 
+Block Name 
+ Holagarh 
+Geographical area 
+148.46 Sq.Km.  
+Basin/Sub-basin  
+Ganga, Yamuna and Tons 
+Principal Aquifer System 
+Alluvium  
+Major Aquifer System 
+ Alluvium 
+Normal Annual Rainfall 
+1042.00 mm  
+ 
+ 
+ 
+ 
+ 
+
+93 | P a g e 
+ 
+ 
+ 
+
+94 | P a g e 
+ 
+Aquifer Disposition 
+Aquifer Disposition 
+- 
+ 
+ 
+ 
+Groundwater 
+Monitoring Status 
+1 
+Ground Water Quality 
+It is observed that the ground water is suitable for drinking and 
+domestic uses. 
+Aquifer Potential 
+ 
+Groundwater Resource 
+Annual Extractable GW Resource : 60.70MCM  
+GW Draft :47.26MCM  
+Stage of GW Development :77.86%  
+Semi- Critical 
+Existing and Future 
+Water Demand 
+Present demand for All Usage :47.26MCM 
+Future Demand for Domestic  Use: 5.18 MCM   
+ 
+Aquifer Management Plan 
+Groundwater 
+Management issues 
+Cropping pattern is the main reason as the Gross Ground Water 
+Draft for Irrigation is in excess of Net Annual GW Availability 
+Non-availability of Surface Water for irrigation. 
+High decline observed in northern part (alluvium) because ground 
+water draft exceeds GW recharge for agriculture purpose. 
+AR & Conservation 
+Possibilities 
+Construction of Artificial recharge and water conservation 
+structures, On-farm activities and adoption of water use efficiency 
+measures. 
+Groundwater 
+Management Plan 
+Supply Side Management:  Water conservation and Artificial 
+Recharge to ground water and on Farm Activities. 
+Demand Side Management:  Adoption of techniques to enhance 
+water Use Efficiency viz. sprinkler, drip irrigation and 
+diversification of cropping pattern. 
+Status of GW 
+Exploration 
+- 
+Aquifer Characteristics 
+ - 
+ 
+ 
+ 
+ 
+ 
+ 
+
+95 | P a g e 
+ 
+Management Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos) 
+Str 
+Dev 
+(Km) 
+Ponds 
+(Nos) 
+On-
+farm 
+(ha) 
+WUE 
+(ha) 
+Rech 
+from 
+Str 
+MCM 
+Saving 
+from 
+Str 
+MCM 
+Saving 
+from 
+On-
+farm 
+& 
+WUE 
+MCM 
+Total 
+Rech 
+MCM 
+Total 
+Saving 
+MCM 
+Present 
+Stage of 
+Ground 
+Water 
+Development 
+(%) 
+Projected 
+Stage of 
+Development 
+(%) After 
+Interventions 
+Holagarh 
+2 
+2 
+2 
+2 
+1208 
+1208 
+0.12 
+0.12 
+3.67 
+0.12 
+3.79 
+77.86 
+71.47 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blocks 
+Area  
+(Sq.Km) 
+Net 
+Annual 
+Ground 
+Water 
+Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water 
+Draft 
+for All 
+Uses 
+(MCM) 
+Present 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected 
+Net GW 
+Availability 
+(MCM) 
+Projected 
+Gross 
+GW 
+Draft 
+(MCM) 
+Projected 
+Stage of 
+Extraction 
+(%) After 
+Interventions 
+Holagarh 
+148.46 
+60.70 
+47.26 
+77.86 
+0.12 
+3.79 
+60.82 
+43.47 
+71.47 
+
+96 | P a g e 
+ 
+Aquifer Map and Management plan of Mauaima Block, 
+Prayagraj District, U.P.  
+ 
+MAUAIMA BLOCK AT A GLANCE 
+General Information 
+State Name 
+Uttar Pradesh 
+District name 
+Prayagraj 
+Block Name 
+ Mauaima 
+Geographical area 
+155.60Sq.Km.  
+Basin/Sub-basin  
+Ganga, Yamuna and Tons 
+Principal Aquifer System 
+Alluvium  
+Major Aquifer System 
+ Alluvium 
+Normal Annual Rainfall 
+1042.00 mm  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+97 | P a g e 
+ 
+ 
+ 
+ 
+
+98 | P a g e 
+ 
+Aquifer Disposition 
+ 
+Aquifer Disposition 
+- 
+ 
+ 
+Groundwater 
+Monitoring Status 
+- 
+Ground Water Quality 
+It is observed that the ground water is suitable for drinking and 
+domestic uses. 
+Aquifer Potential 
+- 
+Groundwater Resource 
+Annual Extractable GW Resource : 55.75MCM  
+GW Draft :45.62MCM  
+Stage of GW Development :81.83%  
+Semi- Critical 
+Existing and Future 
+Water Demand 
+Present demand for All Usage :45.62MCM 
+Future Demand for Domestic  Use: 6.07 MCM   
+ 
+Aquifer Management Plan 
+ 
+Groundwater 
+Management issues 
+Cropping pattern is the main reason as the Gross Ground Water 
+Draft for Irrigation is in excess of Net Annual GW Availability 
+Non-availability of Surface Water for irrigation. 
+High decline observed in northern part (alluvium) because ground 
+water draft exceeds GW recharge for agriculture purpose. 
+AR & Conservation 
+Possibilities 
+Construction of Artificial recharge and water conservation 
+structures, On-farm activities and adoption of water use efficiency 
+measures. 
+Groundwater 
+Management Plan 
+Supply Side Management:  Water conservation and Artificial 
+Recharge to ground water and on Farm Activities. 
+Demand Side Management:  Adoption of techniques to enhance 
+water Use Efficiency viz. sprinkler, drip irrigation and 
+diversification of cropping pattern. 
+Status of GW 
+Exploration 
+- 
+Aquifer Characteristics 
+ - 
+ 
+ 
+ 
+ 
+
+99 | P a g e 
+ 
+Management Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos) 
+Str 
+Dev 
+(Km) 
+Ponds 
+(Nos) 
+On-
+farm 
+(ha) 
+WUE 
+(ha) 
+Rech 
+from 
+Str 
+MCM 
+Saving 
+from 
+Str 
+MCM 
+Saving 
+from 
+On-
+farm 
+& 
+WUE 
+MCM 
+Total 
+Rech 
+MCM 
+Total 
+Saving 
+MCM 
+Present 
+Stage of 
+Ground 
+Water 
+Development 
+(%) 
+Projected 
+Stage of 
+Development 
+(%) After 
+Interventions 
+Mauiama 
+2 
+2 
+2 
+2 
+1271 
+1271 
+0.12 
+0.12 
+3.45 
+0.12 
+3.57 
+81.83 
+75.26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blocks 
+Area  
+(Sq.Km) 
+Net 
+Annual 
+Ground 
+Water 
+Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water 
+Draft 
+for All 
+Uses 
+(MCM) 
+Present 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected 
+Net GW 
+Availability 
+(MCM) 
+Projected 
+Gross 
+GW 
+Draft 
+(MCM) 
+Projected 
+Stage of 
+Extraction 
+(%) After 
+Interventions 
+Mauiama 
+155.6 
+55.75 
+45.62 
+81.83 
+0.12 
+3.57 
+55.88 
+42.05 
+75.26 
+
+100 | P a g e 
+ 
+Aquifer Map and Management plan of Pratappur Block, 
+Prayagraj District, U.P.  
+ 
+PRATAPPUR BLOCK AT A GLANCE 
+ 
+ 
+General Information   
+State Name 
+Uttar Pradesh 
+District name 
+Prayagraj 
+Block Name 
+ Pratappur 
+Geographical area 
+211.07 Sq.Km.  
+Basin/Sub-basin  
+Ganga, Yamuna and Tons 
+Principal Aquifer System 
+Alluvium  
+Major Aquifer System 
+ Alluvium 
+Normal Annual Rainfall 
+1042.00 mm  
+ 
+ 
+ 
+ 
+
+101 | P a g e 
+ 
+ 
+ 
+ 
+Aquifer Disposition 
+ 
+Aquifer Disposition 
+- 
+Groundwater 
+Monitoring Status 
+- 
+Ground Water Quality 
+It is observed that the ground water is suitable for drinking and 
+domestic uses. 
+Aquifer Potential 
+ 
+Groundwater Resource 
+Annual Extractable GW Resource : 66.75MCM  
+GW Draft :58.07MCM  
+Stage of GW Development :86.99%  
+Semi- Critical 
+Existing 
+and 
+Future 
+Water Demand 
+Present demand for All Usage :58.07MCM 
+  Future Demand for Domestic  Use: 7.36 MCM   
+ 
+ 
+ 
+ 
+ 
+ 
+
+102 | P a g e 
+ 
+Aquifer Management Plan 
+Groundwater 
+Management issues 
+Cropping pattern is the main reason as the Gross Ground Water 
+Draft for Irrigation is in excess of Net Annual GW Availability 
+Non-availability of Surface Water for irrigation. 
+High decline observed in northern part (alluvium) because ground 
+water draft exceeds GW recharge for agriculture purpose. 
+AR & Conservation 
+Possibilities 
+Construction of Artificial recharge and water conservation 
+structures, On-farm activities and adoption of water use efficiency 
+measures. 
+Groundwater 
+Management Plan 
+Supply Side Management:  Water conservation and Artificial 
+Recharge to ground water and on Farm Activities. 
+Demand Side Management:  Adoption of techniques to enhance 
+water Use Efficiency viz. sprinkler, drip irrigation and 
+diversification of cropping pattern. 
+Status 
+of 
+GW 
+Exploration 
+- 
+Aquifer Characteristics 
+ - 
+ 
+Management Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos) 
+Str 
+Dev 
+(Km) 
+Ponds 
+(Nos) 
+On-
+farm 
+(ha) 
+WUE 
+(ha) 
+Rech 
+from 
+Str 
+MCM 
+Saving 
+from 
+Str 
+MCM 
+Saving 
+from 
+On-
+farm 
+& 
+WUE 
+MCM 
+Total 
+Rech 
+MCM 
+Total 
+Saving 
+MCM 
+Present 
+Stage of 
+Ground 
+Water 
+Development 
+(%) 
+Projected 
+Stage of 
+Development 
+(%) After 
+Interventions 
+Pratappur 
+3 
+3 
+3 
+3 
+1326 
+1326 
+0.17 
+0.17 
+4.79 
+0.17 
+4.95 
+86.99 
+79.37 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blocks 
+Area  
+(Sq.Km) 
+Net 
+Annual 
+Ground 
+Water 
+Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water 
+Draft 
+for All 
+Uses 
+(MCM) 
+Present 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected 
+Net GW 
+Availability 
+(MCM) 
+Projected 
+Gross 
+GW 
+Draft 
+(MCM) 
+Projected 
+Stage of 
+Extraction 
+(%) After 
+Interventions 
+Pratappur 
+211.07 
+66.76 
+58.07 
+86.99 
+0.17 
+4.95 
+66.93 
+53.12 
+79.37 
+
+103 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+
+104 | P a g e 
+ 
+Aquifer Map and Management plan of Saidabad Block, 
+Prayagraj District, U.P.  
+ 
+SAIDABAD BLOCK AT A GLANCE 
+General Information 
+State Name 
+Uttar Pradesh 
+District name 
+Prayagraj 
+Block Name 
+ Saidabad 
+Geographical area 
+191.42Sq.Km.  
+Basin/Sub-basin  
+Ganga, Yamuna and Tons 
+Principal Aquifer System 
+Alluvium  
+Major Aquifer System 
+ Alluvium 
+Normal Annual Rainfall 
+1042.00 mm  
+ 
+ 
+ 
+ 
+ 
+ 
+
+105 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+
+106 | P a g e 
+ 
+Aquifer Disposition 
+ 
+ 
+ 
+Aquifer Disposition 
+- 
+Groundwater 
+Monitoring Status 
+- 
+Ground Water Quality 
+It is observed that the ground water is suitable for drinking and 
+domestic uses. 
+Aquifer Potential 
+- 
+Groundwater Resource 
+Annual Extractable GW Resource : 57.96MCM  
+GW Draft :47.65MCM  
+Stage of GW Development :82.21%  
+Semi- Critical 
+ 
+ 
+Existing 
+and 
+Future 
+Water Demand 
+Present demand for All Usage :47.65MCM 
+Future Demand for Domestic  Use: 5.52 MCM   
+ 
+ 
+Aquifer Management Plan 
+Groundwater 
+Management issues 
+Cropping pattern is the main reason as the Gross Ground Water 
+Draft for Irrigation is in excess of Net Annual GW Availability 
+Non-availability of Surface Water for irrigation. 
+High decline observed in northern part (alluvium) because ground 
+water draft exceeds GW recharge for agriculture purpose. 
+ 
+AR & Conservation 
+Possibilities 
+Construction of Artificial recharge and water conservation 
+structures, On-farm activities and adoption of water use efficiency 
+measures. 
+ 
+ 
+Groundwater 
+Management Plan 
+Supply Side Management:  Water conservation and Artificial 
+Recharge to ground water and on Farm Activities. 
+Demand Side Management:  Adoption of techniques to enhance 
+water Use Efficiency viz. sprinkler, drip irrigation and 
+diversification of cropping pattern. 
+Status 
+of 
+GW 
+Exploration 
+- 
+Aquifer Characteristics 
+ - 
+
+107 | P a g e 
+ 
+Management Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos) 
+Str 
+Dev 
+(Km) 
+Ponds 
+(Nos) 
+On-
+farm 
+(ha) 
+WUE 
+(ha) 
+Rech 
+from 
+Str 
+MCM 
+Saving 
+from 
+Str 
+MCM 
+Saving 
+from 
+On-
+farm 
+& 
+WUE 
+MCM 
+Total 
+Rech 
+MCM 
+Total 
+Saving 
+MCM 
+Present 
+Stage of 
+Ground 
+Water 
+Development 
+(%) 
+Projected 
+Stage of 
+Development 
+(%) After 
+Interventions 
+Saidabad 
+2 
+2 
+2 
+2 
+1172 
+1172 
+0.15 
+0.15 
+3.76 
+0.15 
+3.91 
+82.21 
+75.26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blocks 
+Area  
+(Sq.Km) 
+Net 
+Annual 
+Ground 
+Water 
+Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water 
+Draft 
+for All 
+Uses 
+(MCM) 
+Present 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected 
+Net GW 
+Availability 
+(MCM) 
+Projected 
+Gross 
+GW 
+Draft 
+(MCM) 
+Projected 
+Stage of 
+Extraction 
+(%) After 
+Interventions 
+Saidabad 
+191.42 
+57.97 
+47.65 
+82.21 
+0.15 
+3.91 
+58.12 
+43.74 
+75.26 
+
+108 | P a g e 
+ 
+Aquifer Map and Management plan of Handia Block, Prayagraj 
+District, U.P. 
+  
+HANDIA BLOCK AT A GLANCE 
+ 
+General Information:               
+State Name 
+Uttar Pradesh 
+District name 
+Prayagraj 
+Block Name 
+Handia 
+Geographical area 
+170.52km2 
+Basin/Sub-basin 
+Ganga, Yamuna and Tons    
+Principal Aquifer System 
+Alluvium 
+Major Aquifer System 
+Alluvium 
+Normal Annual Rainfall 
+1042.00mm 
+  
+ 
+ 
+ 
+ 
+
+109 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+110 | P a g e 
+ 
+ 
+ 
+ 
+Aquifer Disposition: 
+Aquifer Disposition 
+- 
+Groundwater Monitoring Status 
+2 
+Ground Water Quality 
+It is observed that the ground water is suitable 
+for drinking and domestic uses. 
+Aquifer Potential 
+- 
+Groundwater Resource 
+Annual Extractable Ground Water Resource: 
+46.71 
+Ground water Draft: 31.51 
+Stage of Ground water development: 67.46% 
+Category: safe 
+Existing and Future Water Demand 
+Present demand for all Usages:31.51mcm 
+Future Demand for Domestic and Industrial 
+Use:14.2895mcm 
+ 
+Aquifer management plan 
+Groundwater Management issues 
+Cropping pattern is the main reason as the Gross Ground 
+Water Draft for Irrigation is in excess of Net Annual 
+GW Availability 
+Non-availability of Surface Water for irrigation. 
+High decline observed in northern part (alluvium) 
+because ground water draft exceeds GW recharge for 
+agriculture purpose. 
+AR & Conservation Possibilities 
+Construction of   Artificial  Recharge  structure and 
+water conservation structures, On- Farm activities and 
+adoption of water use efficiency practices 
+Groundwater Management Plan 
+Supply side management: Water conservation and 
+Artificial recharge to ground water and on farm 
+activities. 
+Demand Side Management: Adoption of techniques to 
+enhance water use efficiency viz. sprinkler, drip 
+irrigation and diversification of cropping pattern 
+Status of GW Exploration 
+- 
+Aquifer Characteristics 
+- 
+ 
+
+111 | P a g e 
+ 
+Management Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blocks 
+Area  
+(Sq.Km) 
+Net 
+Annual 
+Ground 
+Water 
+Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water 
+Draft 
+for All 
+Uses 
+(MCM) 
+Present 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected 
+Net GW 
+Availability 
+(MCM) 
+Projected 
+Gross 
+GW 
+Draft 
+(MCM) 
+Projected 
+Stage of 
+Extraction 
+(%) After 
+Interventions 
+HANDIA 
+170.52 
+46.71 
+31.51 
+67.46 
+0.11 
+1.25 
+46.82 
+30.26 
+64.62 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos) 
+Str 
+Dev 
+(Km) 
+Ponds 
+(Nos) 
+On-
+farm 
+(ha) 
+WUE 
+(ha) 
+Rech 
+from 
+Str 
+MCM 
+Saving 
+from 
+Str 
+MCM 
+Saving 
+from 
+On-
+farm 
+& 
+WUE 
+MCM 
+Total 
+Rech 
+MCM 
+Total 
+Saving 
+MCM 
+Present Stage 
+of Ground 
+Water 
+Development 
+(%) 
+Projected 
+Stage of 
+Development 
+(%) After 
+Interventions 
+HANDIA 
+2 
+2 
+2 
+2 
+488 
+488 
+0.11 
+0.11 
+0.14 
+0.11 
+1.25 
+67.46 
+64.62 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+112 | P a g e 
+ 
+Aquifer Map and Management plan of Jasra Block, Prayagraj 
+District, U.P. 
+  
+JASRA BLOCK AT A GLANCE 
+                                                                                    
+General Information:          
+State Name 
+Uttar Pradesh 
+District name 
+Prayagraj 
+Block Name 
+Jasra 
+Geographical area 
+268.22km2 
+Basin/Sub-basin 
+Ganga, Yamuna and Tons 
+Principal Aquifer System 
+Fractured and jointed Sandstone formations of Vindhyan Super 
+Group 
+Major Aquifer System 
+Fractured and jointed Sandstone formations of Vindhyan Super 
+Group 
+Normal Annual Rainfall 
+1042.00mm 
+  
+ 
+ 
+ 
+
+113 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+114 | P a g e 
+ 
+ 
+Aquifer Disposition: 
+Aquifer Disposition 
+- 
+Groundwater Monitoring Status 
+4 
+Ground Water Quality 
+It is observed that the ground water is suitable 
+for drinking and domestic uses. 
+Aquifer Potential 
+- 
+Groundwater Resource 
+Annual Extractable Ground Water Resource: 
+75.86mcm 
+Ground water Draft: 52.87mcm 
+Stage of Ground water development: 69.69% 
+Category: safe 
+Existing and Future Water Demand 
+Present demand for all Usages: 52.86mcm 
+Future Demand for Domestic and Industrial 
+Use: 22.43mcm 
+ 
+Aquifer management plan 
+Groundwater Management issues 
+Cropping pattern is the main reason as the Gross 
+Ground Water Draft for Irrigation is in excess of 
+Net Annual GW Availability 
+Non-availability of Surface Water for irrigation. 
+High decline observed in northern part (alluvium) 
+because ground water draft exceeds GW recharge 
+for agriculture purpose. 
+ 
+AR & Conservation Possibilities 
+Construction of   Artificial  Recharge  structure and 
+water conservation structures, On- Farm activities 
+and adoption of water use efficiency practices 
+Groundwater Management Plan 
+Supply side management: Water conservation and 
+Artificial recharge to ground water and on farm 
+activities. 
+Demand 
+Side 
+Management: 
+Adoption 
+of 
+techniques to enhance water use efficiency viz. 
+sprinkler, drip irrigation and diversification of 
+cropping pattern 
+Status of GW Exploration 
+- 
+Aquifer Characteristics 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+
+115 | P a g e 
+ 
+Management Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos) 
+Str 
+Dev 
+(Km) 
+Ponds 
+(Nos) 
+On-
+farm 
+(ha) 
+WUE 
+(ha) 
+Rech 
+from 
+Str 
+MCM 
+Saving 
+from 
+Str 
+MCM 
+Saving 
+from 
+On-
+farm 
+& 
+WUE 
+MCM 
+Total 
+Rech 
+MCM 
+Total 
+Saving 
+MCM 
+Present 
+Stage of 
+Ground 
+Water 
+Development 
+(%) 
+Projected 
+Stage of 
+Developm
+ent (%) 
+After 
+Interventi
+ons 
+JASRA 
+3 
+3 
+3 
+3 
+910 
+910 
+0.17 
+0.17 
+2.01 
+0.17 
+2.18 
+69.69 
+66.66 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blocks 
+Area  
+(Sq.Km) 
+Net 
+Annual 
+Ground 
+Water 
+Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water 
+Draft 
+for All 
+Uses 
+(MCM) 
+Present 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected 
+Net GW 
+Availability 
+(MCM) 
+Projected 
+Gross 
+GW 
+Draft 
+(MCM) 
+Projected 
+Stage of 
+Extraction 
+(%) After 
+Interventions 
+JASRA 
+268.22 
+75.86 
+52.87 
+69.69 
+0.17 
+2.18 
+76.03 
+50.69 
+66.66 
+
+116 | P a g e 
+ 
+     Aquifer Map and Management plan of Karchana Block, 
+Prayagraj District, U.P. 
+  
+KARCHANA BLOCK AT A GLANCE 
+                                                                              
+ 
+General Information:                    
+State Name 
+Uttar Pradesh 
+District name 
+Prayagraj 
+Block Name 
+Karchana 
+Geographical area 
+232.81km2 
+Basin/Sub-basin 
+Ganga, Yamuna and Tons 
+Principal Aquifer System 
+Alluvium 
+Major Aquifer System 
+Alluvium 
+Normal Annual Rainfall 
+1042.00mm 
+  
+  
+ 
+ 
+
+117 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+118 | P a g e 
+ 
+Aquifer Disposition: 
+Aquifer Disposition 
+- 
+Groundwater Monitoring Status 
+2 
+Ground Water Quality 
+It is observed that the ground water is suitable 
+for drinking and domestic uses. 
+ 
+Aquifer Potential 
+- 
+Groundwater Resource 
+Annual Extractable Ground Water 
+Resource:79.47mcm 
+Ground water Draft: 52.16mcm 
+Stage of Ground water development: 65.63% 
+Category: Safe 
+Existing and Future Water Demand 
+Present demand for all Usages: 52.15mcm 
+Future Demand for Domestic and Industrial 
+Use: 26.59mcm 
+ 
+Aquifer management plan 
+Groundwater Management issues 
+Cropping pattern is the main reason as the Gross 
+Ground Water Draft for Irrigation is in excess of 
+Net Annual GW Availability 
+Non-availability of Surface Water for irrigation. 
+High 
+decline 
+observed 
+in 
+northern 
+part 
+(alluvium) because ground water draft exceeds 
+GW recharge for agriculture purpose. 
+AR & Conservation Possibilities 
+Construction of   Artificial  Recharge  structure 
+and water conservation structures, On- Farm 
+activities and adoption of water use efficiency 
+practices 
+Groundwater Management Plan 
+Supply side management: Water conservation 
+and Artificial recharge to ground water and on 
+farm activities. 
+Demand Side Management: Adoption of 
+techniques to enhance water use efficiency viz. 
+sprinkler, drip irrigation and diversification of 
+cropping pattern 
+Status of GW Exploration 
+- 
+Aquifer Characteristics 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+
+119 | P a g e 
+ 
+Management Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos) 
+Str 
+Dev 
+(Km) 
+Ponds 
+(Nos) 
+On-
+farm 
+(ha) 
+WUE 
+(ha) 
+Rech 
+from 
+Str 
+MCM 
+Saving 
+from 
+Str 
+MCM 
+Saving 
+from 
+On-
+farm 
+& 
+WUE 
+MCM 
+Total 
+Rech 
+MCM 
+Total 
+Saving 
+MCM 
+Present 
+Stage of 
+Ground 
+Water 
+Development 
+(%) 
+Projected 
+Stage of 
+Developme
+nt (%) 
+After 
+Interventio
+ns 
+Karchana 
+2 
+2 
+2 
+2 
+791 
+791 
+0.15 
+0.15 
+1.71 
+0.15 
+1.86 
+65.63 
+63.17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blocks 
+Area  
+(Sq.K
+m) 
+Net 
+Annual 
+Ground 
+Water 
+Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water 
+Draft 
+for All 
+Uses 
+(MCM) 
+Present 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected 
+Net GW 
+Availability 
+(MCM) 
+Projected 
+Gross 
+GW 
+Draft 
+(MCM) 
+Projected 
+Stage of 
+Extraction 
+(%) After 
+Interventio
+ns 
+Karchana 
+232.8
+1 
+79.47 
+52.16 
+65.63 
+0.15 
+1.86 
+79.62 
+50.30 
+63.17 
+
+120 | P a g e 
+ 
+Aquifer Map and Management plan of Kaudhiyara Block, 
+Prayagraj District, U.P. 
+  
+KAUDHIYARA BLOCK AT A GLANCE 
+ General Information:        
+State Name 
+Uttar Pradesh 
+District name 
+Prayagraj 
+Block Name 
+Jasra 
+Geographical area 
+268.22km2 
+Basin/Sub-basin 
+Ganga, Yamuna and Tons 
+Principal Aquifer System 
+Alluvium 
+Major Aquifer System 
+Alluvium 
+Normal Annual Rainfall 
+1042.00mm 
+  
+ 
+ 
+ 
+ 
+
+121 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+122 | P a g e 
+ 
+Aquifer Disposition: 
+Aquifer Disposition 
+- 
+Groundwater Monitoring Status 
+2 
+Ground Water Quality 
+It is observed that the ground water is suitable 
+for drinking and domestic uses. 
+ 
+Aquifer Potential 
+- 
+Groundwater Resource 
+Annual Extractable Ground Water 
+Recharge:68.37 
+Ground water Draft: 41.17 
+Stage of Ground water development: 60.22 
+Category: safe 
+Existing and Future Water Demand 
+Present demand for all Usages: 41.17 
+Future Demand for Domestic and Industrial 
+Use: 26.42 
+ 
+Aquifer management plan 
+Groundwater Management issues 
+Cropping pattern is the main reason as the Gross 
+Ground Water Draft for Irrigation is in excess of 
+Net Annual GW Availability 
+Non-availability of Surface Water for irrigation. 
+High 
+decline 
+observed 
+in 
+northern 
+part 
+(alluvium) because ground water draft exceeds 
+GW recharge for agriculture purpose. 
+AR & Conservation Possibilities 
+Construction of   Artificial  Recharge  structure 
+and water conservation structures, On- Farm 
+activities and adoption of water use efficiency 
+practices 
+Groundwater Management Plan 
+Supply side management: Water conservation 
+and Artificial recharge to ground water and on 
+farm activities. 
+Demand Side Management: Adoption of 
+techniques to enhance water use efficiency viz. 
+sprinkler, drip irrigation and diversification of 
+cropping pattern 
+Status of GW Exploration 
+- 
+Aquifer Characteristics 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+
+123 | P a g e 
+ 
+Management Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos) 
+Str 
+Dev 
+(Km) 
+Ponds 
+(Nos) 
+On-
+farm 
+(ha) 
+WUE 
+(ha) 
+Rech 
+from 
+Str 
+MCM 
+Saving 
+from 
+Str 
+MCM 
+Saving 
+from 
+On-
+farm 
+& 
+WUE 
+MCM 
+Total 
+Rech 
+MCM 
+Total 
+Saving 
+MCM 
+Present 
+Stage of 
+Ground 
+Water 
+Development 
+(%) 
+Projected 
+Stage of 
+Developm
+ent (%) 
+After 
+Interventi
+ons 
+KAUDHIYARA 
+2 
+2 
+2 
+2 
+782 
+782 
+0.13 
+0.13 
+1.39 
+0.13 
+1.52 
+60.22 
+57.88 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blocks 
+Area  
+(Sq.Km) 
+Net 
+Annual 
+Ground 
+Water 
+Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water 
+Draft 
+for All 
+Uses 
+(MCM) 
+Present 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected 
+Net GW 
+Availability 
+(MCM) 
+Projected 
+Gross 
+GW 
+Draft 
+(MCM) 
+Projected 
+Stage of 
+Extraction 
+(%) After 
+Interventions 
+KAUDHIYARA 
+200.46 
+68.37 
+41.17 
+60.22 
+0.13 
+1.52 
+68.50 
+39.65 
+57.88 
+
+124 | P a g e 
+ 
+Aquifer Map and Management plan of Kaurihar Block, 
+Prayagraj District, U.P. 
+  
+KAURIHAR   BLOCK AT A GLANCE 
+                               
+General Information:                 
+State Name 
+Uttar Pradesh 
+District name 
+Prayagraj 
+Block Name 
+Kaurihar 
+Geographical area 
+414.14km2 
+Basin/Sub-basin 
+Ganga, Yamuna and Tons 
+Principal Aquifer System 
+Alluvium 
+Major Aquifer System 
+Alluvium 
+Normal Annual Rainfall 
+1042.00mm 
+  
+ 
+ 
+ 
+ 
+ 
+
+125 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+126 | P a g e 
+ 
+Aquifer Disposition: 
+Aquifer Disposition 
+- 
+Groundwater Monitoring Status 
+2 
+Ground Water Quality 
+It is observed that the ground water is suitable 
+for drinking and domestic uses. 
+Aquifer Potential 
+- 
+Groundwater Resource 
+Annual Extractable Ground Water 
+Recharge:85.40mcm 
+Ground water Draft:56.61mcm 
+Stage of Ground water development:66.28% 
+Category: safe 
+Existing and Future Water Demand 
+Present demand for all Usages:56.61mcm 
+Future Demand for Domestic and Industrial 
+Use:27.80mcm 
+ 
+Aquifer management plan 
+Groundwater Management issues 
+Cropping pattern is the main reason as the Gross 
+Ground Water Draft for Irrigation is in excess of 
+Net Annual GW Availability 
+Non-availability of Surface Water for irrigation. 
+High 
+decline 
+observed 
+in 
+northern 
+part 
+(alluvium) because ground water draft exceeds 
+GW recharge for agriculture purpose. 
+AR & Conservation Possibilities 
+Construction of   Artificial  Recharge  structure 
+and water conservation structures, On- Farm 
+activities and adoption of water use efficiency 
+practices 
+Groundwater Management Plan 
+Supply side management: Water conservation 
+and Artificial recharge to ground water and on 
+farm activities. 
+Demand Side Management: Adoption of 
+techniques to enhance water use efficiency viz. 
+sprinkler, drip irrigation and diversification of 
+cropping pattern 
+Status of GW Exploration 
+- 
+Aquifer Characteristics 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+127 | P a g e 
+ 
+Management Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos) 
+Str 
+Dev 
+(Km) 
+Ponds 
+(Nos) 
+On-
+farm 
+(ha) 
+WUE 
+(ha) 
+Rech 
+from 
+Str 
+MCM 
+Saving 
+from 
+Str 
+MCM 
+Saving 
+from 
+On-
+farm 
+& 
+WUE 
+MCM 
+Total 
+Rech 
+MCM 
+Total 
+Saving 
+MCM 
+Present 
+Stage of 
+Ground 
+Water 
+Development 
+(%) 
+Projected 
+Stage of 
+Developm
+ent (%) 
+After 
+Interventi
+ons 
+KAURIHAR 
+3 
+3 
+3 
+3 
+910 
+910 
+0.17 
+0.17 
+2.01 
+0.17 
+2.18 
+69.28 
+66.66 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blocks 
+Area  
+(Sq.Km) 
+Net 
+Annual 
+Ground 
+Water 
+Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water 
+Draft 
+for All 
+Uses 
+(MCM) 
+Present 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected 
+Net GW 
+Availability 
+(MCM) 
+Projected 
+Gross 
+GW 
+Draft 
+(MCM) 
+Projected 
+Stage of 
+Extraction 
+(%) After 
+Interventions 
+KAURIHAR 
+414.14 
+85.40 
+56.61 
+66.28 
+0.26 
+2.12 
+85.67 
+54.49 
+63.60 
+
+128 | P a g e 
+ 
+Aquifer Map and Management plan of Koraon Block, Prayagraj 
+District, U.P. 
+  
+KORAON BLOCK AT A GLANCE 
+                                                                                     
+ 
+General Information:       
+State Name 
+Uttar Pradesh 
+District name 
+Prayagraj 
+Block Name 
+Koraon 
+Geographical area 
+726.42km2 
+Basin/Sub-basin 
+Ganga, Yamuna and Tons 
+Principal Aquifer System 
+Fractured and jointed Sandstone formations of 
+Vindhyan Super Group 
+Major Aquifer System 
+Fractured and jointed Sandstone formations of 
+Vindhyan Super Group 
+Normal Annual Rainfall 
+1042.00mm 
+  
+ 
+ 
+ 
+ 
+
+129 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+130 | P a g e 
+ 
+Aquifer Disposition: 
+Aquifer Disposition 
+- 
+Groundwater Monitoring Status 
+5 
+Ground Water Quality 
+It is observed that the ground water is suitable 
+for drinking and domestic uses. 
+Aquifer Potential 
+- 
+Groundwater Resource 
+Annual Extractable Ground Water Resource 
+:96.56 
+Ground water Draft: 55.80 
+Stage of Ground water development:57.79% 
+Category: safe 
+Existing and Future Water Demand 
+Present demand for all Usages:55.80mcm 
+Future Demand for Domestic and Industrial 
+Use:39.73mcm 
+ 
+Aquifer management plan 
+Groundwater Management issues 
+Cropping pattern is the main reason as the Gross 
+Ground Water Draft for Irrigation is in excess of 
+Net Annual GW Availability 
+Non-availability of Surface Water for irrigation. 
+High 
+decline 
+observed 
+in 
+northern 
+part 
+(alluvium) because ground water draft exceeds 
+GW recharge for agriculture purpose. 
+AR & Conservation Possibilities 
+Construction of   Artificial  Recharge  structure 
+and water conservation structures, On- Farm 
+activities and adoption of water use efficiency 
+practices 
+Groundwater Management Plan 
+Supply side management: Water conservation 
+and Artificial recharge to ground water and on 
+farm activities. 
+Demand Side Management: Adoption of 
+techniques to enhance water use efficiency viz. 
+sprinkler, drip irrigation and diversification of 
+cropping pattern 
+Status of GW Exploration 
+- 
+Aquifer Characteristics 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+131 | P a g e 
+ 
+Management Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos) 
+Str 
+Dev 
+(Km) 
+Ponds 
+(Nos) 
+On-
+farm 
+(ha) 
+WUE 
+(ha) 
+Rech 
+from 
+Str 
+MCM 
+Saving 
+from 
+Str 
+MCM 
+Saving 
+from 
+On-
+farm 
+& 
+WUE 
+MCM 
+Total 
+Rech 
+MCM 
+Total 
+Saving 
+MCM 
+Present 
+Stage of 
+Ground 
+Water 
+Development 
+(%) 
+Projected 
+Stage of 
+Developm
+ent (%) 
+After 
+Interventi
+ons 
+KORAON 
+7 
+7 
+7 
+7 
+2254 
+2254 
+0.46 
+0.46 
+1.83 
+0.46 
+2.29 
+57.79 
+55.15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blocks 
+Area  
+(Sq.Km) 
+Net 
+Annual 
+Ground 
+Water 
+Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water 
+Draft 
+for All 
+Uses 
+(MCM) 
+Present 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected 
+Net GW 
+Availability 
+(MCM) 
+Projected 
+Gross 
+GW 
+Draft 
+(MCM) 
+Projected 
+Stage of 
+Extraction 
+(%) After 
+Interventions 
+KORAON 
+726.42 
+96.56 
+55.80 
+57.79 
+0.46 
+2.29 
+97.02 
+53.51 
+55.15 
+
+132 | P a g e 
+ 
+Aquifer Map and Management plan of Manda Block, Prayagraj 
+District, U.P. 
+  
+MANDA BLOCK AT A GLANCE 
+                                                                                      
+ 
+General Information:                
+State Name 
+Uttar Pradesh 
+District name 
+Prayagraj 
+Block Name 
+Manda 
+Geographical area 
+349.43km2 
+Basin/Sub-basin 
+Ganga, Yamuna and Tons 
+Principal Aquifer System 
+Fractured and jointed Sandstone formations of Vindhyan 
+Super Group 
+Major Aquifer System 
+Fractured and jointed Sandstone formations of Vindhyan 
+Super Group 
+Normal Annual Rainfall 
+1042.00mm 
+ 
+ 
+
+133 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+134 | P a g e 
+ 
+ 
+Aquifer Disposition: 
+Aquifer Disposition 
+- 
+Groundwater Monitoring Status 
+2 
+Ground Water Quality 
+It is observed that the ground water is suitable 
+for drinking and domestic uses. 
+ 
+Aquifer Potential 
+- 
+Groundwater Resource 
+Annual Extractable Ground Water Resource: 
+51.25mcm 
+Ground water Draft:32.95mcm 
+Stage of Ground water development:64.3% 
+Category: safe 
+Existing and Future Water Demand 
+Present demand for all Usages:32.95mcm 
+Future Demand for Domestic and Industrial 
+Use:17.43mcm 
+ 
+Aquifer management plan 
+Groundwater Management issues 
+Cropping pattern is the main reason as the Gross 
+Ground Water Draft for Irrigation is in excess of 
+Net Annual GW Availability 
+Non-availability of Surface Water for irrigation. 
+High 
+decline 
+observed 
+in 
+northern 
+part 
+(alluvium) because ground water draft exceeds 
+GW recharge for agriculture purpose. 
+AR & Conservation Possibilities 
+Construction of   Artificial  Recharge  structure 
+and water conservation structures, On- Farm 
+activities and adoption of water use efficiency 
+practices 
+Groundwater Management Plan 
+Supply side management: Water conservation 
+and Artificial recharge to ground water and on 
+farm activities. 
+Demand Side Management: Adoption of 
+techniques to enhance water use efficiency viz. 
+sprinkler, drip irrigation and diversification of 
+cropping pattern 
+Status of GW Exploration 
+- 
+Aquifer Characteristics 
+- 
+ 
+ 
+ 
+ 
+ 
+
+135 | P a g e 
+ 
+Management Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos) 
+Str 
+Dev 
+(Km) 
+Ponds 
+(Nos) 
+On-
+farm 
+(ha) 
+WUE 
+(ha) 
+Rech 
+from 
+Str 
+MCM 
+Saving 
+from 
+Str 
+MCM 
+Saving 
+from 
+On-
+farm 
+& 
+WUE 
+MCM 
+Total 
+Rech 
+MCM 
+Total 
+Saving 
+MCM 
+Present 
+Stage of 
+Ground 
+Water 
+Development 
+(%) 
+Projected 
+Stage of 
+Developm
+ent (%) 
+After 
+Interventi
+ons 
+MANDA 
+3 
+3 
+3 
+3 
+689 
+689 
+0.22 
+0.22 
+1.06 
+0.22 
+1.29 
+64.31 
+61.53 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blocks 
+Area  
+(Sq.Km) 
+Net 
+Annual 
+Ground 
+Water 
+Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water 
+Draft 
+for All 
+Uses 
+(MCM) 
+Present 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected 
+Net GW 
+Availability 
+(MCM) 
+Projected 
+Gross 
+GW 
+Draft 
+(MCM) 
+Projected 
+Stage of 
+Extraction 
+(%) After 
+Interventions 
+MANDA 
+349.43 
+51.25 
+32.95 
+64.31 
+0.22 
+1.29 
+51.47 
+31.67 
+61.53 
+
+136 | P a g e 
+ 
+Aquifer Map and Management plan of Meja Block, Prayagraj 
+District, U.P. 
+  
+MEJA BLOCK AT A GLANCE 
+ 
+General Information: 
+State Name 
+Uttar Pradesh 
+District name 
+Prayagraj 
+Block Name 
+Meja 
+Geographical area 
+444.21km2 
+Basin/Sub-basin 
+Ganga, Yamuna and Tons 
+Principal Aquifer System 
+Fractured and jointed Sandstone formations of 
+Vindhyan Super Group 
+Major Aquifer System 
+Fractured and jointed Sandstone formations of 
+Vindhyan Super Group 
+Normal Annual Rainfall 
+1042.00mm 
+  
+ 
+ 
+ 
+ 
+
+137 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+138 | P a g e 
+ 
+Aquifer Disposition: 
+Aquifer Disposition 
+- 
+Groundwater Monitoring Status 
+1 
+Ground Water Quality 
+It is observed that the ground water is suitable 
+for drinking and domestic uses. 
+ 
+Aquifer Potential 
+- 
+Groundwater Resource 
+Annual Extractable Ground Water 
+Resource:75.53mcm 
+Ground water Draft: 38.71mcm 
+Stage of Ground water development:51.25% 
+Category: safe 
+Existing and Future Water Demand 
+Present demand for all Usages:38.71mcm 
+Future Demand for Domestic and Industrial 
+Use:35.80mcm 
+ 
+Aquifer management plan 
+Groundwater Management issues 
+Cropping pattern is the main reason as the Gross 
+Ground Water Draft for Irrigation is in excess of 
+Net Annual GW Availability 
+Non-availability of Surface Water for irrigation. 
+High 
+decline 
+observed 
+in 
+northern 
+part 
+(alluvium) because ground water draft exceeds 
+GW recharge for agriculture purpose. 
+AR & Conservation Possibilities 
+Construction of   Artificial  Recharge  structure 
+and water conservation structures, On- Farm 
+activities and adoption of water use efficiency 
+practices 
+Groundwater Management Plan 
+Supply side management: Water conservation 
+and Artificial recharge to ground water and on 
+farm activities. 
+Demand Side Management: Adoption of 
+techniques to enhance water use efficiency viz. 
+sprinkler, drip irrigation and diversification of 
+cropping pattern 
+Status of GW Exploration 
+- 
+Aquifer Characteristics 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+
+139 | P a g e 
+ 
+Management Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos) 
+Str 
+Dev 
+(Km) 
+Ponds 
+(Nos) 
+On-
+farm 
+(ha) 
+WUE 
+(ha) 
+Rech 
+from 
+Str 
+MCM 
+Saving 
+from 
+Str 
+MCM 
+Saving 
+from 
+On-
+farm 
+& 
+WUE 
+MCM 
+Total 
+Rech 
+MCM 
+Total 
+Saving 
+MCM 
+Present 
+Stage of 
+Ground 
+Water 
+Development 
+(%) 
+Projected 
+Stage of 
+Developme
+nt (%) 
+After 
+Interventio
+ns 
+MEJA 
+4 
+4 
+4 
+4 
+1204 
+1204 
+0.28 
+0.28 
+1.19 
+0.28 
+1.47 
+51.25 
+49.12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blocks 
+Area  
+(Sq.Km) 
+Net 
+Annual 
+Ground 
+Water 
+Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water 
+Draft 
+for All 
+Uses 
+(MCM) 
+Present 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected 
+Net GW 
+Availability 
+(MCM) 
+Projected 
+Gross 
+GW 
+Draft 
+(MCM) 
+Projected 
+Stage of 
+Extraction 
+(%) After 
+Interventio
+ns 
+MEJA 
+444.21 
+75.53 
+38.71 
+51.25 
+0.28 
+1.47 
+75.82 
+37.24 
+49.12 
+
+140 | P a g e 
+ 
+   Aquifer Map and Management plan of Phulpur Block, 
+Prayagraj District, U.P. 
+ 
+PHULPUR BLOCK AT A GLANCE 
+ 
+General Information:                    
+State Name 
+Uttar Pradesh 
+District name 
+Prayagraj 
+Block Name 
+Phulpur 
+Geographical area 
+231.54km2 
+Basin/Sub-basin 
+Ganga, Yamuna and Tons 
+Principal Aquifer System 
+Alluvium 
+Major Aquifer System 
+Alluvium 
+Normal Annual Rainfall 
+1042.00mm 
+  
+ 
+
+141 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+142 | P a g e 
+ 
+Aquifer Disposition: 
+Aquifer Disposition 
+- 
+Groundwater Monitoring Status 
+3 
+Ground Water Quality 
+It is observed that the ground water is suitable 
+for drinking and domestic uses. 
+ 
+Aquifer Potential 
+- 
+Groundwater Resource 
+Annual Extractable Ground Water 
+Resource:64.33mcm 
+Ground water Draft:42.94mcm 
+Stage of Ground water development:40.98% 
+Category: safe 
+Existing and Future Water Demand 
+Present demand for all Usages:42.93mcm 
+Future Demand for Domestic and Industrial 
+Use:20.77mcm 
+ 
+Aquifer management plan 
+Groundwater Management issues 
+Cropping pattern is the main reason as the Gross 
+Ground Water Draft for Irrigation is in excess of 
+Net Annual GW Availability 
+Non-availability of Surface Water for irrigation. 
+High 
+decline 
+observed 
+in 
+northern 
+part 
+(alluvium) because ground water draft exceeds 
+GW recharge for agriculture purpose. 
+AR & Conservation Possibilities 
+Construction of   Artificial  Recharge  structure 
+and water conservation structures, On- Farm 
+activities and adoption of water use efficiency 
+practices 
+Groundwater Management Plan 
+Supply side management: Water conservation 
+and Artificial recharge to ground water and on 
+farm activities. 
+Demand Side Management: Adoption of 
+techniques to enhance water use efficiency viz. 
+sprinkler, drip irrigation and diversification of 
+cropping pattern 
+Status of GW Exploration 
+- 
+Aquifer Characteristics 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+143 | P a g e 
+ 
+Management Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos) 
+Str 
+Dev 
+(Km) 
+Ponds 
+(Nos) 
+On-
+farm 
+(ha) 
+WUE 
+(ha) 
+Rech 
+from 
+Str 
+MCM 
+Saving 
+from 
+Str 
+MCM 
+Saving 
+from 
+On-
+farm 
+& 
+WUE 
+MCM 
+Total 
+Rech 
+MCM 
+Total 
+Saving 
+MCM 
+Present 
+Stage of 
+Ground 
+Water 
+Development 
+(%) 
+Projected 
+Stage of 
+Developme
+nt (%) 
+After 
+Interventio
+ns 
+PHULPUR 
+2 
+2 
+2 
+2 
+551 
+551 
+0.15 
+0.15 
+1.81 
+0.15 
+1.96 
+66.75 
+63.55 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blocks 
+Area  
+(Sq.Km) 
+Net 
+Annual 
+Ground 
+Water 
+Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water 
+Draft 
+for All 
+Uses 
+(MCM) 
+Present 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected 
+Net GW 
+Availability 
+(MCM) 
+Projected 
+Gross 
+GW 
+Draft 
+(MCM) 
+Projected 
+Stage of 
+Extraction 
+(%) After 
+Interventions 
+PHULPUR 
+231.54 
+64.33 
+42.94 
+66.75 
+0.15 
+1.96 
+64.48 
+40.98 
+63.55 
+
+144 | P a g e 
+ 
+Aquifer Map and Management plan of Shankargarh Block, 
+Prayagraj District, U.P. 
+  
+SHANKARGARH BLOCK AT A GLANCE 
+ 
+General Information: 
+State Name 
+Uttar Pradesh 
+District name 
+Prayagraj 
+Block Name 
+Shankargarh 
+Geographical area 
+472.08km2 
+Basin/Sub-basin 
+Ganga, Yamuna and Tons 
+Principal Aquifer System 
+Fractured and jointed Sandstone formations of 
+Vindhyan Super Group 
+Major Aquifer System 
+Fractured and jointed Sandstone formations of 
+Vindhyan Super Group 
+Normal Annual Rainfall 
+1042.00mm 
+  
+ 
+ 
+ 
+
+145 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+146 | P a g e 
+ 
+ 
+Aquifer Disposition: 
+Aquifer Disposition 
+- 
+Groundwater Monitoring Status 
+5 
+Ground Water Quality 
+It is observed that the ground water is suitable 
+for drinking and domestic uses. 
+ 
+Aquifer Potential 
+- 
+Groundwater Resource 
+Annual Extractable Ground Water 
+Recharge:68.15mcm 
+Ground water Draft:40.60mcm 
+Stage of Ground water development:59.58% 
+Category: safe 
+Existing and Future Water Demand 
+Present demand for all Usages:40.60mcm 
+Future Demand for Domestic and Industrial 
+Use:26.86mcm 
+ 
+Aquifer management plan 
+Groundwater Management issues 
+Cropping pattern is the main reason as the Gross 
+Ground Water Draft for Irrigation is in excess of 
+Net Annual GW Availability 
+Non-availability of Surface Water for irrigation. 
+High 
+decline 
+observed 
+in 
+northern 
+part 
+(alluvium) because ground water draft exceeds 
+GW recharge for agriculture purpose. 
+AR & Conservation Possibilities 
+Construction of   Artificial  Recharge  structure 
+and water conservation structures, On- Farm 
+activities and adoption of water use efficiency 
+practices 
+Groundwater Management Plan 
+Supply side management: Water conservation 
+and Artificial recharge to ground water and on 
+farm activities. 
+Demand Side Management: Adoption of 
+techniques to enhance water use efficiency viz. 
+sprinkler, drip irrigation and diversification of 
+cropping pattern 
+Status of GW Exploration 
+- 
+Aquifer Characteristics 
+- 
+ 
+ 
+ 
+ 
+ 
+
+147 | P a g e 
+ 
+Management Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos) 
+Str 
+Dev 
+(Km) 
+Ponds 
+(Nos) 
+On-
+farm 
+(ha) 
+WUE 
+(ha) 
+Rech 
+from 
+Str 
+MCM 
+Saving 
+from 
+Str 
+MCM 
+Saving 
+from 
+On-
+farm 
+& 
+WUE 
+MCM 
+Total 
+Rech 
+MCM 
+Total 
+Saving 
+MCM 
+Present 
+Stage of 
+Ground 
+Water 
+Development 
+(%) 
+Projected 
+Stage of 
+Developm
+ent (%) 
+After 
+Interventi
+ons 
+SHANKARGARH 
+5 
+5 
+5 
+5 
+1114 
+1114 
+0.30 
+0.30 
+1.50 
+0.30 
+1.80 
+59.58 
+56.68 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+Area  
+(Sq.Km) 
+Net 
+Annual 
+Ground 
+Water 
+Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water 
+Draft 
+for All 
+Uses 
+(MCM) 
+Present 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected 
+Net GW 
+Availability 
+(MCM) 
+Projected 
+Gross 
+GW 
+Draft 
+(MCM) 
+Projected 
+Stage of 
+Extractio
+n (%) 
+After 
+Interventi
+ons 
+SHANKARGARH 
+472.08 
+68.15 
+40.60 
+59.58 
+0.30 
+1.80 
+68.45 
+38.80 
+56.68 
+
+148 | P a g e 
+ 
+Aquifer Map and Management plan of Meja Block, Prayagraj 
+District, U.P. 
+  
+SORAON BLOCK AT A GLANCE 
+ 
+General Information:         
+State Name 
+Uttar Pradesh 
+District name 
+Prayagraj 
+Block Name 
+Soraon 
+Geographical area 
+147.75km2 
+Basin/Sub-basin 
+Ganga, Yamuna and Tons 
+Principal Aquifer System 
+Alluvium 
+Major Aquifer System 
+Alluvium 
+Normal Annual Rainfall 
+1042.00mm 
+ 
+ 
+ 
+
+149 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+150 | P a g e 
+ 
+Aquifer Disposition: 
+Aquifer Disposition 
+- 
+Groundwater Monitoring Status 
+- 
+Ground Water Quality 
+It is observed that the ground water is suitable 
+for drinking and domestic uses. 
+Aquifer Potential 
+- 
+Groundwater Resource 
+Annual Extractable Ground Water Recharge: 
+43.08mcm 
+Ground water Draft:29.45mcm 
+Stage of Ground water development:68.36% 
+Category: Safe 
+Existing and Future Water Demand 
+Present demand for all Usages:29.45mcm 
+Future Demand for Domestic and Industrial 
+Use:13.16mcm 
+ 
+Aquifer management plan 
+Groundwater Management issues 
+Cropping pattern is the main reason as the Gross 
+Ground Water Draft for Irrigation is in excess of 
+Net Annual GW Availability 
+Non-availability of Surface Water for irrigation. 
+High 
+decline 
+observed 
+in 
+northern 
+part 
+(alluvium) because ground water draft exceeds 
+GW recharge for agriculture purpose. 
+AR & Conservation Possibilities 
+Construction of   Artificial  Recharge  structure 
+and water conservation structures, On- Farm 
+activities and adoption of water use efficiency 
+practices 
+Groundwater Management Plan 
+Supply side management: Water conservation 
+and Artificial recharge to ground water and on 
+farm activities. 
+Demand Side Management: Adoption of 
+techniques to enhance water use efficiency viz. 
+sprinkler, drip irrigation and diversification of 
+cropping pattern 
+Status of GW Exploration 
+- 
+Aquifer Characteristics 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+151 | P a g e 
+ 
+Management Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos) 
+Str 
+Dev 
+(Km) 
+Ponds 
+(Nos) 
+On-
+farm 
+(ha) 
+WUE 
+(ha) 
+Rech 
+from 
+Str 
+MCM 
+Saving 
+from 
+Str 
+MCM 
+Saving 
+from 
+On-
+farm 
+& 
+WUE 
+MCM 
+Total 
+Rech 
+MCM 
+Total 
+Saving 
+MCM 
+Present 
+Stage of 
+Ground 
+Water 
+Development 
+(%) 
+Projected 
+Stage of 
+Development 
+(%) After 
+Interventions 
+SORAON 
+1 
+1 
+1 
+1 
+479 
+479 
+0.09 
+0.09 
+1.03 
+0.09 
+1.13 
+68.36 
+65.59 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+Area  
+(Sq.Km) 
+Net 
+Annual 
+Ground 
+Water 
+Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water 
+Draft 
+for All 
+Uses 
+(MCM) 
+Present 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected 
+Net GW 
+Availability 
+(MCM) 
+Projected 
+Gross 
+GW 
+Draft 
+(MCM) 
+Projected 
+Stage of 
+Extraction 
+(%) After 
+Interventions 
+SORAON 
+147.75 
+43.08 
+29.45 
+68.36 
+0.09 
+1.13 
+43.18 
+28.32 
+65.59 
+
+152 | P a g e 
+ 
+Aquifer Map and Management plan of Uruwan Block, Prayagraj 
+District, U.P. 
+  
+URUWAN BLOCK AT A GLANCE 
+ 
+General Information:               
+State Name 
+Uttar Pradesh 
+District name 
+Prayagraj 
+Block Name 
+Uruwan 
+Geographical area 
+168.9km2 
+Basin/Sub-basin 
+Ganga, Yamuna and Tons 
+Principal Aquifer System 
+Alluvium 
+Major Aquifer System 
+Alluvium 
+Normal Annual Rainfall 
+1042.00mm 
+  
+ 
+ 
+ 
+ 
+
+153 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+154 | P a g e 
+ 
+Aquifer Disposition: 
+Aquifer Disposition 
+- 
+Groundwater Monitoring Status 
+- 
+Ground Water Quality 
+It is observed that the ground water is suitable 
+for drinking and domestic uses. 
+ 
+Aquifer Potential 
+- 
+Groundwater Resource 
+Annual Extractable Ground Water 
+Resource:57.19mcm 
+Ground water Draft:38.43mcm 
+Stage of Ground water development:67.20% 
+Category: Safe 
+Existing and Future Water Demand 
+Present demand for all Usages:29.45mcm 
+Future Demand for Domestic and Industrial 
+Use:13.16mcm 
+ 
+Aquifer management plan 
+Groundwater Management issues 
+Cropping pattern is the main reason as the Gross 
+Ground Water Draft for Irrigation is in excess of 
+Net Annual GW Availability 
+Non-availability of Surface Water for irrigation. 
+High 
+decline 
+observed 
+in 
+northern 
+part 
+(alluvium) because ground water draft exceeds 
+GW recharge for agriculture purpose. 
+AR & Conservation Possibilities 
+Construction of   Artificial  Recharge  structure 
+and water conservation structures, On- Farm 
+activities and adoption of water use efficiency 
+practices 
+Groundwater Management Plan 
+Supply side management: Water conservation 
+and Artificial recharge to ground water and on 
+farm activities. 
+Demand Side Management: Adoption of 
+techniques to enhance water use efficiency viz. 
+sprinkler, drip irrigation and diversification of 
+cropping pattern 
+Status of GW Exploration 
+- 
+Aquifer Characteristics 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+
+155 | P a g e 
+ 
+Management Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+CDs 
+(Nos) 
+NBs 
+(Nos
+) 
+Str 
+Dev 
+(Km
+) 
+Pond
+s 
+(Nos) 
+On-
+far
+m 
+(ha) 
+WU
+E 
+(ha) 
+Rech 
+from 
+Str 
+MC
+M 
+Savin
+g 
+from 
+Str 
+MCM 
+Savin
+g 
+from 
+On-
+farm 
+& 
+WUE 
+MCM 
+Total 
+Rech 
+MC
+M 
+Total 
+Savin
+g 
+MCM 
+Present 
+Stage of 
+Ground 
+Water 
+Developme
+nt (%) 
+Projec
+ted 
+Stage 
+of 
+Devel
+opme
+nt (%) 
+After 
+Interv
+ention
+s 
+URUWAN 
+2 
+2 
+2 
+2 
+482 
+482 
+0.11 
+0.11 
+1.36 
+0.11 
+1.47 
+67.20 
+64.51 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Block 
+Area  
+(Sq.Km) 
+Net 
+Annual 
+Ground 
+Water 
+Avail-
+ability 
+(MCM) 
+Existing 
+Gross 
+Ground 
+Water 
+Draft 
+for All 
+Uses 
+(MCM) 
+Present 
+Stage of 
+Ground 
+Water 
+Extraction 
+(%) 
+TOT RECH 
+through 
+interventions 
+(MCM) 
+Tot GW 
+Saving 
+through 
+interventions 
+(MCM) 
+Projected 
+Net GW 
+Availability 
+(MCM) 
+Projected 
+Gross 
+GW 
+Draft 
+(MCM) 
+Projected 
+Stage of 
+Extraction 
+(%) After 
+Interventions 
+URUWAN 
+168.9 
+57.19 
+38.43 
+67.20 
+0.11 
+1.47 
+57.30 
+36.96 
+64.51 
